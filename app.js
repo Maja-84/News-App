@@ -68,9 +68,9 @@
 
   function renderTabs() {
     const n = followHits().length;
-    const tabs = [{ id: "uebersicht", titel: "Übersicht" }, ...data.rubriken.map(r => ({ id: r.id, titel: r.titel })), { id: "folgen", titel: "Folgen", badge: n }];
+    const tabs = [{ id: "uebersicht", titel: "Übersicht" }, ...data.rubriken.map(r => ({ id: r.id, titel: r.titel, badge: r.meldungen.filter(m => m.wichtig).length, warn: true })), { id: "folgen", titel: "Folgen", badge: n }];
     if (!tabs.some(t => t.id === current)) current = "uebersicht";
-    $("#tabs").innerHTML = tabs.map(t => `<button role="tab" data-id="${esc(t.id)}" aria-selected="${t.id === current}">${esc(t.titel)}${t.badge ? ` <span class="badge">${t.badge}</span>` : ""}</button>`).join("");
+    $("#tabs").innerHTML = tabs.map(t => `<button role="tab" data-id="${esc(t.id)}" aria-selected="${t.id === current}">${esc(t.titel)}${t.badge ? ` <span class="badge${t.warn ? " warn" : ""}"${t.warn ? ` aria-label="${t.badge} wichtig"` : ""}>${t.warn ? "⚠️" : t.badge}</span>` : ""}</button>`).join("");
     $("#tabs").querySelectorAll("button").forEach(b => b.onclick = () => { current = b.dataset.id; localStorage.setItem("tab", current); render(); scrollTo({ top: 0 }); });
   }
 
@@ -85,8 +85,9 @@
   function card(m, rubrik, showFollow = true) {
     const long = !m.ausfuehrlich && (m.text || "").length > 280;
     const f = m.thema && isFollowed(m.thema);
-    return `<article class="card"${rid(m) ? ` data-r="${rid(m)}"` : ""}${m.id ? ` data-id="${esc(m.id)}"` : ""}>
+    return `<article class="card${m.wichtig ? " wichtig" : ""}"${rid(m) ? ` data-r="${rid(m)}"` : ""}${m.id ? ` data-id="${esc(m.id)}"` : ""}>
       <div class="meta">${rubrik ? `<span class="tag">${esc(rubrik)}</span>·` : ""}<time datetime="${esc(m.datum)}">${esc(fmtDate(m.datum, { day: "numeric", month: "long", year: "numeric" }))}</time>${geoChip(m)}</div>
+      ${m.wichtig ? `<div class="wichtig-band"><span class="wichtig-label">⚠️ Wichtig</span>${m.wichtig_grund ? `<span class="wichtig-grund">${esc(m.wichtig_grund)}</span>` : ""}</div>` : ""}
       <h2>${esc(m.titel)}</h2>
       <p class="text${long ? " clamp" : ""}">${esc(m.text)}</p>
       ${long ? `<button class="more" aria-expanded="false">Weiterlesen</button>` : ""}
@@ -118,7 +119,8 @@
     $("#ausgabe").textContent = fmtDate(data.datum, { weekday: "long", day: "numeric", month: "long", year: "numeric" });
     let html = "";
     if (current === "uebersicht") {
-      html = data.rubriken.map(r => `<div data-r="${esc(r.id)}"><div class="section-title"><span>${esc(r.titel)}</span><span>${r.meldungen.length}</span></div>
+      const wi = allMeldungen(data).filter(m => m.wichtig);
+      html = (wi.length ? `<div class="wichtig-heute"><div class="section-title"><span>⚠️ Wichtig heute</span><span>${wi.length}</span></div>${wi.map(m => card(m, m.rubrik)).join("")}</div>` : "") + data.rubriken.map(r => `<div data-r="${esc(r.id)}"><div class="section-title"><span>${esc(r.titel)}</span><span>${r.meldungen.length}</span></div>
         <div class="card">${r.meldungen.map((m, i) => `<button class="overview-item" data-r="${esc(r.id)}" data-i="${i}">${esc(m.titel)}</button>`).join("")}</div></div>`).join("");
     } else if (current === "folgen") {
       html = renderFolgen(arch);
@@ -166,7 +168,7 @@
       if (c) { data = await c.json(); $("#offline").hidden = false; }
       else if (!data) { $("#content").innerHTML = `<div class="empty">Die Nachrichten konnten nicht geladen werden.</div>`; }
     } finally { btn.classList.remove("spin"); }
-    if (data) render();
+    if (data) { data.rubriken.forEach(r => r.meldungen.sort((a, b) => (!!b.wichtig) - (!!a.wichtig))); render(); }
   }
   $("#refresh").onclick = load;
 

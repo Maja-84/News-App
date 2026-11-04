@@ -33,6 +33,8 @@ Schema:
           "titel": "Schlagzeile",
           "text": "Kurzer Absatz (3–5 Sätze) …",
           "ausfuehrlich": "Erster Absatz …\n\nZweiter Absatz …\n\nDritter Absatz …",
+          "wichtig": true,
+          "wichtig_grund": "Kurzer Satz, warum (nur bei sehr wichtigen Meldungen).",
           "weitere_quellen": [{ "name": "NZZ", "url": "https://…" }],
           "datum": "YYYY-MM-DD",
           "quelle": { "name": "SRF", "url": "https://…" },
@@ -61,6 +63,18 @@ Schema:
 - **Nichts erfinden.** Unsicheres oder nur von einer Seite Behauptetes ausdrücklich kennzeichnen («laut …», «nicht unabhängig bestätigt»). Lässt sich eine Meldung nicht gut belegen, lieber kürzer schreiben.
 - `weitere_quellen` (optional): `[{ "name": "…", "url": "https://…" }]`, werden unter dem langen Text zusammen mit `quelle` verlinkt.
 - Die App zeigt bei jeder Karte den Knopf «Ganze Meldung lesen ▾» (fehlt das Feld, gibt es keinen Knopf). Das Vorlesen nutzt «Titel + ausfuehrlich», sonst «Titel + text».
+
+## Sehr wichtige Meldungen («wichtig»)
+
+- `wichtig: true` und `wichtig_grund` (ein kurzer Satz, warum) sind optional. **Sparsam verwenden: meistens 0, höchstens 1–2 pro Tag.** Fehlt das Feld, gilt die Meldung als normal.
+- Kriterien, mindestens eines muss klar erfüllt sein:
+  - Ausbruch eines neuen Krieges oder massive Eskalation (z. B. Angriff auf einen Nato-Staat, Drohung mit oder Einsatz von Atomwaffen);
+  - grosser Terroranschlag mit vielen Opfern;
+  - schwere Naturkatastrophe oder Grossunfall mit vielen Toten;
+  - globale Krise mit direkten Folgen (z. B. Ausrufung einer Pandemie, Finanzcrash);
+  - Ereignis mit unmittelbarer Wirkung für die Schweiz oder ihre Bevölkerung (z. B. Notlage, Warnung des Bundes).
+- Laufende Konflikte und bekannte Lagen sind nicht automatisch «wichtig», auch wenn sie schlimm sind. Nur eine neue, aussergewöhnliche Wende zählt. Im Zweifel nicht markieren.
+- Die App zeigt solche Karten mit einem roten Band «⚠️ Wichtig» und dem Grund, oben in der Übersicht steht ein Block «⚠️ Wichtig heute», und in jeder Rubrik stehen sie zuerst (mit ⚠️ am Reiter). Bei «Alle vorlesen» kommen sie zuerst, und das Audio beginnt mit «Wichtige Meldung.».
 
 ## Themen & «Folgen»
 

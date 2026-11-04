@@ -17,7 +17,8 @@ def speech(r, m):
     if m.get("land") and m["land"] != "mehrere": pre += ", " + m["land"]
     body = m.get("ausfuehrlich") or m.get("text") or ""
     body = " ".join(clean(p) for p in re.split(r"\n\s*\n", body) if p.strip())
-    return f"{clean(pre)}. {clean(m['titel'])}. {body}"
+    warn = "Wichtige Meldung. " if m.get("wichtig") else ""
+    return f"{warn}{clean(pre)}. {clean(m['titel'])}. {body}"
 
 async def one(sem, text, out):
     async with sem:

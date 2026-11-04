@@ -1,4 +1,4 @@
-const VERSION = "v8";
+const VERSION = "v9";
 const SHELL = `shell-${VERSION}`, DATA = "news-data";
 const ASSETS = ["./", "./index.html", "./styles.css", "./app.js", "./player.js", "./themen.json", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/maskable-192.png", "./icons/maskable-512.png", "./icons/apple-touch-icon.png"];
 self.addEventListener("install", e => { e.waitUntil(Promise.all([caches.open(SHELL).then(c => c.addAll(ASSETS)), caches.open(DATA).then(c => c.add("./news.json"))]).then(() => self.skipWaiting())); });

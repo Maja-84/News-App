@@ -67,7 +67,7 @@
     if (ms) ms.playbackState = "playing";
     wakeOn(); draw(); mark();
   }
-  function start(ids, from = 0) { queue = ids.filter(id => items[id]); if (!queue.length) return; closeSheet(); playIdx(from); }
+  function start(ids, from = 0) { queue = ids.filter(id => items[id]); if (!from) queue.sort((a, b) => (!!items[b].wichtig) - (!!items[a].wichtig)); if (!queue.length) return; closeSheet(); playIdx(from); }
   function pause() { playing = false; if (tts) speechSynthesis.pause(); else audio.pause(); if (ms) ms.playbackState = "paused"; wakeOff(); draw(); }
   function resume() { if (idx < 0) { if (sel.length) start(sel); return; } playing = true; if (tts) speechSynthesis.resume(); else audio.play().catch(() => {}); if (ms) ms.playbackState = "playing"; wakeOn(); draw(); }
   function next() { if (idx + 1 < queue.length) playIdx(idx + 1); else stop(); }
