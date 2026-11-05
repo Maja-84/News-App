@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-04",
+  "aktualisiert": "2026-11-05",
   "hinweis": "Bestehende Labels wiederverwenden; neue nur ergänzen, nie umbenennen.",
   "themen": [
     "Armee Schweiz",
@@ -39,7 +39,21 @@
     "COP31",
     "Astronomie",
     "Migration Europa",
-    "Migration USA"
+    "Migration USA",
+    "Ruag-Affäre",
+    "Tigermücke",
+    "Sudan-Krieg",
+    "Südchinesisches Meer",
+    "Indonesien",
+    "Ungarn",
+    "Lateinamerika",
+    "Neuseeland",
+    "Börsen",
+    "Raumfahrt",
+    "Horn von Afrika",
+    "Uiguren",
+    "KI & Sicherheit",
+    "KI & Bildung"
   ],
   "kategorien_extra": [
     "Präsidenten & Regierungen",
