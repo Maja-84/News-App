@@ -1,137 +1,110 @@
 {
-  "datum": "2026-11-05",
-  "aktualisiert": "2026-11-05T06:18:12+01:00",
+  "datum": "2026-11-06",
+  "aktualisiert": "2026-11-06T06:24:12+01:00",
   "rubriken": [
     {
       "id": "schweiz",
       "titel": "Schweiz",
       "meldungen": [
         {
-          "id": "schweiz-ruag",
-          "titel": "Ruag-Affäre: Die Politik streitet über Klagen und eine Untersuchungskommission",
-          "text": "Der Betrugsskandal beim bundeseigenen Rüstungsbetrieb Ruag MRO wird immer grösser. Ein Untersuchungsbericht beziffert den Schaden aus Panzer- und Ersatzteilgeschäften auf über 50 Millionen Euro. Jetzt verlangt die SVP Klagen gegen frühere Chefs, die SP eine parlamentarische Untersuchungskommission.",
-          "ausfuehrlich": "Die Affäre um den bundeseigenen Rüstungsbetrieb Ruag MRO beschäftigt Bern weiter. Ende Oktober hat die Ruag einen Untersuchungsbericht einer Anwaltskanzlei veröffentlicht, der Geschäfte seit 2002 durchleuchtet, unter anderem mit Leopard-1- und Leopard-2-Panzern und deren Ersatzteilen.\n\nIm Zentrum steht ein Geschäft aus dem Jahr 2020: Die Ruag kaufte vom niederländischen Staat Leopard-Ersatzteile für 4,5 Millionen Euro. Ein Kadermann, der gleichzeitig bei der deutschen Ruag-Tochter tätig war, soll den Grossteil sofort an eine ihm nahestehende deutsche Firma weiterverkauft haben, für rund 3 Millionen Euro, obwohl der Marktwert laut Bericht bei fast 49 Millionen lag. Zudem wurden zwischen 2017 und 2022 mindestens 22 Leopard-2-Getriebe unter Wert verkauft. Die Ruag fordert von zehn Personen zivilrechtlich insgesamt 51 Millionen Euro plus Zinsen. In der Schweiz und in Deutschland laufen Strafverfahren; für alle Betroffenen gilt die Unschuldsvermutung.\n\nVerteidigungsminister Martin Pfister spricht von «schwerwiegenden Verfehlungen». Eine Arbeitsgruppe des VBS soll Verantwortlichkeiten klären und auch die Rolle des Bundes als Eigentümer untersuchen.\n\nPolitisch ist der Fall nun offen umstritten: Laut «20 Minuten» fordert die SVP, dass der Bundesrat gegen frühere Verantwortliche klagt, die SP verlangt eine parlamentarische Untersuchungskommission. Wie weit die Aufarbeitung geht, dürfte sich in der Wintersession zeigen.",
-          "datum": "2026-11-04",
+          "id": "schweiz-co2-roesti",
+          "titel": "Bundesrat will CO2-Ziele für Importeure und leichte Nutzfahrzeuge lockern",
+          "text": "Energie- und Umweltminister Albert Rösti und das Bundesamt für Energie wollen das CO2-Gesetz ab 2030 zugunsten der Autobranche anpassen. Importeure sollen ihr Ziel nur noch als Drei-Jahres-Durchschnitt statt jährlich erreichen müssen, und der Zielwert für leichte Nutzfahrzeuge steigt von 90,8 auf 108,7 Gramm CO2 pro Kilometer. Schwere Nutzfahrzeuge werden dagegen strenger behandelt. Laut SRF orientiert sich Bern an der EU; Rösti war früher Präsident von Auto-Schweiz.",
+          "ausfuehrlich": "Der Bundesrat will die CO2-Vorgaben für Fahrzeugimporteure ab 2030 lockern. Laut SRF soll künftig ein Drei-Jahres-Durchschnitt gelten statt einer jährlichen Zielerreichung. Damit können Hersteller und Importeure schwächere Jahre mit stärkeren ausgleichen. Für leichte Nutzfahrzeuge soll der Zielwert von 90,8 auf 108,7 Gramm CO2 pro Kilometer steigen. Bei schweren Nutzfahrzeugen plant Bern dagegen strengere Vorgaben. Die Massnahmen kommen aus dem Departement von Energie- und Umweltminister Albert Rösti und dem Bundesamt für Energie.\n\nAls Beispiel nennt SRF mögliche Sanktionen: Statt rund 5,5 Millionen Franken könnten in einem Modellfall nur noch etwa 3,4 Millionen fällig werden. Schon im vergangenen Jahr seien die drohenden Strafen für die Branche stark gesenkt worden, von rund 200 auf etwa 100 Millionen Franken. Die Regierung begründet den Kurs mit einer Angleichung an die EU-Regeln und mit der Belastung der Importeure. Ohne realistische Pfade, so die Logik, würden Bussen vor allem Kosten erzeugen, ohne den Flottenmix rasch zu verändern.\n\nPolitisch ist der Schritt heikel. Rösti (SVP) war früher Präsident von Auto-Schweiz. Kritikerinnen und Kritiker sehen darin einen Interessenkonflikt und werfen Bern vor, den Klimaschutz zugunsten der Autolobby zu verwässern. Umweltverbände dürften vorrechnen, wie viele zusätzliche Tonnen CO2 die lockereren Zielwerte bedeuten. Die Branche dagegen betont Planbarkeit und die Konkurrenzsituation im Importmarkt.\n\nOb das Parlament die Anpassung mitträgt, ist offen. Das CO2-Gesetz bleibt umstritten, weil es Klimaziele, Konsumentenpreise und Industrieinteressen gleichzeitig berührt. Bis 2030 bleibt Zeit für die Gesetzesarbeit; Anhörungen und Lobbying dürften intensiv werden. Für Autokäuferinnen und -käufer ändert sich kurzfristig wenig – die Weichenstellung gilt dem nächsten Jahrzehnt.",
+          "datum": "2026-11-06",
           "quelle": {
             "name": "SRF",
-            "url": "https://www.srf.ch/news/schweiz/millionenbetrug-bei-ruag-pfister-spricht-von-schwerwiegenden-verfehlungen-bei-der-ruag"
+            "url": "https://www.srf.ch/news/schweiz/weniger-sanktionen-roesti-aendert-co2-gesetz-zu-gunsten-der-autobranche"
           },
-          "thema": "Ruag-Affäre",
+          "thema": "Klima Schweiz",
           "stichworte": [
-            "Ruag",
-            "Armee",
-            "Betrug",
-            "VBS",
-            "Leopard"
+            "CO2-Gesetz",
+            "Rösti",
+            "Autoimporteure",
+            "Nutzfahrzeuge"
           ],
-          "weitere_quellen": [
-            {
-              "name": "20 Minuten",
-              "url": "https://www.20min.ch/story/folgen-von-panzer-deals-nach-ruag-betrug-bundesrat-muss-gegen-die-chefs-klagen-103659913"
-            },
-            {
-              "name": "NZZ",
-              "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/kadermann-etabliert-ein-betrugssystem-bei-der-ruag-untersuchungsbericht-zeigt-jetzt-die-ausmasse-ld.10049216"
-            }
-          ],
-          "audio": "audio/2026-11-05/schweiz-ruag-078628.mp3",
-          "dauer": 114
+          "audio": "audio/2026-11-06/schweiz-co2-roesti-730f79.mp3",
+          "dauer": 146
         },
         {
-          "id": "schweiz-swissinfo",
-          "titel": "Bundesrat kürzt das Auslandangebot der SRG: Swissinfo verliert fast die Hälfte",
-          "text": "Der Bundesrat streicht das Budget für die Auslandangebote der SRG ab 2027 von rund 37 auf 24 Millionen Franken. Am härtesten trifft es Swissinfo: Die japanische und die portugiesische Redaktion fallen weg, der Sender tvsvizzera.it wird eingestellt. Das Parlament hatte solche Kürzungen zuvor abgelehnt.",
-          "ausfuehrlich": "Der Bundesrat hat am Mittwoch die Leistungsvereinbarung mit der SRG für das Auslandangebot 2027 bis 2030 verabschiedet. Dazu gehören die Plattform Swissinfo sowie die Beteiligungen an 3sat und TV5 Monde. Das Gesamtbudget sinkt laut «Republik» von rund 37 auf 24 Millionen Franken, also um etwa ein Drittel. Swissinfo allein erhält künftig noch rund 10,5 statt 18,8 Millionen Franken pro Jahr, ein Minus von fast der Hälfte.\n\nDie Folgen sind konkret: Swissinfo produziert keine Inhalte mehr auf Japanisch und Portugiesisch, bleibt aber in acht Sprachen verfügbar. Der italienischsprachige Sender tvsvizzera.it, der sich an Menschen in Italien richtet, wird eingestellt. Die neue Vereinbarung gilt ab dem 1. Januar 2027.\n\nBrisant ist der Entscheid, weil sich das Parlament mehrfach gegen genau diese Kürzungen ausgesprochen hatte: Sowohl der Ständerat als auch im März der Nationalrat lehnten Einsparungen bei Swissinfo ab. Bisher teilten sich Bund und SRG die Kosten für das Auslandangebot. Der Bundesrat begründet den Schritt mit dem Spardruck im Bundeshaushalt.\n\nSwissinfo ist für viele Auslandschweizerinnen und -schweizer eine wichtige Informationsquelle über die Schweiz und ihre Politik, etwa vor Abstimmungen. Kritiker sehen auch einen Verlust für die Präsenz der Schweiz in der Welt. Ob das Parlament noch einmal Druck macht, ist offen; an der Vereinbarung selbst kann es aber nur indirekt etwas ändern.",
-          "datum": "2026-11-04",
+          "id": "schweiz-asyl-italien",
+          "titel": "Italien sagt der Schweiz zu, Dublin-Überstellungen wieder aufzunehmen",
+          "text": "Das Staatssekretariat für Migration meldet: Italien hat Ende Oktober schriftlich zugesagt, Dublin-Überstellungen aus der Schweiz wieder zu akzeptieren. Zuvor hatte Rom die Rücknahmen blockiert, unter anderem mit Interventionen bei Fluggesellschaften im August. Laut SEM sind Transfers in den kommenden Tagen und Wochen geplant. Ein Bericht zum EU-Asylpaket steht bevor.",
+          "ausfuehrlich": "Nach Monaten der Blockade signalisiert Italien wieder Bereitschaft, Asylsuchende im Dublin-Verfahren aus der Schweiz zurückzunehmen. Laut Staatssekretariat für Migration (SEM) liegt seit Ende Oktober eine schriftliche Zusage aus Rom vor. Damit sollen Überstellungen, die Italien zuvor faktisch gestoppt hatte, wieder möglich werden. Für Bern ist das ein operativer Durchbruch nach einer Phase, in der das Dublin-System zwischen den beiden Ländern praktisch stockte.\n\nIm August hatte die Lage eskaliert: Italien soll laut Berichten bei Airlines interveniert haben, sodass Flüge mit Dublin-Rückführungen nicht mehr durchgeführt werden konnten. Ohne diese Zusammenarbeit bleiben Asylsuchende in der Schweiz, obwohl formell ein anderer Staat zuständig wäre. Das belastet Unterkünfte, Verfahren und die politische Debatte über Steuerung der Migration.\n\nDas SEM rechnet nun damit, Transfers in den kommenden Tagen und Wochen wieder aufnehmen zu können. Details zu Zahlen und Zeitplan hat Bern öffentlich nur vorsichtig kommuniziert. Parallel steht ein Bericht zum EU-Asylpaket bevor; er dürfte zeigen, wie sich die neuen europäischen Regeln auf die Schweiz und bilaterale Praktiken auswirken. Die Schweiz ist nicht EU-Mitglied, aber über Dublin und Schengen eng eingebunden.\n\nOb die Zusage aus Rom dauerhaft hält, bleibt abzuwarten. Frühere Zusagen in Dublin-Fragen sind schon öfter an Kapazitätsengpässen, innenpolitischem Druck oder Streit über Zuständigkeiten gescheitert. Für Betroffene heisst das Unsicherheit: Manche Verfahren könnten wieder in Bewegung kommen, andere hängen weiter davon ab, wie Italien die Rücknahmen praktisch organisiert und ob Airlines mitspielen.\n\nFür die schweizerische Asylpolitik bleibt Dublin das zentrale Steuerungsinstrument gegenüber dem Mittelmeerraum. Wenn Italien Rücknahmen wieder erlaubt, entlastet das die Unterbringung in der Schweiz – vorausgesetzt, die Zusagen halten über Wochen und Monate. Kantone und Gemeinden dürften die Entwicklung genau verfolgen, weil sie die praktischen Folgen von Blockaden und Transfers tragen.",
+          "datum": "2026-11-06",
+          "quelle": {
+            "name": "SRF",
+            "url": "https://www.srf.ch/news/schweiz/asylstreit-italien-schweiz-italien-blockierte-asyl-ueberstellungen-doch-gelobt-nun-besserung"
+          },
+          "thema": "Migration Europa",
+          "stichworte": [
+            "Dublin",
+            "Italien",
+            "SEM",
+            "Asyl"
+          ],
+          "audio": "audio/2026-11-06/schweiz-asyl-italien-07c9ff.mp3",
+          "dauer": 147
+        },
+        {
+          "id": "schweiz-sg-moschee",
+          "titel": "St. Gallen will ausländische Moschee-Finanzierung transparenter regeln",
+          "text": "Die St. Galler Regierung befürwortet eine Motion für mehr Transparenz und mögliche Beschränkungen bei der Finanzierung von Moscheen aus dem Ausland. Ein Gesetz dazu ist geplant. Auslöser sind Moschee-Pläne an der Fürstenlandstrasse und eine SVP-Petition mit rund 21'800 Unterschriften. Laut swissinfo/Keystone-SDA geht es um Regeln, nicht um ein pauschales Bauverbot.",
+          "ausfuehrlich": "Die Regierung des Kantons St. Gallen unterstützt eine Motion, die ausländische Geldflüsse an Moscheen transparenter machen und gegebenenfalls beschränken soll. Laut swissinfo und Keystone-SDA ist ein entsprechendes Gesetz geplant. Im Zentrum stehen Fragen, wer sakrale Bauten finanziert, wie Abhängigkeiten entstehen und wie der Kanton Aufsicht ausüben kann – ohne Religionsgemeinschaften pauschal unter Generalverdacht zu stellen.\n\nAnlass sind Pläne für eine Moschee an der Fürstenlandstrasse sowie eine Petition der SVP mit rund 21'800 Unterschriften. Die Petition verlangt klarere Regeln für ausländische Finanzierungen und zeigt, dass das Thema in der Ostschweiz mobilisierungsstark ist. Die Regierung will dem Anliegen politisch Rechnung tragen und zugleich betonen, dass es um Regeln geht und nicht um ein pauschales Bauverbot.\n\nRechtlich ist das heikel. Religionsfreiheit und Vereinsautonomie stehen finanziellen Transparenzpflichten gegenüber. Ähnliche Debatten gab und gibt es in anderen Kantonen und in Nachbarländern, oft ausgelöst durch Bauvorhaben oder Berichte über Geld aus Golfstaaten oder der Türkei. Ob St. Gallen Zuwendungen verbieten, meldepflichtig machen oder an Bedingungen knüpfen will, muss das geplante Gesetz klären.\n\nAls Nächstes folgen parlamentarische Beratung und Entwurf. Für muslimische Gemeinden entsteht Unsicherheit bei Finanzierungsmodellen; für Behörden ein Balanceakt zwischen Sicherheits- und Integrationszielen einerseits und Grundrechten andererseits. Wie streng die späteren Normen ausfallen, entscheidet das Kantonsparlament – und möglicherweise später auch die Gerichte.\n\nDie Debatte in St. Gallen ist auch ein Testfall dafür, wie Kantone mit religiöser Infrastruktur umgehen, ohne Minderheiten zu stigmatisieren. Transparenzregeln können Vertrauen schaffen, wenn sie klar, rechtsstaatlich und nicht willkürlich sind. Ob das geplante Gesetz diese Balance trifft, wird sich erst am Entwurf und an der parlamentarischen Beratung zeigen.",
+          "datum": "2026-11-06",
           "quelle": {
             "name": "swissinfo.ch",
-            "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-government-cuts-swissinfo-funding-by-nearly-half/92326127"
+            "url": "https://www.swissinfo.ch/ger/st.-galler-regierung-plant-regeln-f%C3%BCr-ausl%C3%A4ndische-moschee-gelder/92336804"
           },
-          "thema": "Medien Schweiz",
+          "thema": "Religion Schweiz",
           "stichworte": [
-            "SRG",
-            "Swissinfo",
-            "Bundesrat",
-            "Sparen"
+            "St. Gallen",
+            "Moschee",
+            "Finanzierung",
+            "Petition"
           ],
-          "weitere_quellen": [
-            {
-              "name": "Republik",
-              "url": "https://www.republik.ch/2026/11/05/srg-spart-bei-ihren-ausland-angeboten-kommission-wehrt-sich-gegen-kuerzungen-bei-der-entwicklungs-zusammenarbeit-und-der-ruag-skandal-wird-groesser-und-groesser"
-            }
-          ],
-          "audio": "audio/2026-11-05/schweiz-swissinfo-92d485.mp3",
-          "dauer": 115
+          "audio": "audio/2026-11-06/schweiz-sg-moschee-995a4a.mp3",
+          "dauer": 143
         },
         {
-          "id": "schweiz-netzsperren",
-          "titel": "Bundesgericht stoppt Netzsperren durch Staatsanwaltschaften",
-          "text": "Staatsanwaltschaften dürfen Internetprovider nicht einfach verpflichten, betrügerische Websites zu sperren. Das Bundesgericht hat eine Beschwerde des Providers Init7 gutgeheissen: Für solche Sperren fehle im Strafprozessrecht die gesetzliche Grundlage.",
-          "ausfuehrlich": "Das Bundesgericht hat eine Beschwerde des Zürcher Internetproviders Init7 gutgeheissen und eine Sperranordnung der Waadtländer Staatsanwaltschaft aufgehoben. Diese hatte im Rahmen eines Strafverfahrens mehrere Provider angewiesen, den Zugang zu betrügerischen Online-Seiten über die Namensauflösung (DNS) zu blockieren. Das Urteil (7B_52/2026) datiert vom 12. Oktober und wurde am Mittwoch publik.\n\nDie Staatsanwaltschaft hatte sich auf die Regeln zur Beschlagnahme in der Strafprozessordnung und zur Einziehung im Strafgesetzbuch gestützt. Das Bundesgericht hält fest, dass «beschlagnahmen» und «sperren» nicht dasselbe sind. Eine ausdrückliche Grundlage für Netzsperren gibt es nur in zwei Spezialgesetzen, nämlich im Geldspielgesetz (gegen nicht bewilligte Online-Casinos) und im Fernmeldegesetz. Ausserhalb dieser Fälle dürfen Staatsanwaltschaften Provider nicht zur Blockierung verpflichten.\n\nInit7 wehrt sich seit Jahren grundsätzlich gegen Netzsperren und argumentiert, sie seien leicht zu umgehen und gefährdeten die Freiheit des Internets. Strafverfolger dagegen sehen in Sperren ein schnelles Mittel, um etwa Betrugsseiten oder gefälschte Shops unschädlich zu machen, bevor weitere Opfer Geld verlieren.\n\nMit dem Urteil liegt der Ball nun beim Gesetzgeber: Will die Politik, dass Staatsanwaltschaften Websites sperren lassen können, muss sie dafür eine klare gesetzliche Grundlage schaffen. Bis dahin bleiben solche Anordnungen ausserhalb der Spezialgesetze unzulässig.",
-          "datum": "2026-11-04",
+          "id": "schweiz-fairness",
+          "titel": "Fairness-Initiative: Gemeinsame Steuererklärung ohne Heiratsstrafe am 29. November",
+          "text": "Am 29. November 2026 kommt die Fairness-Initiative zur Abstimmung. Ehepaare sollen eine gemeinsame Steuererklärung abgeben können, ohne den Nachteil der Heiratsstrafe. Die Individualbesteuerung wurde bereits im März angenommen und gilt ab 2032. Laut Bundesamt für Statistik wären sonst Alleinverdiener-Familien – rund 12,2 Prozent – bei der Bundessteuer oft schlechter gestellt. Gegner warnen vor Aufwand und Milliardeneinbussen.",
+          "ausfuehrlich": "Die Fairness-Initiative will am 29. November 2026 an der Urne klären, wie Ehepaare nach dem Wechsel zur Individualbesteuerung steuerlich behandelt werden. Kernpunkt laut NZZ: Paare sollen eine gemeinsame Erklärung abgeben können, ohne dass daraus erneut eine Heiratsstrafe entsteht. Die Individualbesteuerung selbst wurde im März angenommen und soll ab 2032 gelten. Die Initiative setzt also an einer bereits beschlossenen Reform an und versucht, unerwünschte Nebeneffekte abzufedern.\n\nHintergrund ist die Sorge um Alleinverdiener-Familien. Laut Bundesamt für Statistik machen sie rund 12,2 Prozent aus. Ohne Korrektur könnten sie bei der direkten Bundessteuer oft höher belastet werden als heute. Das trifft Haushalte, in denen ein Elternteil – häufig wegen Betreuung – weniger oder nicht erwerbstätig ist. Die Initiative will Entlastung, ohne die neue Logik der Individualbesteuerung auszuhebeln; technisch ist das anspruchsvoll.\n\nGegnerinnen und Gegner halten den Vorschlag für aufwendig und teuer. Sie rechnen mit Milliardeneinbussen für Bund und Kantone und warnen vor einem Wirrwarr paralleler Systeme. Befürworter sprechen von Fairness gegenüber dem klassischen Einverdienermodell, das in der Schweiz trotz gesellschaftlichem Wandel weiterhin vorkommt. Die NZZ fasst die Lage als Spannungsfeld zwischen Entlastung und administrativer Komplexität zusammen.\n\nBis zur Abstimmung dürften Zahlen und Umsetzbarkeit im Vordergrund stehen: Wie gross sind die Ausfälle wirklich, wie kompliziert wird die Erklärung, wer profitiert am meisten? Für viele Haushalte geht es um spürbare Beträge; für die Verwaltung um eine der grössten Steuerreformen der nächsten Jahre.\n\nSteuerpolitisch ist die Vorlage anspruchsvoll, weil sie zwei Logiken verbindet: Individualbesteuerung als neues Leitprinzip und zugleich Schutz vor Nachteilen für bestimmte Familienmodelle. Genau diese Hybridlösung macht die Abstimmung vom 29. November inhaltlich dicht – und erklärungsbedürftig für viele Stimmberechtigte.",
+          "datum": "2026-11-06",
+          "quelle": {
+            "name": "NZZ",
+            "url": "https://www.nzz.ch/schweiz/wirrwarr-oder-entlastung-fuer-familien-die-fairness-initiative-auf-einen-blick-ld.10051861"
+          },
+          "thema": "Parlament Schweiz",
+          "stichworte": [
+            "Fairness-Initiative",
+            "Individualbesteuerung",
+            "Ehepaare",
+            "Abstimmung"
+          ],
+          "audio": "audio/2026-11-06/schweiz-fairness-902d6b.mp3",
+          "dauer": 151
+        },
+        {
+          "id": "schweiz-hitzetote",
+          "titel": "Hitzesommer 2026: Provisorisch rund 1260 hitzebedingte Todesfälle",
+          "text": "Zwischen Mai und August 2026 starben in der Schweiz laut provisorischer Auswertung von BAG und Swiss TPH rund 1260 Menschen hitzebedingt – etwa 14 pro 100'000 Einwohner. Rund 85 Prozent der Opfer waren 75 Jahre oder älter. Die endgültigen Zahlen inklusive September sollen im Frühjahr 2027 vorliegen.",
+          "ausfuehrlich": "Der Hitzesommer 2026 hat in der Schweiz laut einer provisorischen Auswertung rund 1260 hitzebedingte Todesfälle gefordert. Die Zahlen stammen vom Bundesamt für Gesundheit und vom Swiss Tropical and Public Health Institute und decken den Zeitraum Mai bis August ab. Umgerechnet entspricht das etwa 14 Todesfällen pro 100'000 Einwohnerinnen und Einwohner. Die Behörden betonen ausdrücklich den vorläufigen Charakter der Auswertung.\n\nBesonders betroffen waren ältere Menschen: Rund 85 Prozent der Opfer waren 75 Jahre oder älter. Das Muster gleicht früheren Hitzejahren. Hitzewellen belasten Herz-Kreislauf- und Atemwegserkrankungen, treffen Pflegeheime und Allelebende ohne ausreichende Kühlung und verstärken bestehende Gesundheitsrisiken. Prävention heisst deshalb Frühwarnung, kühlere Innenräume und gezielte Betreuung vulnerabler Gruppen.\n\nEndgültige Zahlen inklusive September sollen erst im Frühjahr 2027 vorliegen. Dann lässt sich besser vergleichen, wie 2026 im Verhältnis zu früheren Extremjahren steht und welche Regionen besonders betroffen waren. Auch methodische Unsicherheiten – Abgrenzung hitzebedingter Sterblichkeit, Nachmeldungen – können die Bilanz noch verschieben.\n\nDie Veröffentlichung fällt in eine Phase intensiver Debatten über Klimaanpassung in Städten und im Gesundheitswesen. Ob die Zahlen den politischen Druck für Hitzepläne und bauliche Massnahmen erhöhen, wird sich in den kommenden Monaten zeigen. Klar ist schon jetzt: Hitze ist in der Schweiz ein ernstes Risiko – und trifft vor allem die Ältesten.\n\nVergleiche mit früheren Sommern sind erst nach der endgültigen Auswertung belastbar. Schon die provisorischen Zahlen zeigen aber, dass Hitze kein abstraktes Klimathema ist, sondern messbar in Sterblichkeitsstatistiken ankommt. Für Spitäler, Spitex und Heime bleibt die Frage zentral, wie Warnsysteme und Kühlkonzepte in der nächsten Saison greifen.\n\nFür die politische Diskussion über Klimaanpassung liefern die Zahlen ein konkretes Mass. Städte und Kantone können Hitzeinseln, Grünflächen und kühle Rückzugsorte nicht mehr als Randthema behandeln, wenn jährlich Hunderte Todesfälle mit Hitze in Verbindung gebracht werden.",
+          "datum": "2026-11-06",
           "quelle": {
             "name": "SRF",
-            "url": "https://www.srf.ch/news/schweiz/keine-gesetzliche-grundlage-was-das-bundesgerichtsurteil-zum-stopp-von-netzsperren-bedeutet"
+            "url": "https://www.srf.ch/news/schweiz/provisorische-auswertung-hitzesommer-2026-forderte-in-der-schweiz-rund-1260-todesopfer"
           },
-          "thema": "Bundesgericht",
+          "thema": "Hitze Schweiz",
           "stichworte": [
-            "Netzsperren",
-            "Init7",
-            "Internet",
-            "Strafprozess"
+            "Hitze",
+            "BAG",
+            "Swiss TPH",
+            "Sterblichkeit"
           ],
-          "weitere_quellen": [
-            {
-              "name": "inside-it.ch",
-              "url": "https://www.inside-it.ch/netzsperren-init7-siegt-vor-bundesgericht-20261104"
-            },
-            {
-              "name": "Republik",
-              "url": "https://www.republik.ch/2026/11/05/srg-spart-bei-ihren-ausland-angeboten-kommission-wehrt-sich-gegen-kuerzungen-bei-der-entwicklungs-zusammenarbeit-und-der-ruag-skandal-wird-groesser-und-groesser"
-            }
-          ],
-          "audio": "audio/2026-11-05/schweiz-netzsperren-932932.mp3",
-          "dauer": 108
-        },
-        {
-          "id": "schweiz-ruestungsfonds",
-          "titel": "Nationalratskommission will keine höhere Mehrwertsteuer für den Rüstungsfonds",
-          "text": "Die Sicherheitspolitische Kommission des Nationalrats lehnt es mit 15 zu 9 Stimmen ab, den geplanten Rüstungsfonds über eine höhere Mehrwertsteuer zu finanzieren. Sie will das Geld stattdessen im Bundeshaushalt einsparen. Wie die rund 24 Milliarden Franken zusammenkommen sollen, bleibt damit offen.",
-          "ausfuehrlich": "Die Sicherheitspolitische Kommission des Nationalrats (SiK-N) hat sich am Dienstag mit 15 zu 9 Stimmen gegen eine Mehrwertsteuer-Erhöhung zur Finanzierung des geplanten Rüstungsfonds ausgesprochen. Stattdessen schlägt sie vor, den Fonds über Einsparungen im Bundeshaushalt zu speisen. Der Fonds soll laut «Republik» rund 24 Milliarden Franken umfassen.\n\nHintergrund ist die angespannte Sicherheitslage in Europa, wegen der auch die Schweiz ihre Armee rascher aufrüsten will. Verteidigungsminister Martin Pfister (Mitte) hatte ursprünglich eine Erhöhung der Mehrwertsteuer um 0,5 Prozentpunkte vorgeschlagen, was von Beginn an als chancenlos galt. Der Ständerat beschloss in der Herbstsession eine kleinere Erhöhung um 0,2 Prozentpunkte, kombiniert mit Sparmassnahmen. Danach lehnte die Finanzkommission des Nationalrats eine Steuererhöhung ganz ab, und nun folgt auch die Sicherheitskommission dieser Linie.\n\nDamit zeichnet sich zwischen den beiden Kammern eine Differenz ab. Sparen statt Steuern bedeutet, dass das Geld anderswo im Bundesbudget fehlen würde, etwa bei Bildung, Landwirtschaft oder internationaler Zusammenarbeit, wo ohnehin schon gekürzt wird. Eine Mehrwertsteuer-Erhöhung müsste dagegen vom Volk an der Urne genehmigt werden.\n\nAls Nächstes berät der Nationalrat über die Vorlage. Wie genau die Aufrüstung bezahlt wird, bleibt vorerst ungewiss, und das Thema dürfte die Budgetdebatten der kommenden Jahre prägen.",
-          "datum": "2026-11-03",
-          "quelle": {
-            "name": "Republik",
-            "url": "https://www.republik.ch/2026/11/05/srg-spart-bei-ihren-ausland-angeboten-kommission-wehrt-sich-gegen-kuerzungen-bei-der-entwicklungs-zusammenarbeit-und-der-ruag-skandal-wird-groesser-und-groesser"
-          },
-          "thema": "Armee Schweiz",
-          "stichworte": [
-            "Rüstungsfonds",
-            "Mehrwertsteuer",
-            "Armee",
-            "Bundeshaushalt"
-          ],
-          "audio": "audio/2026-11-05/schweiz-ruestungsfonds-20f04d.mp3",
-          "dauer": 107
-        },
-        {
-          "id": "schweiz-chikungunya",
-          "titel": "Chikungunya-Virus erstmals in der Schweiz übertragen",
-          "text": "Im Tessin haben sich erstmals vier Menschen in der Schweiz selbst mit dem Chikungunya-Virus angesteckt, übertragen durch die Tigermücke. Alle vier waren nicht im Ausland. Die Behörden schätzen das Risiko als gering ein, den Betroffenen geht es gut.",
-          "ausfuehrlich": "Im Tessin ist das Chikungunya-Virus erstmals innerhalb der Schweiz von Mensch zu Mensch über Mücken übertragen worden. Vier Personen haben sich angesteckt, ohne zuvor in ein Gebiet gereist zu sein, in dem das Virus zirkuliert. Die Fälle gehen laut den Tessiner Behörden auf die Magadinoebene bei Bellinzona zurück. Die Krankheit verlief bei allen Betroffenen günstig.\n\nÜbertragen wird das Virus von der Asiatischen Tigermücke. Sie hat sich in den letzten Jahren vor allem im Tessin ausgebreitet. Eine lokale Übertragung ist möglich, wenn eine infizierte Person nach einer Reise zurückkehrt und hier von einer Tigermücke gestochen wird, die das Virus weitergibt. Von Januar bis August 2026 zählte das Bundesamt für Gesundheit 55 Chikungunya-Fälle bei Reiserückkehrenden.\n\nDie Tessiner Behörden stufen die Lage derzeit als risikoarm ein, zumal die Mückensaison mit den kühleren Temperaturen zu Ende geht. Seit April 2026 ist in der Schweiz ein Impfstoff zugelassen, empfohlen wird er aber nur für Reisen in Ausbruchsgebiete.\n\nDer Fall zeigt, wie sich mit dem wärmeren Klima Krankheiten nach Europa ausbreiten, die früher als reine Tropenkrankheiten galten. Fachleute rechnen damit, dass die Überwachung der Tigermücke in der Schweiz weiter an Bedeutung gewinnt.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "SRF",
-            "url": "https://www.srf.ch/news/schweiz/uebertragung-durch-tigermuecke-chikungunya-virus-erreicht-die-schweiz-erste-faelle-im-tessin"
-          },
-          "thema": "Tigermücke",
-          "stichworte": [
-            "Chikungunya",
-            "Tessin",
-            "Tigermücke",
-            "BAG"
-          ],
-          "audio": "audio/2026-11-05/schweiz-chikungunya-1d9536.mp3",
-          "dauer": 96
+          "audio": "audio/2026-11-06/schweiz-hitzetote-684316.mp3",
+          "dauer": 166
         }
       ]
     },
@@ -140,269 +113,274 @@
       "titel": "Welt",
       "meldungen": [
         {
-          "id": "welt-usa",
-          "titel": "Nach dem Erdrutschsieg der Demokraten: Republikaner suchen Schuldige, Trump kündigt Vetos an",
-          "text": "Einen Tag nach den Zwischenwahlen ist klar: Die Demokraten haben beide Kammern des Kongresses deutlich erobert. Speaker Mike Johnson tritt nicht als Fraktionschef an, Vizepräsident Vance sieht im Iran-Krieg den Hauptgrund für die Niederlage, und Trump stellt sich auf zwei Jahre Blockade ein.",
-          "ausfuehrlich": "Die Demokraten haben bei den US-Zwischenwahlen vom Dienstag die Kontrolle über Repräsentantenhaus und Senat gewonnen. Im Senat kommen sie laut Hochrechnungen auf 54 Sitze (inklusive zwei Unabhängige) gegenüber 44 der Republikaner; in Mississippi lag der Demokrat Scott Colom am Mittwoch nur knapp vor der Amtsinhaberin Cindy Hyde-Smith, auch Alaska war noch offen. Im Repräsentantenhaus erwartet NBC News rund 259 demokratische Sitze, Fraktionschef Hakeem Jeffries rechnet mit mindestens 255. Mehrere Dutzend Rennen waren noch nicht entschieden, die genauen Zahlen sind deshalb vorläufig.\n\nPräsident Trumps Zustimmungsrate lag laut Umfragen zuletzt bei nur 38 Prozent. Trump selbst erklärte die Niederlage damit, dass er nicht selbst auf dem Wahlzettel gestanden habe.\n\nBei den Republikanern hat die Schuldsuche begonnen. Speaker Mike Johnson will im neuen Kongress nicht als Minderheitsführer antreten; Jim Jordan und Steve Scalise haben Interesse angemeldet. Vizepräsident JD Vance nannte den Krieg gegen Iran als «offensichtlichen» Grund für die Niederlage. Trump sagte dem «Wall Street Journal», er würde den Krieg wieder führen, und kündigte laut der Tessiner Zeitung «laRegione» an, er werde zum «Mr. Veto».\n\nAb Januar kann Trump kaum noch Gesetze durchbringen, und die Demokraten erhalten Untersuchungsbefugnisse. Jeffries betont, ein Amtsenthebungsverfahren sei kein Thema; man konzentriere sich auf Kaufkraft und Kontrolle der Regierung. Iran begrüsste das Resultat als Absage der Amerikaner an den Krieg.",
-          "datum": "2026-11-04",
+          "id": "welt-bombenalarme",
+          "titel": "Mindestens 27 Passagierflüge in Europa mit Bombendrohungen – zweite Welle diese Woche",
+          "text": "Am Donnerstag sind laut Reuters mindestens 27 Passagierflüge in Europa mit Bombendrohungen konfrontiert worden – die zweite Welle innerhalb weniger Tage. Es kam zu Notlandungen und Kampfjet-Begleitung; Sprengstoff wurde nirgends gefunden. Niemand hat sich zu den Hoaxes bekannt. Im Kontext stehen Debatten über Hybridangriffe; Moskau weist entsprechende Vorwürfe zurück.",
+          "ausfuehrlich": "Europa erlebt erneut eine Serie von Bombendrohungen gegen zivile Flüge. Laut Reuters waren am Donnerstag mindestens 27 Passagierflüge betroffen – die zweite Welle innerhalb dieser Woche. Mehrere Maschinen mussten notlanden oder wurden von Kampfjets begleitet; Sicherheitskräfte durchsuchten Flugzeuge und Terminals. Explosive Vorrichtungen wurden laut den vorliegenden Meldungen nirgends gefunden. Dennoch sind Aufwand und Belastung für Crews, Passagiere und Flughafenpersonal hoch.\n\nBetroffen waren unter anderem Verbindungen in Richtung Rom, Mailand, Paris, Prag, Sofia, Wien, Brüssel und Bukarest. Behörden behandeln die Fälle als Hoaxes, also als bewusst falsche Alarmmeldungen. Umleitungen, Verspätungen und Evakuierungen belasten den Flugbetrieb und verursachen Kosten, die Airlines und Staaten tragen müssen. Für Reisende bleibt die Unsicherheit, auch wenn kein Sprengstoff gefunden wird.\n\nWer hinter den Drohungen steckt, ist öffentlich nicht geklärt. Niemand hat sich bekannt. In der politischen Debatte werden die Vorfälle mit Hybridangriffen und Vorwürfen in Richtung Russland verknüpft; Moskau dementiert solche Anschuldigungen. Unabhängige Belege für eine staatliche Urheberschaft liegen in den vorliegenden Berichten nicht vor. Die Zuordnung bleibt deshalb spekulativ.\n\nFür Airlines und Behörden stellt sich die Abwägung zwischen Ernsthaftigkeit und Überreaktion. Zu wenig Reaktion riskiert echte Gefahr; zu viel Spielraum für Falschmeldungen lähmt den Verkehr. Ob die Welle abebbt, hängt auch davon ab, wie schnell Täter ermittelt und Nachahmungen unterbunden werden können. Bis dahin bleibt die europäische Zivilluftfahrt in erhöhter Alarmbereitschaft.\n\nEuropäische Verkehrsministerien und Flugsicherungen tauschen sich in solchen Wellen üblicherweise eng aus, auch wenn die Ermittlungen national bleiben. Für Passagiere bleibt der Rat der Behörden massgeblich: Anweisungen an Bord und am Gate folgen, Gerüchte in sozialen Medien dagegen nicht als Fakten lesen.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
-          "thema": "US-Wahlen 2026",
-          "stichworte": [
-            "USA",
-            "Kongress",
-            "Trump",
-            "Demokraten",
-            "Zwischenwahlen"
-          ],
           "weitere_quellen": [
             {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
-            },
-            {
-              "name": "NBC News",
-              "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/czech-police-say-four-planes-heading-prague-receive-bomb-threats-2026-11-05/"
             }
           ],
-          "kontinent": "Nordamerika",
-          "land": "USA",
-          "audio": "audio/2026-11-05/welt-usa-3b899d.mp3",
-          "dauer": 121
-        },
-        {
-          "id": "welt-komyshuvakha",
-          "titel": "Russischer Bombenangriff auf Hilfszentrum: Zahl der Toten in Komyschuwacha steigt auf 40",
-          "text": "Beim russischen Angriff auf eine Hilfsausgabestelle im Dorf Komyschuwacha (Region Saporischschja) sind mindestens 40 Menschen getötet worden, Dutzende werden noch vermisst. Es ist einer der tödlichsten Angriffe auf Zivilisten in diesem Jahr, wenige Tage vor geplanten Gesprächen in Abu Dhabi.",
-          "ausfuehrlich": "Die Zahl der Toten nach dem russischen Luftangriff auf das Dorf Komyschuwacha in der südostukrainischen Region Saporischschja ist auf mindestens 40 gestiegen. Das meldeten Präsident Selenskyj und örtliche Behörden am Mittwoch, den dritten Tag der Suche. Laut einem regionalen Verantwortlichen werden noch 59 Menschen vermisst, Selenskyj sprach von über 30 Personen, die unter den Trümmern liegen könnten. Unter den Toten sind zwei Rettungskräfte und vier Polizisten.\n\nDer Angriff vom 2. November traf laut ukrainischen Angaben eine Hilfsausgabestelle und einen Schutzraum in einer ehemaligen Schule. Eingesetzt worden seien schwere Gleitbomben vom Typ FAB-500 und FAB-3000, Letztere rund drei Tonnen schwer. Bodycam-Aufnahmen eines getöteten Polizisten zeigen die Warnung über Funk und den Moment des Einschlags. Russlands Verteidigungsministerium erklärte dagegen, es habe ukrainische Militäreinheiten angegriffen und bis zu 25 Soldaten getötet; diese Darstellung ist nicht unabhängig bestätigt.\n\nDie Ukraine hat eine dreitägige Trauer ausgerufen. Selenskyj wertete den Angriff als Beweis, dass Moskau keine Deeskalation wolle.\n\nDer Angriff erfolgte laut Reuters einen Tag nach dem Ende einer kurzen, von den USA vermittelten lokalen Waffenruhe und weniger als eine Woche vor geplanten Gesprächen zwischen ukrainischen und russischen Delegationen in Abu Dhabi. Ob diese Gespräche stattfinden und etwas bringen, ist offen.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "Kyiv Independent",
-            "url": "https://kyivindependent.com/death-toll-from-russian-attack-on-komyshuvakha-rises-to-37-as-search-operation-enters-3rd-day/"
-          },
-          "thema": "Ukraine-Krieg",
+          "thema": "Flugsicherheit",
           "stichworte": [
-            "Ukraine",
-            "Russland",
-            "Saporischschja",
-            "Zivilisten"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Reuters (via Yahoo)",
-              "url": "https://www.yahoo.com/news/world/articles/dozens-dead-missing-russian-strike-114700942.html"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/video/2026/11/04/ukraine-police-footage-captures-russian-strike-on-komyshuvakha-shelter"
-            }
+            "Bombendrohung",
+            "Luftfahrt",
+            "Europa",
+            "Hoax"
           ],
           "kontinent": "Europa",
-          "land": "Ukraine",
-          "audio": "audio/2026-11-05/welt-komyshuvakha-56b79b.mp3",
-          "dauer": 112
+          "land": "mehrere",
+          "audio": "audio/2026-11-06/welt-bombenalarme-3da48d.mp3",
+          "dauer": 149
+        },
+        {
+          "id": "welt-frankreich-streik",
+          "titel": "Frankreich: Landesweite Proteste gegen Macron weitgehend friedlich, Ausschreitungen in Lyon und Paris",
+          "text": "Am Donnerstag gingen in Frankreich erneut Menschen gegen Präsident Macron und die hohen Lebenshaltungskosten auf die Strasse. Laut Reuters blieben die Proteste und Streiks weitgehend friedlich, in Lyon und Paris kam es jedoch zu Zusammenstössen. Unter den Teilnehmenden waren auch Jean-Luc Mélenchon und Raphaël Glucksmann.",
+          "ausfuehrlich": "Frankreich erlebte am Donnerstag erneut landesweite Proteste und Streikaktionen. Im Zentrum stehen Kritik an Präsident Emmanuel Macron und der Druck der Lebenshaltungskosten. Laut Reuters verliefen die Demonstrationen mehrheitlich ruhig; in Lyon und Paris kam es aber zu Zusammenstössen zwischen Teilen der Protestierenden und der Polizei. Die Bilder aus den beiden Städten dürften die innenpolitische Debatte über Polizeitaktik und soziale Politik anheizen.\n\nPolitisch war das Spektrum breit. Linksführer Jean-Luc Mélenchon und der sozialdemokratisch ausgerichtete Raphaël Glucksmann zeigten sich bei den Mobilisierungen. Das unterstreicht, dass Unmut über Preise, Kaufkraft und Regierungsstil über einzelne Parteigrenzen hinausreicht – auch wenn die Ziele der Organisationen auseinanderlaufen. Gewerkschaften und Oppositionsparteien nutzen die Strasse als Druckmittel.\n\nFür Macron bleibt die Lage heikel. Hohe Lebenshaltungskosten treffen Haushalte spürbar, und Strassenproteste sind in Frankreich ein etabliertes politisches Ventil. Gleichzeitig muss die Regierung Sicherheit und Versammlungsfreiheit austarieren, wenn Randgruppen Gewalt suchen. Ein einzelner Protesttag ändert die Politik selten sofort; er verschiebt aber die öffentliche Stimmung.\n\nOb daraus eine längere Welle wird, hängt von weiteren Mobilisierungen und der Preisentwicklung ab. Die nächsten Tage zeigen, ob die Energie aus dem Donnerstag hält oder verebbt. Für Europa ist Frankreichs Innenlage relevant, weil Streiks Lieferketten und Nachbarländer mitbetreffen können.\n\nWirtschaftlich können Streiktage Lieferungen, den öffentlichen Verkehr und den Tourismus belasten. Politisch dienen sie Macron-Gegnern als Bühne und der Regierung als Gradmesser, wie weit Unmut in organisierte Dauerproteste umschlägt. Die weitgehend friedliche Gesamtbilanz bei lokalen Ausschreitungen ist für beide Seiten ein zweischneidiges Signal.\n\nBeobachter achten in den kommenden Tagen darauf, ob weitere Branchen nachziehen und ob die Regierung Zugeständnisse signalisiert. Ein einzelner Donnerstag macht noch keinen politischen Kurswechsel – er kann aber den Takt der Innenpolitik setzen.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
+          },
+          "thema": "Frankreich",
+          "stichworte": [
+            "Proteste",
+            "Macron",
+            "Lebenshaltungskosten",
+            "Streik"
+          ],
+          "kontinent": "Europa",
+          "land": "Frankreich",
+          "audio": "audio/2026-11-06/welt-frankreich-streik-dd6a89.mp3",
+          "dauer": 156
         },
         {
           "id": "welt-hormus",
-          "titel": "Hormus: Iran weist US-Antwort zurück, laut Revolutionsgarden brennen vier Tanker nach Minentreffern",
-          "text": "Iran nennt die Antwort der USA auf seine sieben Bedingungen zur Öffnung der Strasse von Hormus «nicht überzeugend». Laut den Revolutionsgarden sind vier Tanker auf Minen gelaufen und in Brand geraten. Trump sagt, er plane derzeit keine neuen Angriffe, sei aber bereit.",
-          "ausfuehrlich": "Die Verhandlungen über eine Wiedereröffnung der Strasse von Hormus kommen nicht voran. Der iranische Spitzenpolitiker Mohsen Rezaei bezeichnete die Antwort Washingtons auf Teherans sieben Bedingungen als «nicht überzeugend». Teheran knüpft eine Öffnung der Meerenge an diese Bedingungen. Katar vermittelt; beide Seiten seien weiter «dem Verhandlungsprozess verpflichtet», sagte ein Sprecher in Doha.\n\nGleichzeitig bleibt die Lage auf dem Wasser gefährlich. Die iranischen Revolutionsgarden erklärten am Mittwoch, vier Öltanker seien auf einer «verbotenen» südlichen Route nach Minentreffern in Brand geraten, zwei weitere Schiffe seien abgefangen worden. Diese Angaben stammen von iranischen Staatsmedien und sind nicht unabhängig bestätigt. Zuvor hatten die USA am 2. und 3. November nach eigenen Angaben «defensive» Angriffe auf Ziele bei Qeschm, Hengam und Bandar Abbas geflogen. Die Revolutionsgarden behaupten, eine US-Drohne vom Typ MQ-1 abgeschossen zu haben.\n\nPräsident Trump sagte der «Financial Times», er plane keine unmittelbaren neuen Angriffe: Man sei «locked and loaded», aber es gebe womöglich keinen Grund dafür. Irans Chefunterhändler Ghalibaf deutete das Wahlergebnis in den USA als Nein der Amerikaner zum Krieg und warnte vor einem «Albtraum», falls Trump nicht darauf höre.\n\nDer Krieg, den die USA und Israel im Februar begonnen hatten, hält die Ölpreise weit über dem Vorkriegsniveau; ein vorläufiges Abkommen vom Juni war gescheitert. Nach den Wahlen fiel der Ölpreis allerdings stark, weil Händler nun eher mit Deeskalation rechnen.",
-          "datum": "2026-11-04",
+          "titel": "Iran meldet drei weitere beschädigte Tanker in der Strasse von Hormus",
+          "text": "Teheran berichtet laut Reuters von drei weiteren beschädigten Tankern in der Strasse von Hormus am Donnerstag. Die Schifffahrt durch die kritische Ölpforte bleibt gefährdet. In den USA entfachte die Midterm-Niederlage der Republikaner zugleich eine Debatte über den Iran-Kurs; Vizepräsident J.D. Vance machte den Krieg laut Reuters für die Niederlage mitverantwortlich.",
+          "ausfuehrlich": "Iran hat laut Reuters am Donnerstag drei weitere beschädigte Tanker in der Strasse von Hormus gemeldet. Die Angaben stammen von iranischer Seite und sind unabhängig nicht im Detail bestätigt. Klar ist dennoch: Die Schifffahrt durch eine der wichtigsten Ölpforten der Welt bleibt angespannt und mit erhöhten Risiken verbunden. Schon Gerüchte über Schäden treiben Versicherungsprämien und Vorsichtsmassnahmen.\n\nJeder Vorfall in Hormus wirkt auf Routenwahl und Rohölmärkte. Reedereien müssen abwägen zwischen kürzeren, riskanteren Passagen und teuren Umwegen. Ein grosser Teil des weltweit gehandelten Öls passiert diese Enge; deshalb können kleine Störungen Preise und Lieferzeiten spürbar verschieben. Unabhängige Bestätigungen zu Umfang und Ursache der neuen Schäden fehlen in den vorliegenden Agenturberichten.\n\nPolitisch überschneidet sich die Lage mit der US-Debatte nach den Midterms. Laut Reuters macht Vizepräsident J.D. Vance den Krieg gegenüber dem Iran für die republikanische Niederlage mitverantwortlich. Ob daraus ein Kurswechsel folgt, ist offen; die innenpolitische Lesart zeigt aber, wie eng Energiekrieg und Wahlkampf verknüpft sind.\n\nFür Importeure und Notenbanken bleibt Hormus ein Risikofaktor. Deeskalation würde Märkte entlasten, neue Zwischenfälle könnten Preisschübe auslösen. Solange Schäden und Verursacher unklar sind, bleibt die Lage schwer einzuschätzen – und für die Schifffahrt heikel.\n\nMarktteilnehmer unterscheiden zwischen bestätigten Zwischenfällen und Meldungen einzelner Staaten. Solange unabhängige Schiffsdaten und Versicherer die iranischen Angaben nicht im Detail stützen, bleibt ein Teil der Risikoprämie Spekulation. Dennoch reicht schon die Wahrnehmung erhöhter Gefahr, um Routen und Prämien zu verschieben.\n\nFür Tankerflotten bleiben Escalation-Szenarien Teil der Planung: Begleitschutz, Routenabweichung und höhere Prämien. Staaten entlang der Route haben ein Interesse an Durchfahrtssicherheit, weil Einnahmen und Versorgung davon abhängen.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
           "thema": "Strasse von Hormus",
           "stichworte": [
-            "Iran",
-            "USA",
             "Hormus",
             "Tanker",
-            "Katar"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o"
-            },
-            {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-            }
+            "Iran",
+            "Öl"
           ],
           "kontinent": "Naher Osten",
           "land": "Iran",
-          "audio": "audio/2026-11-05/welt-hormus-19e29c.mp3",
-          "dauer": 119
+          "audio": "audio/2026-11-06/welt-hormus-8300f2.mp3",
+          "dauer": 144
+        },
+        {
+          "id": "welt-israel-regierung",
+          "titel": "Israel: Eisenkot führt bei Empfehlungen der Abgeordneten – Herzog nominiert am Sonntag",
+          "text": "Nach der Wahl vom 27. Oktober hat Gadi Eisenkot laut Reuters am Donnerstag die Mehrheit der Empfehlungen der Knesset-Abgeordneten erhalten. Staatspräsident Isaac Herzog will am Sonntag einen Kandidaten mit der Regierungsbildung beauftragen. Das Land steckt weiter in einer Pattsituation.",
+          "ausfuehrlich": "In Israel zeichnet sich nach der Parlamentswahl vom 27. Oktober ein Zwischenschritt ab: Laut Reuters hat Gadi Eisenkot am Donnerstag die Mehrheit der Empfehlungen der Knesset-Abgeordneten auf sich vereint. Staatspräsident Isaac Herzog will am Sonntag den Kandidaten nominieren, der eine Regierung bilden soll. Empfehlungen sind ein wichtiges Signal, aber keine Garantie für eine tragfähige Koalition.\n\nIn Israels fragmentiertem Parteiensystem scheitern Regierungsbildungen oft an Mathematik, Sicherheitsfragen und persönlichen Rivalitäten. Die Pattsituation nach dem Urnengang bleibt bestehen, bis klar ist, ob Eisenkot – oder ein anderer Nominiert – eine Mehrheit findet. Krieg, Geiseln und gesellschaftliche Spaltung wirken weiter auf jede Option. Wer regiert, muss Aussenpolitik, Armee und Innenreformen gleichzeitig steuern.\n\nDer Sonntag wird zeigen, wen Herzog formell beauftragt. Danach läuft die Uhr der Regierungsbildung. Scheitert sie, drohen neue Runden oder Neuwahl-Diskussionen. Für die Region bleibt interne Unklarheit ein Unsicherheitsfaktor, weil Verhandlungslinien und Militärentscheidungen von stabilen Mehrheiten abhängen.\n\nBeobachter achten besonders darauf, welche Partner Eisenkot braucht und welche roten Linien gesetzt werden. Bis eine Regierung steht, bleibt vieles provisorisch – von Budgets bis zu diplomatischen Initiativen.\n\nEisenkots Empfehlungsvorsprung zeigt, dass Teile des Parlaments eine Alternative zur bisherigen Lagerbildung suchen. Ob daraus eine stabile Koalition wird, hängt von Fraktionsdisziplin und von Themen wie Sicherheit, Religion und Haushalt ab. Herzog hat bei der Nomination formal Spielraum, politisch aber wenig Toleranz für Fehlgriffe.\n\nBis Sonntag bleibt Spekulation über Personal und Partner unvermeidlich. Entscheidend wird sein, welche Fraktionen ihre Empfehlung in konkrete Koalitionszusagen übersetzen – und welche Forderungen sie dafür stellen. Bis dahin bleibt Israel innenpolitisch in Warteposition – mit allen Unsicherheiten, die das für Regierungshandeln bedeutet.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
+          },
+          "thema": "Israel",
+          "stichworte": [
+            "Eisenkot",
+            "Herzog",
+            "Knesset",
+            "Regierungsbildung"
+          ],
+          "kontinent": "Naher Osten",
+          "land": "Israel",
+          "audio": "audio/2026-11-06/welt-israel-regierung-acfd85.mp3",
+          "dauer": 154
+        },
+        {
+          "id": "welt-trump-dmitriev",
+          "titel": "Trump trifft Putin-Gesandten Dmitriev privat – sieht Ukraine-Deal bald",
+          "text": "US-Präsident Donald Trump hat laut Reuters am Donnerstag Kirill Dmitriev, einen Gesandten Wladimir Putins, privat getroffen – nach einem Auftritt von Melania Trump mit ukrainischen und russischen Gästen. Trump sieht einen Ukraine-Deal bald kommen. Präsident Selensky sagte, die Ukraine müsse sich an die neue US-Politik anpassen.",
+          "ausfuehrlich": "Donald Trump hat laut Reuters am Donnerstag Kirill Dmitriev privat empfangen. Dmitriev gilt als Gesandter des russischen Präsidenten Wladimir Putin. Dem Treffen voraus ging ein Event von First Lady Melania Trump, an dem laut Bericht ukrainische und russische Gäste teilnahmen. Trump selbst äusserte die Erwartung, ein Deal zum Ukraine-Krieg könne bald zustande kommen. Unabhängige Details zum Gesprächsinhalt liegen nicht vor.\n\nAus Kiew kam eine zurückhaltend-pragmatische Reaktion: Präsident Wolodimir Selensky erklärte laut Reuters, die Ukraine müsse sich an die neue US-Politik anpassen. Das unterstreicht, wie stark der Kurs Washingtons den Verhandlungsspielraum Kiews prägt – finanziell, militärisch und diplomatisch. Privatkontakte zwischen Washington und Moskauer Emissären sind heikel, weil Verbündete Transparenz erwarten.\n\nOb aus dem Treffen konkrete Fortschritte folgen, ist offen. Frühere Annäherungen sind oft an Maximalforderungen gescheitert. Für Europa bleibt die Lage doppelbödig: Hoffnung auf Deeskalation trifft auf die Sorge, dass ein rascher Deal Sicherheitsgarantien und Gebietsfragen zulasten der Ukraine verschiebt.\n\nDie nächsten Tage dürften zeigen, ob Trumps Optimismus in sichtbare Diplomatie übersetzt wird – oder rhetorisch bleibt. Alliierte werden auf Substanz achten: Waffenstillstandslinien, Garantien, Sanktionen und die Rolle Europas am Tisch.\n\nEuropäische Hauptstädte dürften hinter den Kulissen auf Klarheit drängen, was Washington unter einem baldigen Deal versteht. Ohne belastbare Garantien und ohne Einbindung der Ukraine bleibt Skepsis angebracht. Trumps öffentliche Zuversicht setzt gleichwohl Erwartungen, an denen spätere Schritte gemessen werden.\n\nOb Dmitrievs Besuch mehr war als ein Sondierungsgespräch, lässt sich aus den vorliegenden Reuters-Angaben nicht belegen. Die öffentliche Inszenierung allein schafft jedoch Fakten im Informationsraum und erhöht den Erwartungsdruck auf alle Seiten.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
+          },
+          "thema": "Ukraine-Krieg",
+          "stichworte": [
+            "Trump",
+            "Dmitriev",
+            "Selensky",
+            "Verhandlungen"
+          ],
+          "kontinent": "Europa",
+          "land": "Ukraine",
+          "audio": "audio/2026-11-06/welt-trump-dmitriev-2fb50e.mp3",
+          "dauer": 143
         },
         {
           "id": "welt-sudan-aethiopien",
-          "titel": "Äthiopien weist sudanesische Diplomaten aus, Angst vor einem Krieg am Horn von Afrika wächst",
-          "text": "Äthiopien hat sechs sudanesische Diplomaten ausgewiesen und das Konsulat in Asosa geschlossen. Sudan wirft Addis Abeba vor, der RSF-Miliz Drohnenangriffe von äthiopischem Boden aus zu erlauben. Fachleute fürchten, dass die Kriege beider Länder ineinander übergreifen.",
-          "ausfuehrlich": "Äthiopien hat sechs Mitarbeitende des sudanesischen Konsulats in der Grenzstadt Asosa angewiesen, das Land innert 48 Stunden zu verlassen, und das Konsulat geschlossen.\n\nZuvor hatte Sudan beim UN-Sicherheitsrat und beim Friedens- und Sicherheitsrat der Afrikanischen Union Beschwerde eingereicht. Khartum wirft Äthiopien vor, den paramilitärischen Rapid Support Forces (RSF) zu erlauben, von äthiopischem Gebiet aus Drohnenangriffe auf zivile Infrastruktur im Sudan zu starten. Äthiopien bestreitet das und beschuldigt seinerseits Sudan, Rebellen in der Region Tigray zu unterstützen, die im September eine Offensive begonnen haben. Auch das weist Sudan zurück.\n\nIm Sudan selbst geht der Drohnenkrieg weiter. Am Wochenende legten Angriffe auf Umspannwerke in Al-Dabbah und Abu Hamad im Norden die Stromversorgung lahm; die Regierung macht die RSF verantwortlich. Die Vereinten Nationen warnen vor wachsendem humanitärem Leid. Der Krieg zwischen Armee und RSF hat seit 2023 zehntausende Tote gefordert und über 14 Millionen Menschen vertrieben.\n\nÄthiopien hatte bereits am 1. Oktober zehn eritreische Diplomaten und zuvor auch einen ägyptischen Diplomaten ausgewiesen. Die Kette von Konflikten nährt die Sorge vor einem grösseren regionalen Krieg am Horn von Afrika. Gleichzeitig fliehen laut UNHCR Tausende Menschen vor der Gewalt in Äthiopien nach Kenia.",
-          "datum": "2026-11-04",
+          "titel": "Äthiopien und Sudan schliessen wechselseitig Konsulate – Streit um RSF-Drohnen",
+          "text": "Äthiopien hat sechs sudanesische Konsulatsmitarbeiter in Assosa ausgewiesen und das Konsulat geschlossen; Sudan schloss darauf das äthiopische Konsulat in al-Qadarif. Khartum wirft Addis Abeba vor, Starts von RSF-Drohnen zu dulden. Der Krieg im Sudan dauert seit 2023 an; laut UN sind über 14 Millionen Menschen vertrieben.",
+          "ausfuehrlich": "Der Konflikt zwischen Sudan und Äthiopien spitzt sich diplomatisch zu. Laut AP und The National hat Äthiopien sechs Mitarbeiter des sudanesischen Konsulats in Assosa ausgewiesen und die Vertretung geschlossen. Sudan reagierte mit der Schliessung des äthiopischen Konsulats in al-Qadarif (Qadaref). Solche Schritte erschweren Visaservices und Krisendiplomatie genau dann, wenn beides gebraucht würde.\n\nKhartum beschuldigt Äthiopien, Starts von Drohnen der paramilitärischen Rapid Support Forces (RSF) zu dulden. Addis Abeba weist solche Vorwürfe typischerweise zurück; unabhängige Bestätigungen zu konkreten Drohnenstarts fehlen in den vorliegenden Berichten. Klar ist, dass der Vorwurf die bilateralen Beziehungen weiter vergiftet und Misstrauen an der Grenze schürt.\n\nIm Sudan kämpfen seit 2023 Armee und RSF um die Macht. Laut UN sind über 14 Millionen Menschen vertrieben – eine der grössten Vertreibungskrisen der Welt. Nachbarstaaten spüren den Druck durch Fluchtbewegungen, Waffenwege und humanitäre Not. Grenznahe Regionen sind besonders exponiert.\n\nOb Vermittler die Lage entschärfen können, ist ungewiss. Für die Zivilbevölkerung im Sudan ändert der diplomatische Schlagabtausch kurzfristig wenig an Krieg und Hunger – er erschwert aber regionale Lösungen. Konsulatsschliessungen sind ein Warnsignal, kein Endpunkt.\n\nHumanitäre Organisationen arbeiten im Sudan ohnehin unter extremen Bedingungen. Zusätzliche Spannungen mit Äthiopien können Hilfskorridore und Grenzübertritte weiter erschweren. Die wechselseitigen Konsulatsschliessungen sind deshalb nicht nur Symbolpolitik, sondern ein praktisches Hindernis für Alltagskontakte und Krisenmanagement.\n\nSeit Kriegsbeginn 2023 hat sich die humanitäre Lage im Sudan dramatisch verschlechtert. Jede zusätzliche diplomatische Eiszeit mit Nachbarn erschwert Logistik und Schutz für Zivilisten, die ohnehin zwischen Frontlinien und Hunger navigieren. Beobachter der Region werten die wechselseitigen Ausweisungen als deutliche Verschlechterung, nicht als blosse Geste.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions"
+            "name": "The National / AP",
+            "url": "https://www.thenationalnews.com/"
           },
           "thema": "Sudan-Krieg",
           "stichworte": [
             "Sudan",
             "Äthiopien",
             "RSF",
-            "Tigray",
-            "Horn von Afrika"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Dabanga",
-              "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-kill-civilians-and-cripple-sudans-power-infrastructure-un-warns-of-growing-humanitarian-toll"
-            }
+            "Konsulat"
           ],
           "kontinent": "Afrika",
           "land": "mehrere",
-          "audio": "audio/2026-11-05/welt-sudan-aethiopien-2ec890.mp3",
-          "dauer": 106
+          "audio": "audio/2026-11-06/welt-sudan-aethiopien-48dcf0.mp3",
+          "dauer": 152
         },
         {
-          "id": "welt-philippinen-china",
-          "titel": "China und die Philippinen streiten, wollen aber im Gespräch bleiben",
-          "text": "Die Aussenminister Chinas und der Philippinen haben lange telefoniert. Peking warf Manila vor, rote Linien zu überschreiten; trotzdem versprachen beide, den Dialog fortzusetzen. Hintergrund sind der Dauerstreit im Südchinesischen Meer und die bevorstehenden Gipfel von ASEAN und APEC.",
-          "ausfuehrlich": "Chinas Aussenminister Wang Yi und seine philippinische Amtskollegin Ma. Theresa Lazaro haben am Dienstag ausführlich telefoniert. Die beiden Regierungen berichteten danach sehr unterschiedlich: Manila nannte das Gespräch «offen, pragmatisch und konstruktiv». Laut der chinesischen Staatsagentur Xinhua sprach Wang dagegen von «böswilliger Einmischung» in die Beziehungen und warf einigen Politikern ein «irrationales und untragbares» Verhalten vor, das Chinas rote Linien überschreite. Gemeint ist vermutlich auch die Rolle der USA, ausdrücklich genannt wurde sie in den Berichten aber nicht.\n\nHinter den scharfen Worten steht der Streit um Gebiete im Südchinesischen Meer. China beansprucht fast das ganze Meer, die Philippinen pochen auf ein internationales Schiedsurteil von 2016, das diese Ansprüche zurückweist. Immer wieder kommt es zu gefährlichen Begegnungen zwischen Küstenwachen beider Länder.\n\nTrotz allem sicherten sich beide Seiten zu, im Gespräch zu bleiben. Die Philippinen haben dieses Jahr den Vorsitz der südostasiatischen Staatengemeinschaft ASEAN; der Gipfel in Manila steht bevor, und Chinas Premier Li Qiang wird erwartet. Später im Monat folgen die APEC-Treffen im chinesischen Shenzhen. Beide Minister versprachen, die jeweiligen Staatsspitzen mit gebührendem Respekt zu empfangen.\n\nDas Gespräch zeigt die Gratwanderung in Südostasien: Die Region ist wirtschaftlich eng mit China verbunden, sicherheitspolitisch suchen viele Staaten aber die Nähe zu den USA.",
-          "datum": "2026-11-04",
+          "id": "welt-somalia-somaliland",
+          "titel": "Somalia weist Israels Botschafter-Pläne für Somaliland zurück",
+          "text": "Die somalische Regierung hat Israels Ernennung eines Botschafters und Pläne für eine Botschaft in Somaliland scharf zurückgewiesen. Laut allAfrica sieht Mogadischu darin einen Angriff auf die eigene Souveränität. Somaliland gilt international weitgehend als Teil Somalias, auch wenn es sich seit 1991 als unabhängig betrachtet.",
+          "ausfuehrlich": "Somalia hat Israels Vorhaben zurückgewiesen, in Somaliland diplomatisch Fuss zu fassen. Laut allAfrica lehnt Mogadischu sowohl die Ernennung eines Botschafters als auch Botschaftspläne in der abtrünnigen Region ab und verweist auf die eigene territoriale Souveränität. Für die Bundesregierung in Mogadischu wäre jede Aufwertung Somalilands ein Präzedenzfall.\n\nSomaliland erklärte sich 1991 für unabhängig, wird aber von den meisten Staaten weiterhin als Teil Somalias betrachtet. Jede Form auswärtiger Anerkennung oder diplomatischer Präsenz ist deshalb hochpolitisch – für Mogadischu ein Tabu, für Hargeisa ein angestrebter Durchbruch. Israelische Pläne treffen genau diese Bruchlinie.\n\nDie Region am Horn von Afrika ist fragil: Häfen, Sicherheitskooperation und Grossmachtinteressen sind eng verknüpft. Nachbarn und regionale Organisationen beobachten, ob weitere Staaten folgen oder ob der Vorstoss isoliert bleibt. Schon symbolische Schritte können Allianzen verschieben.\n\nKurzfristig dürfte die Affäre die Rhetorik zwischen Mogadischu und Hargeisa verschärfen. Ob daraus Sanktionen, Gegenschritte oder Vermittlung werden, ist offen. Für die Zivilbevölkerung zählt vor allem, dass neue Spannungen keine zusätzlichen Sicherheitsrisiken schaffen.\n\nOb Israels Schritt vor allem symbolisch bleibt oder zu einer dauerhaften Präsenz führt, ist aus den vorliegenden Berichten nicht abschliessend zu beantworten. Für Mogadischu zählt die klare Ablehnung als Souveränitätsbehauptung; für Somaliland wäre jede Botschaft ein diplomatischer Gewinn. Die nächste Phase entscheidet sich an Taten, nicht an Titeln.\n\nAm Horn von Afrika überlagern sich lokale Souveränitätsfragen mit Interessen externer Akteure. Gerade deshalb wirken Botschaftspläne so explosiv: Sie berühren Flagge, Anerkennung und Sicherheitskooperation zugleich. Weitere Klarheit hängt davon ab, ob Israel die Pläne operativ vorantreibt oder sie nach dem Protest aus Mogadischu pausiert. Die Lage bleibt dynamisch und von öffentlichen Signalen beider Seiten abhängig.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "The Straits Times (Reuters)",
-            "url": "https://www.straitstimes.com/asia/se-asia/philippines-china-pledge-to-maintain-dialogue-despite-tensions"
+            "name": "allAfrica",
+            "url": "https://allafrica.com/"
           },
-          "thema": "Südchinesisches Meer",
+          "thema": "Horn von Afrika",
           "stichworte": [
-            "China",
-            "Philippinen",
-            "ASEAN",
-            "Südchinesisches Meer"
+            "Somalia",
+            "Somaliland",
+            "Israel",
+            "Botschaft"
+          ],
+          "kontinent": "Afrika",
+          "land": "Somalia",
+          "audio": "audio/2026-11-06/welt-somalia-somaliland-30689a.mp3",
+          "dauer": 150
+        },
+        {
+          "id": "welt-taiwan-panasonic",
+          "titel": "Brand in Panasonic-Fabrik in Taiwan: zwei Tote, fünf Verletzte",
+          "text": "Bei einem Brand in einer Panasonic-Fabrik in Hsinchu auf Taiwan sind laut Reuters zwei Menschen ums Leben gekommen, fünf weitere wurden verletzt. Die genauen Ursachen waren zunächst unklar. Der Vorfall trifft einen wichtigen Industriestandort der Insel.",
+          "ausfuehrlich": "In Hsinchu auf Taiwan hat ein Brand in einer Fabrik von Panasonic laut Reuters zwei Menschenleben gefordert. Fünf Personen wurden verletzt. Angaben zu Auslöser und Brandverlauf waren in den ersten Meldungen noch dünn; die lokalen Behörden untersuchen den Fall. Die Opferzahlen stammen aus Agenturberichten und können sich noch ändern.\n\nHsinchu ist ein zentrales Industrie- und Technologiegebiet Taiwans. Unfälle in Fabriken dort treffen nicht nur die unmittelbar Betroffenen, sondern werfen Fragen zu Arbeitssicherheit und Notfallroutinen auf. Ob Produktionslinien länger stillstehen, hing zunächst von Ermittlungen und Schäden ab. Für Angehörige und Belegschaft steht der menschliche Verlust im Vordergrund.\n\nPanasonic hat den Vorfall laut vorliegenden Agenturmeldungen zur Kenntnis genommen; detaillierte Konzernstatements zu Ursachen lagen zum Zeitpunkt der Berichte noch nicht vor. Solche Klarstellungen folgen oft erst nach internen und behördlichen Untersuchungen.\n\nWeitere Klarheit müssen Feuerwehr, Polizei und Aufsicht schaffen. Bis dahin gilt Zurückhaltung bei Spekulationen über Ursachen. Industriestandorte wie Hsinchu sind eng getaktet – ein schwerer Brand kann Lieferketten treffen, doch zuerst geht es um die Opfer und die Sicherheit der Belegschaft.\n\nTaiwanische Behörden veröffentlichen bei Industrieunfällen üblicherweise schrittweise Updates zu Ursachen und Sicherheitsauflagen. Bis dahin sollten Opferzahlen und Schadenausmass als vorläufig gelten. Für internationale Beobachter bleibt der Fall vor allem eine Tragödie am Arbeitsplatz – keine geopolitische Wendung.\n\nArbeitsschutzbehörden in Industrieregionen wie Hsinchu reagieren auf tödliche Brände üblicherweise mit Inspektionen und möglichen Auflagen. Solche Schritte folgen oft erst, wenn die Brandursache grob eingegrenzt ist. Solange die Ursache unklar ist, bleiben alle weitergehenden Schlüsse spekulativ. Weitere Updates der Behörden können Opfer- und Schadenszahlen noch präzisieren.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
+          },
+          "thema": "Taiwan",
+          "stichworte": [
+            "Panasonic",
+            "Hsinchu",
+            "Brand",
+            "Fabrik"
           ],
           "kontinent": "Asien",
-          "land": "Philippinen",
-          "audio": "audio/2026-11-05/welt-philippinen-china-4a6c52.mp3",
-          "dauer": 110
+          "land": "Taiwan",
+          "audio": "audio/2026-11-06/welt-taiwan-panasonic-0559cb.mp3",
+          "dauer": 143
         },
         {
-          "id": "welt-indonesien",
-          "titel": "Indonesiens Präsident entlässt seinen Stabschef wegen mutmasslicher Abhöraktion",
-          "text": "Indonesiens Präsident Prabowo Subianto hat seinen Stabschef Listyo Sigit Prabowo entlassen. Der frühere Polizeichef wurde festgenommen; er soll den Präsidenten, Politiker und Journalisten illegal abgehört haben. Der Palast spricht von einem Fall, der an Hochverrat grenzen könnte.",
-          "ausfuehrlich": "In Indonesien sorgt eine Abhöraffäre an der Staatsspitze für Aufsehen. Präsident Prabowo Subianto hat seinen Stabschef Listyo Sigit Prabowo entlassen, nachdem dieser festgenommen und als Verdächtiger in einem Verfahren wegen illegaler Überwachung benannt worden war. Er soll laut Polizei den Präsidenten selbst, Regierungsmitglieder, Politiker und Journalisten abgehört haben. Als geschäftsführender Stabschef wurde Ariyo Windutomo eingesetzt.\n\nLaut den Ermittlern umgingen die Verdächtigen die gesetzlichen Verfahren: Sie sollen Telefonnummern ohne Prüfung in das Abhörsystem der Behörden eingespeist und später zugehörige Dateien gelöscht haben. Der Präsidentenpalast erklärte laut «The Straits Times», der Fall könne an Hochverrat grenzen. Listyo hat sich nach den vorliegenden Berichten noch nicht öffentlich zu den Vorwürfen geäussert; es gilt die Unschuldsvermutung.\n\nListyo ist kein Unbekannter: Er war früher Chef der Nationalpolizei. Dass ausgerechnet einer der mächtigsten Sicherheitsleute des Landes unter Verdacht steht, den Präsidenten auszuspionieren, erschüttert das Vertrauen in die Sicherheitsapparate.\n\nIndonesien ist mit rund 280 Millionen Einwohnern die grösste Demokratie Südostasiens. Der Fall dürfte die Debatte über Kontrolle von Polizei und Geheimdiensten neu beleben.",
-          "datum": "2026-11-04",
+          "id": "welt-newsom-todesstrafe",
+          "titel": "Kalifornien: Newsom will alle 548 Todesurteile in lebenslange Haft umwandeln",
+          "text": "Gouverneur Gavin Newsom will alle 548 Todesurteile in Kalifornien in lebenslange Haft ohne Bewährung umwandeln. In einem Brief an die Bevölkerung begründet er den Schritt; seit 2006 gab es im Bundesstaat keine Hinrichtung. Newsom scheidet im Januar aus dem Amt und gilt als möglicher Kandidat für 2028.",
+          "ausfuehrlich": "Kaliforniens Gouverneur Gavin Newsom kündigt an, alle 548 bestehenden Todesurteile in lebenslange Haft ohne Bewährung umzuwandeln. Das berichtet SRF unter Berufung auf seine Mitteilung. In einem Brief an die Bevölkerung legt Newsom seine Gründe dar; moralische und praktische Einwände gegen die Todesstrafe stehen im Zentrum. Seit 2006 wurde in Kalifornien niemand mehr hingerichtet.\n\nDas System gilt als teuer, juristisch angreifbar und faktisch blockiert. Newsom hatte die Vollstreckung bereits früher ausgesetzt; die angekündigte Umwandlung ginge einen Schritt weiter und würde die Todeszelle als Institution im Bundesstaat weitgehend leeren. Für die Betroffenen bedeutet das zunächst eine klare Richtung: statt Hinrichtung lebenslange Haft.\n\nPolitisch fällt der Vorstoss in seine Endphase: Im Januar gibt Newsom das Amt ab. Zugleich wird er als möglicher Bewerber um die Präsidentschaft 2028 gehandelt. Gegner dürften den Schritt als übergriffig gegenüber Opfern und Geschworenen brandmarken, Befürworter als konsequente Abkehr von einer Strafe, die der Staat ohnehin nicht mehr vollzieht.\n\nOb Gerichte oder das Parlament Teile des Vorhabens bremsen, bleibt abzuwarten. Für die US-Debatte über Strafjustiz ist es ein Signal aus dem bevölkerungsreichsten Bundesstaat – mit Wirkung weit über Sacramento hinaus.\n\nIn den USA ist die Todesstrafe von Bundesstaat zu Bundesstaat unterschiedlich geregelt. Kaliforniens angekündigte Umwandlung aller Urteile wäre deshalb vor allem ein Signal innerhalb der Union, nicht ein nationales Verbot. Opferschutzorganisationen und Strafverfolger dürften den Schritt kontrovers kommentieren; Details der Umsetzung entscheiden über die praktische Wirkung.\n\nNewsom rahmt den Schritt als Abschluss einer längeren Linie gegen Hinrichtungen. Ob Nachfolgerinnen und Nachfolger daran festhalten, hängt von künftigen Mehrheiten und Gerichtsentscheiden ab – die Ankündigung allein bindet nicht ewig.",
+          "datum": "2026-11-06",
           "quelle": {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"
+            "name": "SRF",
+            "url": "https://www.srf.ch/news/international/usa/haft-statt-todesstrafe-gouverneur-newsom-umwandlung-aller-todesurteile-in-kalifornien"
           },
-          "thema": "Indonesien",
+          "thema": "USA Justiz",
           "stichworte": [
-            "Indonesien",
-            "Prabowo",
-            "Abhöraffäre",
-            "Polizei"
+            "Newsom",
+            "Todesstrafe",
+            "Kalifornien",
+            "Justiz"
           ],
-          "weitere_quellen": [
-            {
-              "name": "ANTARA",
-              "url": "https://en.antaranews.com/news/440119/prabowo-dismisses-listyo-names-ariyo-as-presidential-chief-of-staff"
-            },
-            {
-              "name": "The Straits Times",
-              "url": "https://www.straitstimes.com/asia/se-asia/prabowo-sacks-chief-of-staff-listyo-over-alleged-wiretapping-palace-says-case-may-border-on-treason"
-            }
-          ],
-          "kontinent": "Asien",
-          "land": "Indonesien",
-          "audio": "audio/2026-11-05/welt-indonesien-9be90b.mp3",
-          "dauer": 98
+          "kontinent": "Nordamerika",
+          "land": "USA",
+          "audio": "audio/2026-11-06/welt-newsom-todesstrafe-427e8b.mp3",
+          "dauer": 143
         },
         {
-          "id": "welt-ungarn",
-          "titel": "Ungarn öffnet nach 37 Jahren die Akten der kommunistischen Geheimpolizei",
-          "text": "Ungarn hat eine durchsuchbare Online-Datenbank mit den Namen von bis zu 60 000 früheren Spitzeln der kommunistischen Geheimpolizei veröffentlicht. Es ist der bisher grösste Schritt zur Aufarbeitung der Diktatur, weitere Akten sollen im Februar folgen.",
-          "ausfuehrlich": "Ungarn hat am Mittwoch die Akten der Geheimpolizei aus der kommunistischen Zeit in grossem Umfang öffentlich gemacht. In einer durchsuchbaren Online-Datenbank sind bis zu 60 000 frühere Informanten aufgeführt, mit Namen, Decknamen, Geburtsdaten, Adressen und Angaben zur Anwerbung. Eine weitere Tranche mit detaillierteren Unterlagen zur Rekrutierung ist laut BBC für den 25. Februar angekündigt.\n\nAnders als Deutschland mit der Stasi-Unterlagenbehörde hatte Ungarn seine Geheimdienstakten nach dem Ende des Kommunismus 1989 nie vollständig geöffnet. Über Jahrzehnte blieb weitgehend im Dunkeln, wer für die Staatssicherheit gespitzelt hatte. Immer wieder gab es Spekulationen über Politiker, Kirchenleute oder Künstler, belegen liess sich wenig. Die Frage, ob und wie die Akten geöffnet werden, war politisch umstritten.\n\nFachleute sehen in der Veröffentlichung einen wichtigen Schritt zur Aufarbeitung der Diktatur. Gleichzeitig gibt es Bedenken: Nicht jede Person, die in den Akten als Informant geführt wird, hat tatsächlich aktiv gespitzelt, und manche wurden unter Druck angeworben. Fachleute mahnen deshalb, die Einträge sorgfältig einzuordnen.\n\nDie Öffnung dürfte in Ungarn in den kommenden Wochen für Gesprächsstoff sorgen, da nun jede und jeder prüfen kann, ob Bekannte, Nachbarn oder Personen des öffentlichen Lebens in den Listen auftauchen.",
-          "datum": "2026-11-04",
+          "id": "welt-paraguay-pena",
+          "titel": "Paraguays Präsident Peña tritt nach Kollaps der Digitalbank ueno zurück",
+          "text": "Präsident Santiago Peña ist laut Reuters am Donnerstag zurückgetreten. Auslöser ist der Kollaps der Digitalbank ueno, zu der er frühere Geschäftsverbindungen hatte. Fast die Hälfte der Bevölkerung hat keinen Kontozugang; der Fall wirft Fragen zu Stabilität und Vertrauen in die Demokratie auf.",
+          "ausfuehrlich": "Paraguays Präsident Santiago Peña hat laut Reuters am Donnerstag seinen Rücktritt erklärt. Im Zentrum steht der Zusammenbruch der Digitalbank ueno, mit der Peña frühere geschäftliche Verbindungen nachgesagt werden. Die genauen Haftungs- und Aufsichtsfragen waren in den ersten Berichten noch nicht abschliessend geklärt. Der Fall verbindet Finanzcrash und Staatsspitze.\n\nFür Paraguay wiegt er schwer: Laut Reuters hat fast die Hälfte der Bevölkerung keinen Zugang zu einem Bankkonto. Digitale Finanzangebote galten als Chance für Inklusion – umso grösser der Vertrauensschaden, wenn eine Digitalbank kollabiert und politisch an die Staatsspitze rückgebunden wird. Einleger und Aufsicht stehen unter Druck.\n\nDer Rücktritt soll die Lage beruhigen, wirft aber Verfassungs- und Nachfolgefragen auf. Märkte und Nachbarstaaten beobachten, ob der Übergang geordnet verläuft. Unabhängige Details zu Verlusten und möglichen Strafverfahren lagen zunächst nur bruchstückhaft vor.\n\nLateinamerika kennt präsidiale Krisen; entscheidend ist, ob Institutionen den Schock absorbieren. Für viele Haushalte zählt kurzfristig, ob Ersparnisse und Zahlungsverkehr gesichert sind. Der Fall ueno dürfte die Debatte über Fintech-Aufsicht in der Region verschärfen.\n\nWie die Nachfolge geregelt wird und ob Straf- oder Aufsichtsverfahren folgen, war in den ersten Agenturberichten noch offen. Entscheidend für die Märkte ist, ob Einlagen geschützt und der Zahlungsverkehr stabil bleiben. Für Lateinamerika ist der Fall ein Warnsignal, wie eng Fintech-Risiken und politische Verantwortung zusammenhängen können.\n\nDigitale Banken versprechen Inklusion, brauchen aber robuste Aufsicht. Der Kollaps von ueno und der Rücktritt an der Staatsspitze machen sichtbar, wie teuer fehlende Trennung von Politik und Finanzinteressen werden kann – jedenfalls laut der von Reuters skizzierten Lesart. Die kommenden Tage dürften zeigen, wie geordnet der Machtübergang verläuft und wie Einleger geschützt werden.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "BBC",
-            "url": "https://www.bbc.com/news/articles/c977p01kgmmko"
-          },
-          "thema": "Ungarn",
-          "stichworte": [
-            "Ungarn",
-            "Geheimpolizei",
-            "Kommunismus",
-            "Aufarbeitung"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed"
-            },
-            {
-              "name": "DW",
-              "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016"
-            }
-          ],
-          "kontinent": "Europa",
-          "land": "Ungarn",
-          "audio": "audio/2026-11-05/welt-ungarn-8d2694.mp3",
-          "dauer": 104
-        },
-        {
-          "id": "welt-iberoamerika",
-          "titel": "Iberoamerika-Gipfel in Madrid: Minimalkonsens, aber eine gemeinsame KI-Allianz",
-          "text": "Am 30. Iberoamerika-Gipfel in Madrid sind zwar alle 22 Mitgliedstaaten vertreten, aber nur zehn Staatschefs gekommen; Lula, Sheinbaum und Venezuelas Delcy Rodríguez fehlen. Spanien rettet mit einer knappen Schlusserklärung den Konsens. Beschlossen wird unter anderem eine gemeinsame KI-Allianz.",
-          "ausfuehrlich": "In Madrid findet am 4. und 5. November der 30. Iberoamerikanische Gipfel statt, das Treffen der spanisch- und portugiesischsprachigen Staaten Lateinamerikas und der iberischen Halbinsel. Alle 22 Mitgliedstaaten sind vertreten, aber laut spanischen Medien nur zehn Staats- und Regierungschefs persönlich. Es fehlen gewichtige Stimmen wie Brasiliens Präsident Lula, Mexikos Präsidentin Claudia Sheinbaum und Venezuelas Delcy Rodríguez. Der öffentlich-rechtliche Sender RTVE sprach von einem «entkoffeinierten» Gipfel.\n\nSpanien gelang es laut «El País», mit einer kurzen, neutral formulierten Schlusserklärung den Konsens zu sichern. Inhaltlich vereinbarten die Teilnehmenden eine Iberoamerikanische KI-Allianz, mit der die Länder bei künstlicher Intelligenz enger zusammenarbeiten wollen.\n\nFür Aufsehen sorgte ein Überraschungsbesuch des ukrainischen Präsidenten Selenskyj. Er traf Spaniens Regierungschef Pedro Sánchez, König Felipe VI. und lateinamerikanische Staatschefs, um mehr Unterstützung für die Ukraine in Lateinamerika zu gewinnen. Argentiniens Präsident Javier Milei reiste ebenfalls nach Madrid; die Beziehung zwischen ihm und Sánchez ist seit Langem gespannt.\n\nDie Abwesenheiten zeigen, wie zersplittert Lateinamerika politisch ist, zwischen linken und rechten Regierungen und im Verhältnis zu den USA. Dass überhaupt eine gemeinsame Erklärung zustande kam, werten Beobachter dennoch als kleinen Erfolg für Spanien.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "El País",
-            "url": "https://elpais.com/espana/2026-11-04/espana-salva-el-consenso-iberoamericano-con-una-declaracion-final-de-minimos.html"
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
           "thema": "Lateinamerika",
           "stichworte": [
-            "Iberoamerika-Gipfel",
-            "Spanien",
-            "Lateinamerika",
-            "Selenskyj",
-            "KI"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "RTVE",
-              "url": "https://www.rtve.es/noticias/20261104/madrid-cumbre-iberoamericana-descafeinada-milei-ausentan-lula-sheinbaum/17298187.shtml"
-            }
+            "Paraguay",
+            "Peña",
+            "ueno",
+            "Rücktritt"
           ],
           "kontinent": "Südamerika",
-          "land": "mehrere",
-          "audio": "audio/2026-11-05/welt-iberoamerika-153fc5.mp3",
-          "dauer": 110
+          "land": "Paraguay",
+          "audio": "audio/2026-11-06/welt-paraguay-pena-6bb437.mp3",
+          "dauer": 143
         },
         {
-          "id": "welt-neuseeland",
-          "titel": "Neuseeland vor einer Zitterwahl: Eine Kleinpartei könnte entscheiden",
-          "text": "Am Samstag wählt Neuseeland ein neues Parlament. Die letzten Umfragen zeigen ein Kopf-an-Kopf-Rennen zwischen der regierenden National Party von Premier Luxon und Labour, beide unter 30 Prozent. Die neue Mittepartei Opportunity könnte Königsmacherin werden.",
-          "ausfuehrlich": "Neuseeland wählt am Samstag, 7. November, ein neues Parlament, und die letzten Umfragen deuten auf eine sehr knappe Entscheidung hin. Laut einer 1News-Verian-Umfrage liegt die National Party von Premierminister Christopher Luxon bei 30 Prozent, Labour unter Chris Hipkins bei 29 Prozent. Eine zweite Umfrage sieht beide knapp unter 29 Prozent. Die Grünen kommen auf 14 bis 16 Prozent, die libertäre Act-Partei auf rund 10 und die populistische NZ First auf 8 bis 9 Prozent.\n\nDamit hätte nach den Umfragen weder das rechte Regierungslager noch das linke Oppositionslager eine eigene Mehrheit. Entscheidend könnte die neue Mittepartei Opportunity unter der 38-jährigen Unternehmerin Qiulae Wong werden, die knapp über die Fünfprozenthürde kommen dürfte. Sie will zuerst mit der stärksten Partei verhandeln. Luxon hat eine Zusammenarbeit aber mehrfach ausgeschlossen, weil Opportunity eine Bodensteuer fordert.\n\nKurz vor der Wahl stieg die Arbeitslosigkeit unerwartet auf 5,7 Prozent, den höchsten Wert seit elf Jahren. Über eine Million Menschen haben bereits vorzeitig gewählt, rund 30 Prozent mehr als 2023.\n\nBleibt die Wahlnacht ohne klaren Sieger, muss Neuseeland auf das amtliche Endergebnis am 27. November warten, das auch Auslandstimmen enthält.",
+          "id": "welt-kolumbien-pipeline",
+          "titel": "Kolumbien will Gas-Pipeline aus Venezuela wegen Knappheit wiederherstellen",
+          "text": "Kolumbien plant laut UPI, die Gas-Pipeline Antonio Ricaurte aus Venezuela wieder in Betrieb zu nehmen. Grund ist eine Versorgungslücke im eigenen Markt. Reparaturen und US-Sanktionen gelten als zentrale Hürden.",
+          "ausfuehrlich": "Kolumbien will die grenzüberschreitende Gas-Pipeline Antonio Ricaurte wiederherstellen, um eine Knappheit im Inland zu lindern. Das berichtet UPI. Die Leitung verbindet das Land mit Venezuela und war längere Zeit ausser Betrieb. Bogota sucht damit eine schnelle Option für zusätzliche Versorgung.\n\nTechnisch stehen Reparaturen an; politisch liegen US-Sanktionen gegenüber Caracas quer. Jede Wiederaufnahme von Energieflüssen aus Venezuela muss juristisch und diplomatisch abgesichert werden – sonst drohen Sekundärrisiken für Firmen und Finanzierer. Das macht den Zeitplan unsicher, selbst wenn der politische Wille in Bogota klar ist.\n\nFür Kolumbien geht es um Versorgungssicherheit und Preise. Gasengpässe treffen Industrie und Haushalte und können die Inflationsdebatte anheizen. Eine funktionierende Pipeline ersetzt keine breitere Strategie für Eigenproduktion und Importe aus anderen Quellen, könnte aber Engpässe kurzfristig entschärfen.\n\nOb und wann Gas tatsächlich fliesst, hängt von Reparaturfortschritt, Sanktionspraxis und bilateraler Verlässlichkeit ab. Bis dahin bleibt die Ankündigung vor allem ein Signal: Kolumbien braucht zusätzliche Moleküle – auch wenn der Partner politisch umstritten ist.\n\nEnergiepartnerschaften mit Venezuela sind für Kolumbien nicht neu, aber unter Sanktionsbedingungen besonders heikel. Juristische Klarheit für Betreiber und Banken ist Voraussetzung, sonst bleiben Reparaturen Theorie. Versorgungsengpässe im Inland erhöhen den politischen Druck, trotz dieser Hürden Tempo zu machen.\n\nSollte Gas wieder fliessen, wäre das kurzfristig eine Entspannung im kolumbianischen Markt. Scheitert das Vorhaben an Sanktionen oder Technik, muss Bogota andere Import- und Sparoptionen beschleunigen. Beides bleibt vorerst hypothetisch. Unabhängig vom Ausgang bleibt der Fall ein Beispiel dafür, wie Energieknappheit geopolitische Tabus relativieren kann. Konkrete Zeitpläne für Reparaturabschluss lagen in den vorliegenden Berichten nicht vor.",
           "datum": "2026-11-05",
           "quelle": {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
+            "name": "UPI",
+            "url": "https://www.upi.com/Top_News/World-News/2026/11/05/latam-colombia-pipeline-restoration-sought/3121793903203/"
+          },
+          "thema": "Energie & Treibstoff",
+          "stichworte": [
+            "Kolumbien",
+            "Venezuela",
+            "Pipeline",
+            "Gas"
+          ],
+          "kontinent": "Südamerika",
+          "land": "Kolumbien",
+          "audio": "audio/2026-11-06/welt-kolumbien-pipeline-d9f4e6.mp3",
+          "dauer": 147
+        },
+        {
+          "id": "welt-neuseeland-wahl",
+          "titel": "Neuseeland wählt am Samstag – Labour in Umfrage leicht im Plus, Ausgang offen",
+          "text": "Am Samstag, 7. November, wählt Neuseeland ein neues Parlament. Laut Reuters liegt Labour in der neuesten Umfrage leicht vorn, der Ausgang gilt aber als unklar. Die Wahl entscheidet über die künftige Mehrheit in Wellington.",
+          "ausfuehrlich": "Neuseeland steht unmittelbar vor der Parlamentswahl am Samstag, dem 7. November 2026. Laut Reuters zeigt die neueste Umfrage einen leichten Vorsprung für Labour, ohne dass daraus ein klarer Sieger ablesbar wäre. Kleine Verschiebungen bei Partnerparteien können die Mehrheitsbildung stark verändern. Der Ausgang gilt deshalb als offen.\n\nDas Wahlsystem mit Verhältniswahl macht Koalitionen zum Normalfall. Deshalb zählen nicht nur die Prozentpunkte der Grossen, sondern auch, welche kleineren Parteien die Hürde nehmen und mit wem sie regieren wollen. Themen wie Lebenshaltungskosten, Wohnen und öffentliche Dienste dürften viele Stimmen prägen.\n\nFür Ozeanien ist die Wahl ein Stabilitätsindikator. Neuseeland gilt als verlässliche Demokratie; ein geordneter Machtwechsel oder eine Bestätigung wird international beobachtet. Märkte reagieren üblicherweise erst, wenn die Koalitionsarithmetik klarer wird.\n\nBis Sonntag bleiben Umfragen Momentaufnahmen. Wahlbeteiligung, Spätentschlossene und regionale Unterschiede können das Bild noch drehen. Sicher ist vorerst nur der Termin: Am Samstag sprechen die Wählerinnen und Wähler.\n\nNach der Wahl beginnt in der Regel die Phase der Koalitionsgespräche. Selbst bei einem leichten Labour-Vorsprung in Umfragen kann die Sitzverteilung Partner nötig machen. Aussenpolitisch gilt Neuseeland als berechenbar; innenpolitisch entscheiden Alltagsfragen wie Wohnkosten oft knapper als grosse Ideologien.\n\nWahlkampfteams mobilisieren in den letzten Stunden vor allem Unentschlossene und Briefwählerinnen. Umfragen mit knappen Abständen haben in der Vergangenheit schon getäuscht; belastbar ist erst das amtliche Ergebnis nach Auszählung und möglichen Nachzüglerstimmen. Am Samstagabend Ortszeit beginnt die eigentliche Auswertung; Koalitionssignale folgen oft erst in den Tagen danach. Parteien und Medien stellen sich auf eine möglicherweise knappe Sitzverteilung ein.",
+          "datum": "2026-11-06",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
           "thema": "Neuseeland",
           "stichworte": [
-            "Neuseeland",
-            "Wahlen",
-            "Luxon",
-            "Hipkins",
-            "Opportunity"
+            "Parlamentswahl",
+            "Labour",
+            "Wellington",
+            "Umfrage"
           ],
           "kontinent": "Ozeanien",
           "land": "Neuseeland",
-          "audio": "audio/2026-11-05/welt-neuseeland-8db62e.mp3",
-          "dauer": 102
+          "audio": "audio/2026-11-06/welt-neuseeland-wahl-e652ee.mp3",
+          "dauer": 143
         }
       ]
     },
@@ -411,221 +389,200 @@
       "titel": "Extra",
       "meldungen": [
         {
-          "id": "extra-israel-koalition",
-          "titel": "Israel: Herzog beginnt Gespräche zur Regierungsbildung, Eisenkot liegt vorne",
-          "text": "Nach der Parlamentswahl in Israel hat Präsident Isaac Herzog das amtliche Ergebnis entgegengenommen und die Konsultationen mit den Parteien begonnen. Der frühere Armeechef Gadi Eisenkot hat die meisten Empfehlungen für den Regierungsauftrag, eine Mehrheit von 61 Sitzen hat aber niemand.",
-          "ausfuehrlich": "In Israel hat die Phase der Regierungsbildung begonnen. Staatspräsident Isaac Herzog hat das amtliche Endergebnis der Parlamentswahl entgegengenommen und empfängt nun nacheinander die Vertreter aller ins Parlament gewählten Parteien. Jede Partei sagt ihm, wen sie als Regierungschef empfiehlt. Danach entscheidet Herzog, wer den Auftrag zur Regierungsbildung erhält.\n\nNach den bisherigen Berichten hat der frühere Armeechef Gadi Eisenkot die besten Karten. Laut BBC kommt er auf rund 48 Empfehlungen. Auch die Partei Yisrael Beiteinu von Avigdor Lieberman hat sich für ihn ausgesprochen, und die arabisch-islamische Partei Ra'am signalisierte Unterstützung. Das ist bemerkenswert, weil arabische Parteien in Israel nur selten eine Regierungsbildung aktiv unterstützen.\n\nFür eine Regierung braucht es eine Mehrheit von 61 der 120 Sitze in der Knesset. Diese hat laut den vorliegenden Zahlen derzeit keiner der möglichen Kandidaten sicher. Damit stehen schwierige Koalitionsverhandlungen bevor, bei denen auch Fragen wie der Umgang mit dem Krieg gegen Iran, mit Gaza und mit der Wehrpflicht für Strengreligiöse eine Rolle spielen dürften.\n\nWer den Auftrag erhält, hat zunächst 28 Tage Zeit, eine Koalition zu bilden; die Frist kann verlängert werden. Scheitert der Versuch, kann der Präsident einen anderen Abgeordneten beauftragen. Ob Israel nach Jahren der Regierung unter Benjamin Netanyahu einen politischen Wechsel erlebt, entscheidet sich also erst in den kommenden Wochen.",
-          "datum": "2026-11-04",
+          "id": "extra-grynspan-uno",
+          "titel": "Rebeca Grynspan führt informelle UN-Umfrage für Generalsekretärin an",
+          "text": "Die Costa-Ricanerin Rebeca Grynspan liegt laut Reuters in einer informellen Umfrage im UN-Sicherheitsrat für das Amt der Generalsekretärin vorn – mit 12 zu 3 Stimmen. Das Verfahren ist noch nicht abgeschlossen; die formelle Wahl steht aus. Grynspan ist derzeit hochrangige UN-Handelsvertreterin.",
+          "ausfuehrlich": "Rebeca Grynspan aus Costa Rica führt laut Reuters eine informelle Umfrage im UN-Sicherheitsrat für den Posten der UN-Generalsekretärin an. Das vorläufige Ergebnis wird mit 12 zu 3 angegeben. Solche Straw Polls dienen dazu, Favoriten und Vetorisiken sichtbar zu machen, ersetzen aber nicht die formelle Wahl. Der Vorsprung ist ein Signal, kein Endresultat.\n\nGrynspan bringt Erfahrung aus der UN-Handels- und Entwicklungspolitik mit. Eine lateinamerikanische Kandidatin an der Spitze der Vereinten Nationen wäre ein starkes Signal für regionale Vielfalt – zugleich müssen alle ständigen Sicherheitsratsmitglieder mittragen, sonst blockiert ein Veto. Genau deshalb sind informelle Runden so wichtig: Sie zeigen, wo Widerstand sitzt.\n\nInformelle Umfragen können sich noch drehen, wenn Staaten Interessen tauschen oder neue Kandidaturen pushen. Entscheidend bleibt, ob Grynspan auch in weiteren Runden breite Unterstützung hält. Diplomaten achten auf Enthaltungen und auf die Haltung der Vetomächte.\n\nFür die UN steht ein Führungswechsel in einer Phase multipler Krisen an. Wer das Amt erhält, prägt Mediation, Klimaagenda und Reformdebatten. Bis zur formellen Entscheidung gilt Grynspan als klar im Rennen – mehr aber noch nicht.\n\nLateinamerika stellt historisch selten die UN-Spitze; ein Erfolg Grynspans wäre deshalb auch regional bedeutsam. Gleichzeitig bleibt der Sicherheitsrat das Nadelöhr. Solange Vetomächte nicht klar signalisieren, bleibt jeder Zwischenstand vorläufig – auch ein 12-zu-3-Vorsprung.\n\nFür Costa Rica wäre eine erfolgreiche Kandidatur ein diplomatischer Erfolg von globaler Sichtbarkeit. Für den Sicherheitsrat bleibt es ein Machtpoker, in dem Persönlichkeit, Regionalproporz und Grossmachtinteressen gleichzeitig wirken. Bis zur formellen Entscheidung bleiben alle Zwischenstände provisorisch und revisionsanfällig. Weitere informelle Runden können das Bild noch spürbar verschieben.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "BBC",
-            "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo"
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
-          "thema": "Israel",
+          "thema": "UNO",
           "stichworte": [
-            "Israel",
-            "Herzog",
-            "Eisenkot",
-            "Koalition"
+            "Grynspan",
+            "UN",
+            "Sicherheitsrat",
+            "Generalsekretärin"
           ],
-          "weitere_quellen": [
-            {
-              "name": "Ynet",
-              "url": "https://www.ynetnews.com/article/sjzk4rutmg"
-            }
-          ],
-          "kategorie": "Wahlen weltweit",
-          "kontinent": "Naher Osten",
-          "land": "Israel",
-          "audio": "audio/2026-11-05/extra-israel-koalition-523475.mp3",
-          "dauer": 115
+          "kategorie": "Präsidenten & Regierungen",
+          "kontinent": "Global",
+          "land": "mehrere",
+          "audio": "audio/2026-11-06/extra-grynspan-uno-92c319.mp3",
+          "dauer": 146
         },
         {
-          "id": "extra-oel-gold",
-          "titel": "Ölpreis stürzt um fast neun Prozent, Gold wieder über 4000 Dollar",
-          "text": "Nach dem Wahlsieg der Demokraten in den USA ist der Ölpreis am Mittwoch um fast neun Prozent gefallen. Händler rechnen mit einer schnelleren Entspannung im Iran-Konflikt. Gold dagegen stieg um über drei Prozent und kostet wieder mehr als 4000 Dollar pro Unze.",
-          "ausfuehrlich": "An den Rohstoffmärkten gab es am Mittwoch heftige Bewegungen. Der Preis für ein Fass der Nordseesorte Brent fiel laut Marktberichten um 8,8 Prozent auf 94.47 Dollar, die US-Sorte WTI sank um 8,7 Prozent auf 87.70 Dollar. Das ist einer der grössten Tagesverluste seit Beginn des Iran-Kriegs im Februar.\n\nAls Hauptgrund nennen Analysten den klaren Sieg der Demokraten bei den US-Zwischenwahlen. Viele Händler erwarten, dass der politische Druck auf Präsident Trump steigt, den Krieg mit Iran zu beenden, und dass die Strasse von Hormus früher wieder für Tanker offen sein könnte. Durch diese Meerenge lief vor dem Krieg ein grosser Teil des weltweit gehandelten Erdöls. Trotz des Rückgangs liegt der Ölpreis aber weiterhin deutlich über dem Niveau vor dem Krieg.\n\nGold profitierte gleichzeitig vom schwächeren Dollar: Der Preis stieg um 3,3 Prozent auf rund 4059 Dollar pro Unze und lag damit wieder über der Marke von 4000 Dollar. Ein schwächerer Dollar macht Gold für Käufer ausserhalb der USA günstiger, und viele Anleger suchen in unsicheren Zeiten Sicherheit im Edelmetall.\n\nFür die Schweiz kann ein tieferer Ölpreis mit Verzögerung bei Benzin, Diesel und Heizöl spürbar werden. Ob der Rückgang anhält, hängt aber vor allem davon ab, ob es bei den von Katar vermittelten Gesprächen zwischen den USA und Iran tatsächlich Fortschritte gibt.",
-          "datum": "2026-11-04",
+          "id": "extra-oel-gold-midterms",
+          "titel": "Öl fällt nach Midterms deutlich – Gold hält sich über 4100 Dollar",
+          "text": "Nach dem Midterm-Ausgang in den USA und Hoffnungen auf eine Deeskalation gegenüber dem Iran sind die Ölpreise laut Reuters stark unter Druck geraten. Gold notierte weiter über 4100 US-Dollar je Unze. Anleger verschieben Risiken zwischen Energie und sicheren Häfen.",
+          "ausfuehrlich": "Die Rohstoffmärkte haben am Donnerstag zweigeteilt reagiert. Laut Reuters fielen die Ölpreise deutlich, nachdem die US-Midterms und spekulative Hoffnungen auf eine Deeskalation im Iran-Konflikt die Risikoprämie drückten. Weniger Angst vor Lieferausfällen bedeutet kurzfristig oft niedrigere Notierungen – auch wenn die physische Lage in Hormus angespannt bleibt.\n\nGold dagegen hielt sich über der Marke von 4100 US-Dollar je Unze. Das Edelmetall profitiert typischerweise von Unsicherheit, Zinsspekulation und der Suche nach liquiden Schutzassets. Dass Öl fällt und Gold hoch bleibt, zeigt eine Marktphase, in der geopolitische Entspannungshoffnung und Absicherungsbedarf gleichzeitig wirken.\n\nFür Importeure wäre billigeres Öl eine Entlastung bei Energiekosten; für Förderländer schrumpfen die Einnahmen. Goldinvestoren achten auf Realzinsen und den Dollar. Ein einzelner Handelstag sagt wenig über den Trend – die Richtung nach den Midterms wird aber genau beobachtet.\n\nUnsicher bleibt, ob die Deeskalationshoffnung trägt. Neue Spannungen oder enttäuschte Erwartungen an die US-Politik könnten die Ölprämie rasch zurückbringen. Bis dahin preisen die Märkte eine etwas ruhigere Energiewelt ein – bei weiterhin teurem Gold.\n\nFür die Schweiz als Rohstoffhandels- und Importland sind solche Schwankungen indirekt relevant: über Heiz- und Treibstoffpreise, Industrie und den Finanzplatz. Ob der Ölpreisrückgang anhält, hängt weniger von einem Handelstag ab als von der weiteren Lage in Hormus und von der US-Politik gegenüber dem Iran.\n\nAnalystinnen unterscheiden zwischen geopolitischem Schock und Nachfrageflaute. Der aktuelle Ölpreisdruck wird vor allem mit Midterms und Deeskalationshoffnung erklärt; bestätigen sich diese Annahmen nicht, kann die Bewegung rasch drehen. Für die nächsten Sitzungen zählt, ob der Ölpreisrückgang hält oder als Ein-Tages-Bewegung endet.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "FXStreet",
-            "url": "https://www.fxstreet.com/news/gold-reclaims-4-000-as-us-midterm-sweep-sinks-usd-oil-plunges-202611041803"
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
           "thema": "Energie & Treibstoff",
           "stichworte": [
             "Öl",
             "Gold",
-            "Brent",
+            "Midterms",
             "Rohstoffe"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Invezz",
-              "url": "https://invezz.com/news/2026/11/04/evening-digest-oil-falls-8-gold-rallies-after-democrats-election-victory/"
-            }
           ],
           "kategorie": "Rohstoffe",
           "kontinent": "Global",
           "land": "mehrere",
-          "audio": "audio/2026-11-05/extra-oel-gold-f2e0a8.mp3",
-          "dauer": 104
+          "audio": "audio/2026-11-06/extra-oel-gold-midterms-afafea.mp3",
+          "dauer": 139
         },
         {
-          "id": "extra-wallstreet",
-          "titel": "Rekordstimmung an der Wall Street nach den US-Wahlen",
-          "text": "Die US-Börsen haben auf den Machtwechsel im Kongress mit kräftigen Gewinnen reagiert. Der Dow Jones stieg um drei Prozent auf über 53 000 Punkte. Der Dollar verlor an Wert, Staatsanleihen waren gefragt.",
-          "ausfuehrlich": "Die Anlegerinnen und Anleger an der Wall Street haben den Wahlsieg der Demokraten mit einem deutlichen Kursanstieg begrüsst. Laut AP schloss der Dow-Jones-Index am Mittwoch 3,03 Prozent höher bei 53 356 Punkten. Der breiter gefasste S&P 500 stieg um 1,58 Prozent auf 7688 Punkte, der technologielastige Nasdaq um 1,44 Prozent auf 25 736 Punkte.\n\nAuf den ersten Blick ist das überraschend, denn Börsen gelten oft als skeptisch gegenüber demokratischen Mehrheiten. Diesmal überwog aber die Hoffnung auf ein schnelleres Ende des Iran-Kriegs und damit auf tiefere Energiepreise. Der starke Fall des Ölpreises entlastet Unternehmen und Konsumenten. Hinzu kommt, dass ein geteilter Kongress grössere wirtschaftspolitische Überraschungen unwahrscheinlicher macht, was Märkte meist schätzen.\n\nGleichzeitig verlor der Dollar gegenüber anderen Währungen an Wert, und US-Staatsanleihen wurden stärker gekauft, was deren Renditen senkte. Das deutet darauf hin, dass Anleger mit tieferer Inflation und eher sinkenden Zinsen rechnen. Für die Schweiz bedeutet ein schwächerer Dollar meist einen stärkeren Franken, was Exporte in die USA verteuert.\n\nOb die Euphorie anhält, ist offen. Vieles hängt davon ab, wie Präsident Trump in den kommenden zwei Jahren mit einem gegnerischen Kongress regiert und ob die Gespräche mit Iran zu einer echten Entspannung führen.",
-          "datum": "2026-11-04",
+          "id": "extra-us-2028",
+          "titel": "US-Demokraten positionieren sich für 2028 – noch ohne klaren Favoriten",
+          "text": "Nach ihrem Midterm-Erfolg beginnen die Demokraten laut Reuters, sich für die Präsidentschaftswahl 2028 aufzustellen. Ein klarer Favorit ist noch nicht auszumachen. Die Partei nutzt den Momentum-Schub, muss aber Flügel und Persönlichkeitsfragen klären.",
+          "ausfuehrlich": "Der Midterm-Sieg gibt den US-Demokraten laut Reuters Rückenwind für die Präsidentschaftswahl 2028 – ohne dass bereits eine Führungsfigur feststünde. Interne Gespräche und öffentliche Spekulationen nehmen zu, konkrete Tickets sind noch Zukunftsmusik. Momentum hilft, ersetzt aber keine Organisation.\n\nIn einer so frühen Phase zählen Sichtbarkeit, Spendernetzwerke und die Fähigkeit, Swing-Wähler anzusprechen. Gleichzeitig drohen Flügelkämpfe zwischen progressiven und moderaten Lagern. Wer zu früh als Favorit gilt, wird zur Zielscheibe; wer zu spät startet, dem fehlt der Apparat. Beides kennen US-Vorwahlen zur Genüge.\n\nFür Republikaner verändert die Niederlage die eigene Aufstellung ebenfalls. Beide Parteien lesen aus den Midterms Lehren für Botschaft und Mobilisierung. Aussenpolitik, Lebenshaltungskosten und Justizfragen dürften die Vorwahlkämpfe prägen.\n\nBis 2028 ist viel Zeit – und in den USA kann ein einzelner Zyklus die Lage drehen. Derzeit gilt: Die Demokraten haben Momentum, aber noch keinen Namen, der das Feld dominiert.\n\nMedien und Spenderinnen beobachten bereits Sichtbarkeitstouren und Vorwahl-Infrastruktur. Noch ist es zu früh für belastbare Favoritenlisten; zu viele Variablen – Wirtschaft, Aussenpolitik, Justiz – können das Feld umkrempeln. Die Midterms liefern den Demokraten vor allem Selbstvertrauen und eine Erzählung des Comebacks.\n\nNamen kursieren in Washingtoner Kreisen bereits informell, ohne dass Reuters daraus einen klaren Favoriten ableitet. Genau diese Offenheit charakterisiert die Phase: Sichtbarkeitsspiele statt festgelegter Tickets. Belastbare Kandidatenrankings sind in dieser Phase verfrüht und meist mediale Konstruktionen. Spender, Vorwahlkalender und Fernsehdebatten werden später die eigentliche Auslese übernehmen. Bis dahin bleibt die Positionsbestimmung symbolisch, aber politisch relevant.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "AP",
-            "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c0be7ca45b5875abe758e0570cb9a265"
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
+          },
+          "thema": "US-Wahlen 2026",
+          "stichworte": [
+            "Demokraten",
+            "2028",
+            "Midterms",
+            "Präsidentschaft"
+          ],
+          "kategorie": "Wahlen weltweit",
+          "kontinent": "Nordamerika",
+          "land": "USA",
+          "audio": "audio/2026-11-06/extra-us-2028-247340.mp3",
+          "dauer": 147
+        },
+        {
+          "id": "extra-nasdaq-ki",
+          "titel": "Nasdaq verliert 5,56 Prozent – stärkster Fall seit 19 Monaten",
+          "text": "Der Nasdaq stürzte am Donnerstag laut Reuters um 5,56 Prozent ab – der stärkste Tagesverlust seit 19 Monaten. Besonders KI- und Chip-Aktien gerieten unter Druck, nachdem der Sieg der Demokraten bei den Midterms Ängste vor schärferer Regulierung schürte.",
+          "ausfuehrlich": "Am US-Aktienmarkt hat der technologieschwere Nasdaq laut Reuters am Donnerstag 5,56 Prozent verloren. Es war der schärfste Tagesrückgang seit 19 Monaten. Im Fokus standen Titel aus künstlicher Intelligenz und Halbleitern, die zuvor stark gelaufen waren und entsprechend anfällig für Gewinnmitnahmen sind.\n\nAls Auslöser nennen Händlerinnen und Händler den Midterm-Erfolg der Demokraten und die Sorge vor engerer Tech- und KI-Regulierung. Ob diese Lesart allein trägt, ist unsicher: Märkte verdichten oft Bewertung, Zinsfantasien und Politik in einem Narrativ. Klar ist der Umfang des Ausverkaufs.\n\nFür Anlegerinnen und Anleger ist der Rutsch eine Erinnerung an die Volatilität hoch bewerteter Wachstumsstories. Chipwerte reagieren empfindlich auf politische Signale, weil Exportkontrollen, Subventionen und Kartellrecht direkt auf Geschäftsmodelle wirken. Ein einzelner Tag macht noch keinen Trend.\n\nDie nächsten Sitzungen zeigen, ob der Ausverkauf nachlässt oder ob Regulierungssorgen an den KI-Favoriten nagen. Bis dahin bleibt der Donnerstag als Markierung: so heftig war es am Nasdaq zuletzt vor gut eineinhalb Jahren nicht.\n\nAuch ausserhalb der USA beobachten Tech-Investoren den Nasdaq als Stimmungsbarometer für KI-Bewertungen. Ein einzelner Ausverkauf muss keine Trendwende sein, erinnert aber daran, wie eng Politik, Regulierungserwartung und Kursfantasien inzwischen verknüpft sind. Die kommenden Wochen zeigen, ob Käufer die Dip-Chance suchen.\n\nRegulierungssorgen sind ein möglicher, aber nicht der einzige Treiber. Gewinnmitnahmen nach einer langen KI-Rallye und makroökonomische Signale können denselben Effekt erzeugen. Die Zuschreibung «Demokraten-Sieg» bleibt eine Markterzählung, keine Beweiskette. Ob Käufer die Kurslücke schliessen, entscheidet sich an den nächsten Handelstagen und an neuen Regulierungs-Signalen. Volatilität in KI-Titeln dürfte Anlegerinnen und Anleger weiter beschäftigen.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4002388-reuters-world-news-summary"
           },
           "thema": "Börsen",
           "stichworte": [
-            "Wall Street",
-            "Dow Jones",
-            "Dollar",
-            "Anleihen"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates"
-            }
+            "Nasdaq",
+            "KI-Aktien",
+            "Chips",
+            "Regulierung"
           ],
           "kategorie": "Wirtschaft & Börse",
           "kontinent": "Nordamerika",
           "land": "USA",
-          "audio": "audio/2026-11-05/extra-wallstreet-43c570.mp3",
-          "dauer": 109
+          "audio": "audio/2026-11-06/extra-nasdaq-ki-6744f3.mp3",
+          "dauer": 145
         },
         {
-          "id": "extra-brasilien-zins",
-          "titel": "Brasiliens Notenbank stoppt ihre Zinssenkungen",
-          "text": "Nach fünf Zinssenkungen in Folge hat die brasilianische Zentralbank ihren Leitzins bei 13,75 Prozent belassen. Der Entscheid fiel einstimmig. Die Notenbank begründet die Pause mit Unsicherheit und den Inflationserwartungen.",
-          "ausfuehrlich": "Die brasilianische Zentralbank hat am Mittwoch ihren Leitzins Selic unverändert bei 13,75 Prozent gelassen. Der geldpolitische Ausschuss Copom fällte den Entscheid laut dem Nachrichtenportal G1 einstimmig. Zuvor hatte die Notenbank den Zins fünfmal in Folge gesenkt.\n\nAls Begründung nennt die Zentralbank die erhöhte Unsicherheit, im In- und Ausland, sowie Inflationserwartungen, die noch nicht ausreichend gesunken seien. Mit einer Pause will sie abwarten, wie stark die bisherigen Senkungen in der Wirtschaft wirken, bevor sie weitere Schritte beschliesst.\n\nMit 13,75 Prozent hat Brasilien nach wie vor einen der höchsten realen Leitzinsen der Welt. Hohe Zinsen bremsen die Inflation, machen aber Kredite für Unternehmen und Haushalte teuer und belasten das Wachstum. Die Regierung von Präsident Lula drängt seit Langem auf tiefere Zinsen, die Notenbank ist aber unabhängig.\n\nBrasilien ist die grösste Volkswirtschaft Lateinamerikas und ein wichtiger Rohstofflieferant, etwa für Eisenerz, Soja und Kaffee. Entscheidungen der Notenbank wirken sich deshalb auch auf die Währung Real und auf ausländische Investoren aus. Wie es weitergeht, dürfte vom Protokoll der Sitzung abhängen, das in den kommenden Tagen veröffentlicht wird und Hinweise auf den weiteren Kurs geben soll.",
-          "datum": "2026-11-04",
+          "id": "extra-cop31",
+          "titel": "COP31 in Antalya startet unter Druck von Katastrophen und 1,5-Grad-Ziel",
+          "text": "Die UN-Klimakonferenz COP31 ist in Antalya gestartet. Laut AP und France24 steht das Treffen unter dem Druck frischer Klimakatastrophen, hoher Energiepreise und der Frage, wie das 1,5-Grad-Ziel noch erreichbar bleiben soll. Verhandler suchen nach greifbaren Fortschritten bei Finanzierung und Emissionen.",
+          "ausfuehrlich": "In Antalya hat die COP31 begonnen – die jährliche UN-Klimakonferenz unter erschwerten Vorzeichen. Berichte von AP und France24 beschreiben eine Atmosphäre aus Dringlichkeit und Skepsis: Neue Extremwetterschäden, angespannte Energiepreise und die schwindende Wahrscheinlichkeit, die Erwärmung bei 1,5 Grad zu halten, lasten auf den Verhandlungen.\n\nIm Zentrum dürften Klimafinanzierung für ärmere Länder, Emissionsminderungen der Grossemittenten und Anpassungsprogramme stehen. Viele Staaten kommen mit nationalen Interessen und knappen Budgets; gleichzeitig fordern verwundbare Länder schnellere Zusagen. Der Konflikt zwischen Ambition und Umsetzbarkeit ist bekannt, aber diesmal besonders scharf.\n\nOb Antalya mehr liefert als Absichtserklärungen, entscheidet sich an handfesten Texten: Geldflüsse, Zeitpläne, Transparenz. Die Öffentlichkeit misst Erfolg weniger an Schlussfotos als an nachprüfbaren Verpflichtungen. Für Unternehmen setzen COP-Signale Rahmen bei Energie und Infrastruktur.\n\nFür die Diplomatie ist Antalya ein Stresstest, wie viel internationale Kooperation in einer fragmentierten Welt noch trägt. Die ersten Tage zeigen, ob die Konferenz Arbeitsmodus findet oder im Schlagabtausch steckenbleibt.\n\nZivilgesellschaftliche Gruppen und besonders betroffene Staaten drängen auf messbare Finanzzusagen statt neuer Glossare. Industriestaaten verweisen auf knappe Haushalte und parallele Krisen. Antalya wird daran gemessen, ob am Ende Zahlen und Zeitpläne stehen – oder nur ein weiteres Kommuniqué.\n\nFrühere COPs zeigen: Fortschritte entstehen oft erst in der zweiten Wochenhälfte, wenn Texte enggeführt werden. Antalya steht unter Beobachtung, ob dieses Muster hält – oder ob Blockaden früher sichtbar werden. Mediale Aufmerksamkeit dürfte mit konkreten Verhandlungsblockaden oder Durchbrüchen steigen oder fallen. Zivilgesellschaftliche Gruppen werden Zwischenstände eng begleiten und öffentlich bewerten.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "G1 / Jornal Nacional",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/04/apos-cinco-cortes-seguidos-banco-central-mantem-taxa-de-juros-em-1375percent-ao-ano.ghtml"
-          },
-          "thema": "Zinsen & Notenbanken",
-          "stichworte": [
-            "Brasilien",
-            "Selic",
-            "Zentralbank",
-            "Zinsen"
-          ],
-          "kategorie": "Wirtschaft & Börse",
-          "kontinent": "Südamerika",
-          "land": "Brasilien",
-          "audio": "audio/2026-11-05/extra-brasilien-zins-fb2f56.mp3",
-          "dauer": 97
-        },
-        {
-          "id": "extra-emissionsluecke",
-          "titel": "UNO: Überschreiten der 1,5-Grad-Grenze ist nicht mehr zu verhindern",
-          "text": "Kurz vor der Klimakonferenz COP31 warnt das UNO-Umweltprogramm: Die Erderwärmung wird die 1,5-Grad-Grenze vorübergehend überschreiten. Um sie bis 2100 wieder zu erreichen, müssten die Emissionen viel schneller sinken als bisher geplant.",
-          "ausfuehrlich": "Das Umweltprogramm der Vereinten Nationen (UNEP) hat seinen jährlichen Bericht zur sogenannten Emissionslücke veröffentlicht, also zum Abstand zwischen dem, was die Staaten versprechen, und dem, was für die Klimaziele nötig wäre. Die zentrale Botschaft: Ein Überschreiten der 1,5-Grad-Grenze aus dem Pariser Abkommen lässt sich nicht mehr vermeiden.\n\nLaut Bericht ist nun das Ziel, die Erwärmung bei höchstens 1,7 bis 1,8 Grad zu stoppen und bis Ende des Jahrhunderts wieder auf 1,5 Grad zu senken. Dafür müssten die weltweiten Treibhausgasemissionen gegenüber 2025 bis 2030 um 18 Prozent, bis 2035 um 45 Prozent und bis 2040 um 69 Prozent sinken. Die bisherigen Zusagen der Staaten reichen bei Weitem nicht: Sie führen bis 2035 nur zu einem Rückgang von etwa 11 bis 15 Prozent.\n\nJedes Zehntelgrad mehr bedeutet laut Klimaforschung häufigere Hitzewellen, Dürren, Starkregen und mehr Schäden, auch in der Schweiz, wo sich die Alpen überdurchschnittlich stark erwärmen. Ein vorübergehendes Überschreiten birgt zudem das Risiko, dass Kipppunkte im Klimasystem erreicht werden.\n\nDer Bericht kommt wenige Tage vor der UNO-Klimakonferenz COP31, die am 9. November im türkischen Antalya beginnt. Parallel hat Brasilien, Gastgeber der letztjährigen Konferenz, einen ersten weltweiten Fahrplan für den Ausstieg aus fossilen Brennstoffen vorgelegt. Ob die Staaten in Antalya ihre Ziele nachschärfen, gilt als offen.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "UNEP",
-            "url": "https://www.unep.org/en/publications/report/emissions-gap-report-2026"
+            "name": "France24 / AP",
+            "url": "https://www.france24.com/"
           },
           "thema": "COP31",
           "stichworte": [
-            "Klima",
-            "UNEP",
+            "COP31",
+            "Antalya",
             "1,5 Grad",
-            "Emissionen",
-            "COP31"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f"
-            }
+            "Klimafinanzierung"
           ],
           "kategorie": "Klima & Umwelt",
           "kontinent": "Global",
           "land": "mehrere",
-          "audio": "audio/2026-11-05/extra-emissionsluecke-8f2a36.mp3",
-          "dauer": 116
+          "audio": "audio/2026-11-06/extra-cop31-810074.mp3",
+          "dauer": 147
         },
         {
-          "id": "extra-artemis",
-          "titel": "NASA baut den Mondplan um: 2027 ein Testflug in der Erdumlaufbahn, 2028 die Landung",
-          "text": "Die NASA hat ihren Plan zur Rückkehr auf den Mond angepasst. Artemis III soll 2027 nicht landen, sondern als 14-tägiger bemannter Testflug in der Erdumlaufbahn das Andocken an Mondlandefähren üben. Die Mondlandung ist neu für 2028 mit Artemis IV geplant.",
-          "ausfuehrlich": "Die US-Raumfahrtbehörde NASA hat Details zu ihrem überarbeiteten Artemis-Programm veröffentlicht. Die Mission Artemis III soll 2027 starten, aber nicht mehr auf dem Mond landen. Stattdessen soll eine Besatzung rund 14 Tage in einer Umlaufbahn um die Erde verbringen und testen, wie die Orion-Kapsel an Testmodelle der beiden geplanten Mondlandefähren andockt: an Blue Moon von Blue Origin und an das Starship von SpaceX.\n\nDie erste bemannte Landung seit Apollo ist nun mit Artemis IV für 2028 vorgesehen. Die NASA will mit dem Zwischenschritt Risiken senken: Andockmanöver, Lebenserhaltung und das Zusammenspiel der Systeme lassen sich in Erdnähe sicherer erproben als in der Nähe des Mondes. Für die Oberstufe der SLS-Rakete prüft die NASA zwei Varianten. Ausserdem hat die Firma Axiom einen leichteren Raumanzug für kurze Mondaufenthalte entwickelt, der etwa halb so schwer ist wie frühere Modelle.\n\nNASA-Chef Jared Isaacman betont, das Ziel sei, schneller und verlässlicher zum Mond zurückzukehren. Hintergrund ist auch der Wettlauf mit China, das bis 2030 Menschen auf den Mond bringen will.\n\nGleichzeitig musste die NASA einen Verlust hinnehmen: Das Röntgen- und Gammastrahlen-Observatorium Swift ist laut AP nach einem gescheiterten Rettungsversuch in der Erdatmosphäre verglüht. Swift hatte seit über 20 Jahren Gammablitze und andere Explosionen im All beobachtet.",
-          "datum": "2026-11-04",
+          "id": "extra-iss-solar",
+          "titel": "Astronauten schliessen Installation der neuen ISS-Solararrays ab",
+          "text": "NASA-Astronaut Anil Menon und CSA-Astronaut Joshua Kutryk haben laut Space.com und NASA am 5. November das achte und letzte Roll-Out-Solararray der ISS montiert und ausgefahren. Der Weltraumausstieg dauerte 6 Stunden und 59 Minuten. Die Station erhält damit deutlich mehr Strom für den Betrieb bis zur geplanten Ausserdienststellung.",
+          "ausfuehrlich": "An der Internationalen Raumstation ist ein jahrelanges Upgrade abgeschlossen: Am 5. November 2026 installierten und entfalteten Anil Menon (NASA) und Joshua Kutryk (kanadische Weltraumagentur) das achte und letzte ISS-Roll-Out-Solararray (iROSA). Das berichtet Space.com; NASA bestätigte den erfolgreichen Abschluss. Die EVA dauerte 6 Stunden und 59 Minuten.\n\nDie Astronauten brachten das rund 340 Kilogramm schwere Array mit dem Roboterarm Canadarm2 an den Montageort, schlossen Kabel an und fuhren die Fläche aus – sie entfaltet sich auf etwa 19 Meter Länge. Zwischenzeitlich gab es laut Mission Control Unklarheiten bei den Messwerten; nach Checks im Erdschatten wurde die Entfaltung freigegeben. Am Ende meldete Menon: «We got it done!»\n\nDie iROSA-Serie ergänzt die alternden Originalpaneele und soll bis zu rund 30 Prozent mehr Strom liefern. Die ersten Arrays kamen 2021; mit dem achten ist das Programm nach NASA-Angaben komplett. Der zusätzliche Strom stützt den Betrieb bis zur geplanten kontrollierten Ausserdienststellung gegen Ende des Jahrzehnts.\n\nMenon sprach von einem Abschluss nicht nur eines Arrays, sondern eines 15 Jahre langen Entwicklungswegs. Für die ISS-Partner ist es ein technischer Meilenstein: mehr Energie für Forschung und Systeme – und ein Beweis, dass komplexe Aussenbordeinsätze Routine und Risiko zugleich bleiben.\n\nMit dem Abschluss der iROSA-Serie endet eine der sichtbarsten Unterhaltskampagnen der Station in diesem Jahrzehnt. Der zusätzliche Strom ist Voraussetzung für Experimente und Systeme, solange die ISS noch fliegt. Für die Partneragenturen ist der Erfolg auch ein Organisationsbeweis: komplexe EVAs über Jahre hinweg planbar durchzuziehen.\n\nDer zusätzliche Strom hilft der Station, Systeme und Experimente bis zur geplanten Ausserdienststellung zu tragen. Für die Crew war der Einsatz riskante Routine: Stunden im Vakuum, präzise Montage, enge Koordination mit Houston.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "NASA",
-            "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+            "name": "Space.com",
+            "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays"
           },
+          "weitere_quellen": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalkers-install-final-roll-out-solar-array/"
+            }
+          ],
           "thema": "Raumfahrt",
           "stichworte": [
-            "NASA",
-            "Artemis",
-            "Mond",
-            "SpaceX",
-            "Blue Origin"
+            "ISS",
+            "iROSA",
+            "Weltraumausstieg",
+            "Solararray"
           ],
+          "kategorie": "Wissenschaft & Weltraum",
+          "kontinent": "Global",
+          "land": "mehrere",
+          "audio": "audio/2026-11-06/extra-iss-solar-18b01e.mp3",
+          "dauer": 148
+        },
+        {
+          "id": "extra-unhcr-klima",
+          "titel": "UNHCR vor COP31: Fast 90 Millionen Vertriebene in Ländern mit schweren Klimarisiken",
+          "text": "Kurz vor der COP31 warnt das UNHCR: Fast 90 Millionen Vertriebene leben in Ländern mit schweren Klimarisiken. Rund drei Viertel davon entfallen laut der Organisation auf Länder wie Afghanistan und Bangladesch. Die Behörde fordert, Klimaschutz und Flüchtlingsschutz stärker zu verzahnen.",
+          "ausfuehrlich": "Das UN-Flüchtlingshilfswerk UNHCR schlägt vor der Klimakonferenz COP31 Alarm: Fast 90 Millionen vertriebene Menschen leben in Ländern, die schweren Klimarisiken ausgesetzt sind. Das geht aus einer Pressemitteilung der Organisation hervor. Rund drei Viertel dieser Menschen befinden sich demnach in besonders betroffenen Staaten, darunter Afghanistan und Bangladesch.\n\nHitze, Dürren, Überschwemmungen und Stürme treffen Vertriebene oft härter, weil Lager und informelle Siedlungen schlechter geschützt sind und weil Rückkehrregionen selbst unter Umweltschocks leiden. Klimawandel ersetzt bestehende Konfliktursachen nicht, kann sie aber verstärken und neue Vertreibungswellen auslösen. Genau diese Überlagerung macht die Warnung brisant.\n\nDas UNHCR verlangt, dass Klimafinanzierung und Anpassungsmassnahmen explizit Flüchtlinge und Binnenvertriebene einbeziehen. Sonst bleibe ein grosser Teil der vulnerabelsten Menschen aussen vor – ausgerechnet dort, wo Resilienz am dringendsten nötig wäre. Die Forderung zielt direkt auf die Verhandler in Antalya.\n\nOb die COP31 daraus konkrete Zusagen ableitet, ist offen. Die Zahl von fast 90 Millionen macht sichtbar, dass Klima- und Fluchtpolitik keine getrennten Silos mehr sind. Für Geberstaaten und Aufnahmeländer wächst der Druck, Schutz und Prävention gemeinsam zu denken.\n\nDie Warnung knüpft Klima- und Flüchtlingsagenda bewusst an die COP31. Wer Anpassung finanziert, ohne Vertriebene mitzudenken, lässt laut UNHCR eine grosse Risikogruppe aussen vor. Ob daraus Verhandlungsmandate werden, hängt von den Staaten ab – die Zahlen allein ändern noch keine Beschlüsse.\n\nAfghanistan und Bangladesch stehen beispielhaft für Länder, in denen Vertreibung und Klimarisiken zusammentreffen. Die UNHCR-Warnung zielt darauf, diese Überlagerung in Finanzierungsdebatten nicht zu übersehen. Ohne greifbare Beschlüsse bleibt die Warnung ein Appell – allerdings einer mit klaren Zahlen. Die Kopplung an die COP31 erhöht die Chance, dass das Thema auf der Agenda bleibt.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "UNHCR",
+            "url": "https://www.unhcr.org/news/press-releases/ahead-cop31-unhcr-warns-nearly-90-million-displaced-people-face-severe-climate"
+          },
+          "thema": "Klimamigration",
+          "stichworte": [
+            "UNHCR",
+            "Vertriebene",
+            "Klimarisiken",
+            "COP31"
+          ],
+          "kategorie": "Migration & Flucht",
+          "kontinent": "Global",
+          "land": "mehrere",
+          "audio": "audio/2026-11-06/extra-unhcr-klima-65ec17.mp3",
+          "dauer": 155
+        },
+        {
+          "id": "extra-wong-hongkong",
+          "titel": "Joshua Wong in Hongkong zu zehn Jahren Haft verurteilt",
+          "text": "Der Aktivist Joshua Wong ist laut BBC und AP zu zehn Jahren Haft verurteilt worden – wegen Verschwörung zur Kollaboration mit ausländischen Kräften unter dem National Security Law. Wong bekannte sich schuldig. Parallel läuft eine frühere Subversionsstrafe; dazu kommen zwei Monate und zwei Tage.",
+          "ausfuehrlich": "In Hongkong ist Joshua Wong zu zehn Jahren Gefängnis verurteilt worden. BBC und AP berichten, das Gericht habe ihn wegen Verschwörung zur Kollaboration mit ausländischen Kräften nach dem National Security Law schuldig gesprochen. Wong hatte sich schuldig bekannt. In den Berichten vom 5. November 2026 stehen die zehn Jahre im Vordergrund.\n\nZusätzlich wurden zwei Monate und zwei Tage im Zusammenhang mit einer bereits bestehenden Subversionsstrafe genannt. Wie die Strafen genau verbüsst werden – parallel oder nacheinander – hängt von den gerichtlichen Anordnungen ab. Für Wong bedeutet das Urteil jedenfalls eine sehr lange Haftperspektive.\n\nWong gehört zu den international bekanntesten Gesichtern der Pro-Demokratie-Bewegung. Kritiker sehen in dem Urteil einen weiteren Beleg für die systematische Ausschaltung politischer Opposition unter dem Sicherheitsgesetz. Hongkonger Behörden und Peking betrachten die Verfahren als rechtmässige Anwendung geltenden Rechts gegen Bedrohungen der nationalen Sicherheit.\n\nMenschenrechtsorganisationen dürften das Urteil scharf verurteilen; Peking weist solche Kritik regelmässig zurück. Für die Stadt markiert der Fall eine weitere Zäsur: Öffentlicher Protest der Jahre 2019/20 ist in langjährige Haftstrafen für Führungspersonen übergegangen.\n\nInternationale Reaktionen dürften zwischen scharfer Kritik und diplomatischer Zurückhaltung schwanken. Für Hongkongs Zivilgesellschaft ist das Urteil vor allem ein weiteres Signal der Verengung. Unabhängige Prozessbeobachtung bleibt schwierig; die öffentlich bekannten Eckdaten stammen aus Agentur- und Medienberichten vom 5. November.\n\nWong war international eine der sichtbarsten Stimmen der Protestjahre. Sein Geständnis und die lange Haftstrafe dürften deshalb weit über Hongkong hinaus als Symbol gelesen werden – von Kritikern als Abschreckung, von Behörden als Rechtsdurchsetzung. Weitere juristische Schritte oder internationale Sanktionsdiskussionen waren in den ersten Berichten noch nicht konkret greifbar.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cwp9g3rlp8jlo"
+          },
           "weitere_quellen": [
             {
               "name": "AP",
-              "url": "https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee"
+              "url": "https://apnews.com/"
             }
           ],
-          "kategorie": "Wissenschaft & Weltraum",
-          "kontinent": "Nordamerika",
-          "land": "USA",
-          "audio": "audio/2026-11-05/extra-artemis-6447c6.mp3",
-          "dauer": 111
-        },
-        {
-          "id": "extra-kenia-fluechtlinge",
-          "titel": "Tausende fliehen vor der Gewalt in Äthiopien nach Kenia",
-          "text": "Das UNO-Flüchtlingshilfswerk UNHCR warnt vor wachsender Not an der Grenze zwischen Äthiopien und Kenia. Tausende Menschen sind vor der Gewalt in Äthiopien nach Kenia geflohen und brauchen Schutz, Nahrung und Unterkünfte.",
-          "ausfuehrlich": "Das UNO-Flüchtlingshilfswerk UNHCR schlägt Alarm wegen einer neuen Fluchtbewegung am Horn von Afrika. Tausende Menschen sind laut UNHCR vor der Gewalt in Äthiopien ins Nachbarland Kenia geflohen. Die humanitären Bedürfnisse wachsen, heisst es in der Mitteilung; benötigt werden vor allem Unterkünfte, Nahrungsmittel, sauberes Wasser und medizinische Versorgung.\n\nDie genauen Zahlen und die Regionen, aus denen die Menschen fliehen, waren in den uns vorliegenden Angaben nicht im Detail aufgeschlüsselt. Klar ist aber der Hintergrund: Äthiopien ist von mehreren Konflikten gleichzeitig erschüttert. In der Region Tigray kämpfen seit September wieder Rebellen gegen die Regierung, und die Beziehungen zu den Nachbarn Sudan und Eritrea sind stark angespannt. Diese Woche hat Äthiopien sudanesische Diplomaten ausgewiesen.\n\nKenia beherbergt bereits seit Jahrzehnten Hunderttausende Geflüchtete, vor allem aus Somalia und dem Südsudan, etwa in den grossen Lagern Dadaab und Kakuma. Neue Ankünfte belasten ein System, das ohnehin chronisch unterfinanziert ist. Viele UNO-Hilfsprogramme mussten in den letzten Jahren wegen fehlender Gelder ihre Leistungen kürzen.\n\nDas UNHCR ruft die internationale Gemeinschaft deshalb zu mehr Unterstützung auf, sowohl für die Geflüchteten als auch für die aufnehmenden Gemeinden in Kenia. Die Lage zeigt, wie die Konflikte in Sudan und Äthiopien inzwischen die ganze Region erfassen.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "UNHCR / USA for UNHCR",
-            "url": "https://www.unrefugees.org/news/2026/11/unhcr-warns-of-growing-humanitarian-needs-as-thousands-flee-ethiopia-to-kenya/"
-          },
-          "thema": "Horn von Afrika",
+          "thema": "Hongkong",
           "stichworte": [
-            "Äthiopien",
-            "Kenia",
-            "UNHCR",
-            "Flucht"
-          ],
-          "kategorie": "Migration & Flucht",
-          "kontinent": "Afrika",
-          "land": "mehrere",
-          "audio": "audio/2026-11-05/extra-kenia-fluechtlinge-61ee43.mp3",
-          "dauer": 105
-        },
-        {
-          "id": "extra-uiguren-thailand",
-          "titel": "Amnesty: Thailand soll zwei Uiguren nicht an China ausliefern",
-          "text": "Amnesty International warnt, Thailand könnte zwei uigurische Männer unmittelbar nach China zurückschicken. Sie waren über zwölf Jahre in Thailand inhaftiert. In China drohen ihnen laut Amnesty Folter und willkürliche Haft.",
-          "ausfuehrlich": "Amnesty International ruft Thailand dringend auf, die drohende Abschiebung von zwei uigurischen Männern nach China zu stoppen. Die beiden gehören zu einer Gruppe von über 300 Uiguren, die am 13. März 2014 in Thailand festgenommen wurden, nachdem sie aus China geflohen waren. Sie sassen seither über zwölf Jahre in Haft.\n\nLaut Amnesty wurden die beiden Männer am 21. Oktober 2026 durch eine königliche Begnadigung freigesprochen, kamen aber nicht frei: Sie wurden in das Ausschaffungsgefängnis in Bangkok verlegt. Der Zugang zu Anwälten werde ihnen verweigert. Amnesty befürchtet, dass ihre Rückführung nach China unmittelbar bevorsteht.\n\nDie Uiguren sind eine mehrheitlich muslimische Minderheit in der chinesischen Region Xinjiang. Die UNO und Menschenrechtsorganisationen werfen China schwere Menschenrechtsverletzungen vor, darunter Masseninternierungen in Lagern und Zwangsarbeit; China weist das zurück. Rückkehrern droht laut Amnesty willkürliche Haft und Folter. Das völkerrechtliche Prinzip der Nichtzurückweisung verbietet es Staaten, Menschen in ein Land zu schicken, in dem ihnen solche Verfolgung droht.\n\nThailand hatte bereits im Februar 2025 trotz internationaler Proteste 40 Uiguren nach China abgeschoben. Von den ursprünglich über 300 Festgenommenen waren zuletzt nur noch fünf in Thailand. Amnesty fordert, die beiden Männer freizulassen und ihnen die Weiterreise in ein sicheres Drittland zu ermöglichen.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "Amnesty International",
-            "url": "https://www.amnesty.org/en/latest/news/2026/11/thailand-halt-imminent-forcible-return-of-two-uyghur-men-to-china/"
-          },
-          "thema": "Uiguren",
-          "stichworte": [
-            "Uiguren",
-            "Thailand",
-            "China",
-            "Amnesty",
-            "Abschiebung"
+            "Joshua Wong",
+            "National Security",
+            "Haft",
+            "Hongkong"
           ],
           "kategorie": "Menschenrechte",
           "kontinent": "Asien",
-          "land": "Thailand",
-          "audio": "audio/2026-11-05/extra-uiguren-thailand-3f59fa.mp3",
-          "dauer": 111
+          "land": "China",
+          "audio": "audio/2026-11-06/extra-wong-hongkong-26d7fd.mp3",
+          "dauer": 145
         }
       ]
     },
@@ -634,96 +591,96 @@
       "titel": "KI & Technologie",
       "meldungen": [
         {
-          "id": "ki-anthropic-ipo",
-          "titel": "Anthropic vor dem Börsengang: Hohe Rechenkosten führen zu Quartalsverlust",
-          "text": "Der KI-Entwickler Anthropic hat vor seinem geplanten Börsengang neue Geschäftszahlen offengelegt. Im dritten Quartal schrieb das Unternehmen einen operativen Verlust von 567 Millionen Dollar, nach einem Gewinn im Vorquartal. Hauptgrund sind Milliardenausgaben für Rechenleistung.",
-          "ausfuehrlich": "Anthropic, das Unternehmen hinter dem KI-Assistenten Claude, bereitet seinen Börsengang an der Nasdaq vor und hat dafür seine Unterlagen bei der US-Börsenaufsicht ergänzt. Laut CNBC weist das Unternehmen für das dritte Quartal einen operativen Verlust von 567 Millionen Dollar aus. Im zweiten Quartal hatte es noch einen operativen Gewinn von 974 Millionen Dollar erzielt.\n\nHinter dem Umschwung stehen vor allem zwei Posten: rund 5 Milliarden Dollar für kurzfristig gemietete Rechenleistung und etwa 2 Milliarden Dollar an nicht zahlungswirksamen Kosten im Zusammenhang mit einem Programm, bei dem das Unternehmen Spenden seiner Mitarbeitenden aufstockt. Insgesamt gab Anthropic im Quartal knapp 9,9 Milliarden Dollar für Rechenzentren und Infrastruktur aus. Der Umsatz ist gleichzeitig stark gewachsen; genaue Angaben dazu variieren je nach Quelle, weshalb wir hier keine Zahl nennen.\n\nDie Zahlen zeigen ein Grundproblem der KI-Branche: Das Training und der Betrieb grosser Sprachmodelle verschlingen enorme Summen, die oft schneller steigen als die Einnahmen. Anleger müssen deshalb abwägen, ob das Wachstum die Kosten auf Dauer überholt.\n\nDer Börsengang von Anthropic gilt als einer der grössten Technologie-Börsengänge der letzten Jahre und als Gradmesser dafür, wie viel Vertrauen Investoren in das Geschäftsmodell der grossen KI-Labore haben. Ein genaues Datum für den Handelsstart wurde in den vorliegenden Berichten nicht genannt.",
-          "datum": "2026-11-03",
+          "id": "ki-gpt6-cyber",
+          "titel": "OpenAI stellt GPT-6 Cyber vor: stärker bei Schwachstellenanalyse, als Critical eingestuft",
+          "text": "OpenAI hat am 5. November GPT-6 Cyber veröffentlicht, ein auf IT-Sicherheit spezialisiertes Modell. Laut OpenAI erreicht es 48,5 Prozent auf ExploitGym (zuvor 32,1 Prozent), meldet 81 neue Firefox-Funde hoher Schwere und 948 Linux-Rechteausweitungsfälle mit funktionierenden Nachweisen. Im Preparedness Framework gilt es als Critical und ist über Daybreak Red nur eingeschränkt zugänglich.",
+          "ausfuehrlich": "OpenAI hat GPT-6 Cyber vorgestellt – ein Modell, das auf das Finden und Prüfen von Sicherheitslücken ausgerichtet ist. Laut Unternehmensangaben vom 5. November steigt die Leistung auf dem Benchmark ExploitGym von 32,1 auf 48,5 Prozent. Das System sei für autorisierte Forschung gedacht und bleibe bewusst nicht frei zugänglich. Fachmedien wie VentureBeat und The Verge greifen die Launch-Zahlen auf.\n\nBesonders Aufmerksamkeit erregen die Fundmeldungen, die OpenAI nennt: 81 zuvor unbekannte Firefox-Schwachstellen hoher Schwere sowie Nachweise zu 948 Linux-Fällen mit Rechteausweitung. Eine vollständige externe Prüfung aller Einzelfunde lag zum Start nicht vor; sinnvoll ist, die Angaben als Unternehmensaussagen zu lesen und spätere CVE- und Vendor-Meldungen abzuwarten.\n\nIm eigenen Preparedness Framework stuft OpenAI das Modell als Critical ein. Der Zugang läuft über ein gated Programm namens Daybreak Red. Dahinter steht das Dilemma moderner KI-Sicherheit: Je besser Modelle Schwachstellen finden, desto nützlicher sind sie für Verteidiger – und desto riskanter wäre ein unkontrollierter Abfluss an Angreifende.\n\nFür Unternehmen und Behörden entsteht Druck, Patch-Prozesse und Bug-Bounty-Programme zu beschleunigen. Für die Regulierungsdebatte liefert GPT-6 Cyber ein Referenzbeispiel, wie eng Fortschritt und Missbrauchsrisiko beieinanderliegen. OpenAI betont Zugangskontrolle; ob das reicht, werden Audits und die Praxis zeigen.\n\nVergleiche mit früheren Cyber-Modellen von OpenAI zeigen laut Unternehmen einen klaren Sprung bei ExploitGym. Unabhängig davon bleibt die gesellschaftliche Frage: Wie verteilt man mächtige Analysewerkzeuge, ohne Angreifenden neue Vorteile zu verschaffen? Daybreak Red ist OpenAIs Antwort – und zugleich Eingeständnis des Risikos.\n\nOpenAI veröffentlicht parallel technische Karten und Sicherheitsbewertungen. Für Aussenstehende bleibt vieles modellintern; entscheidend für die Praxis sind Freigabestufen, Logging und die Frage, wer berechtigt ist, mit dem System zu arbeiten.",
+          "datum": "2026-11-05",
           "quelle": {
-            "name": "CNBC",
-            "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+            "name": "OpenAI",
+            "url": "https://openai.com/index/introducing-gpt-6-cyber"
+          },
+          "weitere_quellen": [
+            {
+              "name": "VentureBeat",
+              "url": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google"
+            }
+          ],
+          "thema": "KI & Sicherheit",
+          "stichworte": [
+            "GPT-6 Cyber",
+            "ExploitGym",
+            "Firefox",
+            "Linux"
+          ],
+          "audio": "audio/2026-11-06/ki-gpt6-cyber-2dc197.mp3",
+          "dauer": 156
+        },
+        {
+          "id": "ki-google-anthropic",
+          "titel": "Google sichert Anthropic-Rechenzentrumsdeal in Kentucky über rund 19 Milliarden Dollar ab",
+          "text": "Google backstoppt laut Unternehmensangaben von TeraWulf einen rund 19 Milliarden Dollar schweren, langfristigen Lease von Anthropic für ein Rechenzentrumscampus in Kentucky. Die Garantie soll die Projektfinanzierung absichern; bei einem Ausfall von Anthropic könnte Google in die Lease-Position rücken. Kapazitäten sollen ab Ende 2027 bis Mitte 2028 kommen.",
+          "ausfuehrlich": "Der Wettlauf um KI-Rechenkapazität hat eine neue Finanzarchitektur: TeraWulf meldet, Google sichere einen etwa 19 Milliarden Dollar schweren Lease von Anthropic für den Justified-Data-Campus in Hawesville, Kentucky, kreditseitig ab. Es geht um rund 401 Megawatt Kapazität über 20 Jahre. Die Konstruktion soll die Projektfinanzierung ermöglichen.\n\nLaut eigenen Angaben hilft die Google-Absicherung TeraWulf, Fremdkapital für Bau und Ausrüstung zu beschaffen; zugleich wurde ein EPC-Vertrag mit Fluor genannt. Sollte Anthropic ausfallen oder insolvent werden, kann Google nach den vorliegenden Berichten die Lease übernehmen oder unter Umständen Anteile am Projektfahrzeug erhalten. Das begrenzt das Ausfallrisiko der Financiers.\n\nFür Anthropic bedeutet der Deal planbare Rechenleistung in den USA, für Google strategische Nähe zu einem führenden Modellbauer – bei kontrolliertem Risiko. Kritikerinnen und Kritiker sehen die Verdichtung von Macht bei wenigen Hyperscalern, die Chips, Cloud und Infrastrukturfinanzierung dominieren.\n\nLiefertermine werden mit spät 2027 bis zweitem Quartal 2028 angegeben. Bis dahin bleiben Genehmigungen, Stromanschlüsse und Baufortschritt die praktischen Unbekannten. Der 5. November 2026 markiert die vertragliche Absicherung, noch nicht den laufenden Betrieb.\n\nDer Deal illustriert, dass KI-Wettbewerb inzwischen auch ein Wettbewerb um Strom, Beton und Kreditgarantien ist. Wer Rechenzentren absichert, steuert indirekt, welche Modelle skalieren können. Kentucky wird damit zu einem weiteren Schauplatz der US-Infrastrukturpolitik rund um künstliche Intelligenz.\n\nWenn Hyperscaler Leases absichern, verschiebt sich Verhandlungsmacht entlang der gesamten Kette – vom Stromvertrag bis zum Modellzugang. Der Kentucky-Deal ist dafür ein Lehrstück in Finanzgeopolitik der KI. Ob der Campus termingerecht Strom und Rechenleistung liefert, bleibt die zentrale Umsetzungsfrage bis 2028.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "TeraWulf",
+            "url": "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement"
           },
           "thema": "KI-Unternehmen",
           "stichworte": [
-            "Anthropic",
-            "Börsengang",
-            "KI",
-            "Rechenleistung"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Reuters (via Investing.com)",
-              "url": "https://www.investing.com/news/stock-market-news/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-of-blockbuster-ipo-4992139"
-            }
-          ],
-          "audio": "audio/2026-11-05/ki-anthropic-ipo-e67be1.mp3",
-          "dauer": 107
-        },
-        {
-          "id": "ki-openai-sicherheit",
-          "titel": "Fragen zur Sicherheit bei OpenAI: Interne Warnungen und eine umstrittene Partnerschaft",
-          "text": "Eine Recherche von Reuters berichtet über jahrelange interne Warnungen zur IT-Sicherheit bei OpenAI. Gleichzeitig sorgt eine Partnerschaft mit der Firma Cathedral Systems für Diskussionen. OpenAI bestreitet Teile der Darstellung.",
-          "ausfuehrlich": "OpenAI, der Entwickler von ChatGPT, steht wegen seiner Sicherheitspraxis in der Kritik. Laut einer Zusammenfassung des Fachnewsletters «The Neuron» berichtet die Nachrichtenagentur Reuters, dass Mitarbeitende über Jahre intern vor Sicherheitslücken gewarnt hätten. Im Oktober soll zudem ein mutmassliches Aufnahmegerät gefunden worden sein. OpenAI bestreitet die Darstellung. Wir konnten die Reuters-Recherche selbst nicht einsehen, die Details sind deshalb mit Vorsicht zu lesen.\n\nFür Diskussionen sorgt auch eine neue Partnerschaft von OpenAI mit der Sicherheitsfirma Cathedral Systems. Deren Gründer waren früher im US-Sparprogramm DOGE tätig. Cathedral soll zuvor im Rahmen eines Bug-Bounty-Programms, also einer erlaubten Suche nach Schwachstellen, Zugang zu Teilen der Systeme des Konkurrenten Anthropic erhalten haben. Anthropic widerspricht dieser Darstellung teilweise und betont, Modellgewichte und Kundengespräche seien nicht betroffen gewesen.\n\nWarum das wichtig ist: KI-Labore verwahren extrem wertvolle Daten, allen voran die sogenannten Gewichte ihrer Modelle, die das eigentliche «Wissen» einer KI enthalten. Würden diese gestohlen, könnten Konkurrenten oder staatliche Akteure die Technik kopieren oder missbrauchen. Auch Millionen von Nutzergesprächen sind sensibel.\n\nRegierungen und Fachleute fordern deshalb seit einiger Zeit strengere Sicherheitsstandards für die Entwickler der leistungsfähigsten KI-Modelle. Die Berichte dürften diese Debatte weiter anheizen.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
-          },
-          "thema": "KI & Sicherheit",
-          "stichworte": [
-            "OpenAI",
-            "IT-Sicherheit",
-            "Anthropic",
-            "Reuters"
-          ],
-          "audio": "audio/2026-11-05/ki-openai-sicherheit-edd083.mp3",
-          "dauer": 113
-        },
-        {
-          "id": "ki-google-schulen",
-          "titel": "Google: Wer KI für Schüler abschaltet, schaltet auch die Suche ab",
-          "text": "Schulen, die Googles KI-Werkzeuge für Schülerkonten deaktivieren, verlieren damit laut Berichten auch den Zugang zur Google-Suche. Gleichzeitig behauptet OpenAI, ChatGPT erreiche bereits einen beachtlichen Teil des Suchvolumens von Google.",
-          "ausfuehrlich": "Für Schulen, die mit Google-Konten arbeiten, gibt es eine wichtige Änderung: Wenn Lehrpersonen oder IT-Verantwortliche die KI-Funktionen von Google für Schülerkonten abschalten, wird dabei laut «The Neuron» auch die Google-Suche für diese Konten deaktiviert. Der Grund ist, dass Google KI-Antworten inzwischen so eng in die Suche integriert hat, dass sich beides nicht mehr getrennt steuern lässt.\n\nDamit stehen Schulen vor einem Dilemma. Viele wollen verhindern, dass Kinder Hausaufgaben von einer KI erledigen lassen oder ungeprüfte KI-Antworten übernehmen. Gleichzeitig ist die Suche ein Grundwerkzeug für Recherche im Unterricht. Kritiker sehen darin einen Versuch, die KI-Nutzung faktisch zur Pflicht zu machen.\n\nParallel tobt der Kampf um die Suche im Internet. OpenAI erklärt nach eigener Schätzung, suchähnliche Anfragen an ChatGPT entsprächen bereits rund 20 Prozent des Google-Suchvolumens, und ChatGPT habe 1,2 Milliarden Nutzer pro Woche. Diese Zahlen stammen von OpenAI selbst und sind nicht unabhängig überprüft. Google betont in seinen Quartalszahlen, die KI-Übersichten in der Suche würden stark genutzt.\n\nFür Eltern und Schulen in der Schweiz ist das Thema relevant, weil auch hier viele Schulen Google-Dienste einsetzen. Es lohnt sich, bei der eigenen Schule nachzufragen, wie sie mit den KI-Funktionen umgeht.",
-          "datum": "2026-11-04",
-          "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
-          },
-          "thema": "KI & Bildung",
-          "stichworte": [
             "Google",
-            "Schulen",
-            "Suche",
-            "ChatGPT"
+            "Anthropic",
+            "TeraWulf",
+            "Rechenzentrum"
           ],
-          "weitere_quellen": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
-            }
-          ],
-          "audio": "audio/2026-11-05/ki-google-schulen-d2b1c7.mp3",
-          "dauer": 101
+          "audio": "audio/2026-11-06/ki-google-anthropic-77b06d.mp3",
+          "dauer": 149
         },
         {
-          "id": "ki-apple-agenten",
-          "titel": "Apple warnt vor eigenmächtigen KI-Agenten und öffnet Siri für Entwickler",
-          "text": "In seinem Jahresbericht warnt Apple Anleger, dass autonome KI-Agenten ihre Befugnisse überschreiten oder Anweisungen nicht befolgen könnten. Gleichzeitig öffnet der Konzern seine neue Siri-KI für App-Entwickler.",
-          "ausfuehrlich": "Apple hat in seinem neuen Jahresbericht für Anleger ein bemerkenswertes Risiko aufgeführt. Laut «The Neuron» warnt der Konzern, dass autonome KI-Agenten, also Programme, die selbständig Aufgaben erledigen, ihre Berechtigungen überschreiten oder sich Anweisungen widersetzen könnten. Solche Risikohinweise sind in Börsenberichten üblich, dass Apple dieses konkrete Szenario nennt, zeigt aber, wie ernst grosse Konzerne das Thema inzwischen nehmen.\n\nGleichzeitig treibt Apple seine eigenen KI-Pläne voran. In einer Testversion des iPhone-Betriebssystems (iOS 27.3 Beta) öffnet Apple die neue KI-gestützte Siri für Entwickler. Apps sollen ihre Funktionen künftig so anbieten können, dass Siri sie direkt nutzt, etwa um auf Zuruf eine Bestellung aufzugeben oder Informationen aus einer App zu holen.\n\nGenau hier liegt das Spannungsfeld: Je mehr eine KI selbständig in Apps handeln darf, desto praktischer wird sie, aber desto grösser ist auch der mögliche Schaden, wenn sie etwas falsch versteht oder manipuliert wird. Fachleute sprechen von «Prompt Injection», wenn versteckte Anweisungen in Webseiten oder Nachrichten eine KI zu ungewollten Aktionen verleiten.\n\nFür Nutzerinnen und Nutzer heisst das: Bei KI-Assistenten, die im Namen ihrer Besitzer handeln, lohnt es sich, genau zu prüfen, welche Berechtigungen man ihnen gibt, besonders bei Zahlungen und Nachrichten.",
-          "datum": "2026-11-04",
+          "id": "ki-anthropic-enterprise",
+          "titel": "Anthropic schärft Claude Enterprise: Security Center, Inference Hooks und EDR-Anbindung",
+          "text": "Anthropic hat ein Security-Update für Claude Enterprise vorgestellt. Neu sind unter anderem ein Security Center in der Beta, Inference Hooks als allgemein verfügbare DLP-Schnittstelle sowie zentralere Verwaltung und Anbindung an EDR-Systeme. Zielgruppe sind Unternehmen mit strengen Compliance-Auflagen.",
+          "ausfuehrlich": "Anthropic zieht bei Claude Enterprise die Sicherheitszügel an. In Updates um den 5. und 6. November 2026 beschreibt das Unternehmen ein Security Center in der Beta-Phase, Inference Hooks als allgemein verfügbare Funktion für Data Loss Prevention sowie stärkere zentrale Administration und Anbindung an Endpoint-Detection-and-Response (EDR). Zielgruppe sind Firmen mit strengen Compliance-Auflagen.\n\nInference Hooks erlauben es, Anfragen und Ausgaben gegen eigene Richtlinien zu prüfen, bevor Daten abfliessen oder Modelle sensible Inhalte verarbeiten. Das Security Center soll Sichtbarkeit und Steuerung an einem Ort bündeln – ein typisches Bedürfnis regulierter Branchen, die KI nutzen wollen, ohne Kontrollverlust zu riskieren.\n\nDer Schachzug passt zur Konkurrenzsituation: Nach dem Launch spezialisierter Sicherheitsmodelle und wachsendem Regulierungsdruck müssen Anbieter belegen, dass Firmendaten beherrschbar bleiben. Anthropic setzt auf kontrollierte Enterprise-Pfade statt maximal offener Zugänge.\n\nOb die neuen Werkzeuge Reibung aus dem Alltag nehmen oder Komplexität schaffen, entscheiden Pilotkunden. Klar ist die Richtung: Ohne nachvollziehbare Sicherheits- und DLP-Schichten wird der Einsatz grosser Modelle in regulierten Branchen kaum skalieren.\n\nIn der Praxis entscheiden Integrationsaufwand und False-Positive-Raten darüber, ob Security-Center und Hooks akzeptiert werden. Unternehmen wollen Schutz, aber keine Lähmung produktiver Teams. Anthropics Update zielt genau auf diese Spannungszone zwischen Kontrolle und Nutzbarkeit.\n\nEDR-Anbindung und zentrale Verwaltung signalisieren: KI soll in bestehende Sicherheitsarchitekturen passen, nicht als Schatten-IT danebenstehen. Das ist die Botschaft an CISOs, die Freigaben erteilen oder verweigern. Kundenbewertungen der Beta-Funktionen werden zeigen, ob der Sicherheitsgewinn den Integrationsaufwand rechtfertigt. Vergleichbare Enterprise-Sicherheitsfeatures sind inzwischen ein Wettbewerbsfeld der grossen Anbieter.",
+          "datum": "2026-11-06",
           "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+            "name": "PoYo / DXToday",
+            "url": "https://www.dxtoday.com/"
           },
           "thema": "KI & Sicherheit",
           "stichworte": [
-            "Apple",
-            "Siri",
-            "KI-Agenten",
-            "Risiken"
+            "Claude",
+            "Enterprise",
+            "DLP",
+            "Security Center"
           ],
-          "audio": "audio/2026-11-05/ki-apple-agenten-a7a9cc.mp3",
-          "dauer": 104
+          "audio": "audio/2026-11-06/ki-anthropic-enterprise-ea7c1f.mp3",
+          "dauer": 147
+        },
+        {
+          "id": "ki-openai-linux",
+          "titel": "OpenAI-Pipeline meldet massenhaft potenzielle Linux-Schwachstellen – Budget rund 1,21 Millionen Dollar",
+          "text": "Im Umfeld von GPT-6 Cyber berichtet OpenAI von einer weitgehend autonomen Pipeline zur Suche nach Linux-Lücken: Kostenpunkt laut Unternehmen rund 1,21 Millionen Dollar, mit 2308 potenziellen Funden. Die Zahlen gehören zur gleichen Sicherheitsinitiative wie die 948 Linux-Rechteausweitungsfälle und unterstreichen den Scale-Sprung automatisierter Schwachstellensuche.",
+          "ausfuehrlich": "Neben dem Modell GPT-6 Cyber selbst rückt OpenAI eine automatisierte Forschungspipeline in den Vordergrund, die Linux-Systeme auf Schwachstellen absucht. Laut Unternehmensangaben kostete der Lauf rund 1,21 Millionen Dollar und lieferte 2308 potenzielle Funde. Ein Teil davon hängt mit den 948 Rechteausweitungsfällen zusammen, die OpenAI im Cyber-Launch nennt.\n\nAutomatisierte Suche in dieser Grössenordnung verändert die Ökonomie der IT-Sicherheit. Was früher Teams von Spezialisten Monate kostete, verdichtet sich zu pipelinebasierten Kampagnen – mit hohen Anforderungen an Triage, weil «potenziell» nicht gleich «in der Praxis kritisch» bedeutet. OpenAI betont den Einsatz in kontrollierten, autorisierten Settings.\n\nFür Linux-Distributoren und Cloud-Anbieter entsteht ein neuer Takt: Patches müssen schneller priorisiert werden, wenn Maschinen Tausende Kandidaten ausspucken. Gleichzeitig wächst die Sorge vor Missbrauch, falls ähnliche Systeme unkontrolliert verbreitet würden. Deshalb bleibt die Zugangskontrolle Teil der Botschaft.\n\nUnabhängig prüfen lässt sich die komplette Fundliste zum Startzeitpunkt kaum. Sinnvoll ist, die Grössenordnungen als Unternehmensangaben zu lesen und die Wirkung an nachfolgenden CVE-Meldungen und Vendor-Advisories zu messen. Der Trend ist klar: KI skaliert Offensivwissen – Verteidigung muss mitziehen.\n\nFür Open-Source-Maintainerinnen und -Maintainer kann die schiere Menge potenzieller Funde zur Belastung werden, wenn sie nicht gut priorisiert und belegt sind. Gleichzeitig kann autorisierte KI-Forschung helfen, kritische Lücken früher zu schliessen. Der Massstab bleibt die Qualität der Advisories, nicht die Rohzahl der Kandidaten.\n\nDie genannten 1,21 Millionen Dollar und 2308 potenziellen Funde sind Grössenordnungen aus Unternehmenskommunikation. Ob daraus hunderte oder nur Dutzende praxisrelevante Patches werden, zeigt erst die Zeit nach dem Launch.",
+          "datum": "2026-11-05",
+          "quelle": {
+            "name": "OpenAI",
+            "url": "https://openai.com/index/introducing-gpt-6-cyber"
+          },
+          "weitere_quellen": [
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red"
+            }
+          ],
+          "thema": "KI & Sicherheit",
+          "stichworte": [
+            "Linux",
+            "Schwachstellen",
+            "Pipeline",
+            "OpenAI"
+          ],
+          "audio": "audio/2026-11-06/ki-openai-linux-3d8309.mp3",
+          "dauer": 148
         }
       ]
     }
