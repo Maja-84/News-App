@@ -1,118 +1,150 @@
 {
-  "datum": "2026-11-07",
-  "aktualisiert": "2026-11-07T06:22:58+01:00",
+  "datum": "2026-11-09",
+  "aktualisiert": "2026-11-09T06:28:05+01:00",
   "rubriken": [
     {
       "id": "schweiz",
       "titel": "Schweiz",
       "meldungen": [
         {
-          "id": "schweiz-kriegsmaterial-arena",
-          "titel": "Kriegsmaterialgesetz: Harter Schlagabtausch in der Abstimmungs-«Arena»",
-          "text": "Drei Wochen vor der Abstimmung vom 29. November haben Befürworter und Gegner der Lockerung des Kriegsmaterialgesetzes in der SRF-«Arena» ihre Argumente gekreuzt. Bundespräsident Guy Parmelin warb für die Vorlage, SP-Co-Präsidentin Mattea Meyer sprach von einem «Big Business für die Rüstungsindustrie». Es geht darum, ob die Schweiz an 36 westliche Staaten künftig leichter Waffen liefern darf.",
-          "ausfuehrlich": "Am Freitagabend hat SRF die grosse Abstimmungs-«Arena» zur Lockerung des Kriegsmaterialgesetzes ausgestrahlt, über die die Stimmberechtigten am 29. November entscheiden. Auf der Seite der Befürworter standen Bundespräsident und Wirtschaftsminister Guy Parmelin (SVP), Mitte-Vizepräsidentin Marianne Binder, GLP-Nationalrat Matthias Jauslin und Swissmem-Direktor Stefan Brupbacher. Dagegen argumentierten SP-Co-Präsidentin Mattea Meyer, Grünen-Nationalrat Gerhard Andrey, EVP-Nationalrat Marc Jost und Patrick Walder von Amnesty International Schweiz.\n\nIm Kern geht es um die sogenannte Nichtwiederausfuhr: Bisher verlangt die Schweiz von Käuferstaaten die rechtliche Zusicherung, dass sie Schweizer Kriegsmaterial nicht weitergeben. Zudem dürfen keine Waffen an Staaten gehen, die in bewaffnete Konflikte verwickelt sind. Mit der Lockerung sollen Exporte in 36 westliche Staaten deutlich einfacher werden, auch wenn diese in Konflikte involviert sind, und die verpflichtende Nichtweitergabe soll grundsätzlich entfallen. Ausgerechnet für die Ukraine will der Bundesrat das Wiederausfuhrverbot aber beibehalten. Das war laut watson eine Bedingung der SVP.\n\nDie Befürworter verweisen auf die veränderte Sicherheitslage in Europa seit dem russischen Angriff auf die Ukraine. Laut Swissmem haben Deutschland, die Niederlande und Dänemark signalisiert, künftig kein Schweizer Kriegsmaterial mehr kaufen zu wollen. Das gefährde die heimische Rüstungsindustrie und damit auch die eigene Verteidigungsfähigkeit. Die Gegnerseite spricht von einem «Anti-Ukraine-Gesetz» und warnt, Schweizer Waffen könnten auf Umwegen in Kriegen landen, was mit der Neutralität schwer vereinbar sei.\n\nZur Einordnung: Die Schweizer Rüstungsindustrie hat laut watson im vergangenen Jahr Güter für 948 Millionen Franken exportiert, der zweithöchste je erreichte Wert und 43 Prozent mehr als 2024. Der Kommentator von watson fand, die Befürworter hätten ihre Position in der Sendung nicht recht überzeugend darlegen können; das ist eine Einschätzung, keine Tatsache. Die Abstimmung dürfte zu den umstrittensten dieses Herbsts gehören.",
-          "datum": "2026-11-07",
-          "quelle": {
-            "name": "watson",
-            "url": "https://www.watson.ch/wirtschaft/schweiz/756196444-in-srf-arena-wird-ueber-lockerung-des-kriegsmaterialgesetzes-diskutiert"
-          },
-          "thema": "Kriegsmaterialexporte",
-          "stichworte": [
-            "Abstimmung",
-            "Neutralität",
-            "Rüstung",
-            "Ukraine"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "SRF",
-              "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden"
-            }
-          ],
-          "audio": "audio/2026-11-07/schweiz-kriegsmaterial-arena-4963e0.mp3",
-          "dauer": 155
-        },
-        {
-          "id": "schweiz-bundesgericht-urteil",
-          "titel": "Liebesaffäre am Bundesgericht: Beziehung zweier Richter war unzulässig",
-          "text": "Das Bundesgericht hat einstimmig entschieden, dass die Bundesrichter Yves Donzallaz und Beatrice van de Graaf eine unzulässige «dauernde Lebensgemeinschaft» führten. Damit war ein Urteil, an dem van de Graaf mitwirkte, vorschriftswidrig besetzt. Das hat Folgen für über ein Dutzend weitere Revisionsgesuche und für die Richterwahlen im Dezember.",
-          "ausfuehrlich": "Das Bundesgericht hat in einem Pilotverfahren in öffentlicher Beratung einstimmig entschieden: Bundesrichter Yves Donzallaz (parteilos) und Bundesrichterin Beatrice van de Graaf (SVP) führten eine «dauernde Lebensgemeinschaft». Eine solche Verbindung unter Richtern verbietet das Bundesgerichtsgesetz, um jeden Anschein von Voreingenommenheit zu vermeiden. Die Beziehung war Ende April durch einen Artikel der «Weltwoche» bekannt geworden und wurde Anfang April beendet.\n\nDas Revisionsgesuch stammte von einem Mann, der wegen versuchter vorsätzlicher Tötung verurteilt worden war; van de Graaf hatte an seinem Urteil vom Mai mitgewirkt. Weil das Gericht damit vorschriftswidrig besetzt war, hiess das Bundesgericht das Gesuch gut. Laut Keystone-SDA wurde der Fall anschliessend neu beurteilt und das Urteil in den wesentlichen Punkten bestätigt. 13 weitere Gesuche will das Gericht nun einzeln prüfen.\n\nDie beiden Richter waren nie gleichzeitig in derselben Abteilung tätig. Donzallaz stellt sich laut SRF als Opfer eines politischen Machtkampfs dar: Die SVP wolle ihn ersetzen, um höchstrichterlich den Vorrang des Landesrechts vor EU-Recht durchzusetzen. Diese Darstellung ist seine eigene. SRF-Gerichtskorrespondentin Sibilla Bondolfi sprach von einer institutionellen Krise und einem zerstrittenen Gericht, an dem Indiskretionen an die Medien das Vertrauen zusätzlich beschädigten.\n\nWie geht es weiter? Die Gerichtskommission des Parlaments entscheidet im November, wen sie zur Wahl empfiehlt. Die Gesamterneuerungswahl des Bundesgerichts war wegen der Affäre in die Wintersession im Dezember verschoben worden. Donzallaz und van de Graaf kandidieren beide erneut. Das Urteil klärt immerhin eine bisher offene Rechtsfrage, nämlich welche Beziehungen unter Bundesrichtern verboten sind.",
-          "datum": "2026-11-06",
+          "id": "ch-aeschi-bundesrat",
+          "titel": "Parmelin-Nachfolge: SVP-Fraktionschef Thomas Aeschi kandidiert für den Bundesrat",
+          "text": "Der Zuger Nationalrat Thomas Aeschi will Nachfolger von Bundesrat Guy Parmelin werden. Er gilt als Favorit für das SVP-Ticket, das die Fraktion am 20. November festlegt. Gewählt wird am 9. Dezember von der Bundesversammlung – und dort sind seine Chancen weniger sicher.",
+          "ausfuehrlich": "SVP-Fraktionschef Thomas Aeschi hat seine Kandidatur für die Nachfolge von Bundesrat Guy Parmelin offiziell bestätigt. Der Zuger Nationalrat sagte laut SRF und Swissinfo, er wolle sich im Bundesrat vor allem innenpolitischen Themen widmen, insbesondere Asyl und Migration. Damit erhält das Kandidatenfeld der SVP klare Konturen.\n\nDas weitere Vorgehen ist festgelegt: Die SVP-Fraktion entscheidet am 20. November, wen sie der Vereinigten Bundesversammlung offiziell vorschlägt. Die Wahl selbst findet am 9. Dezember statt. Aeschi gilt innerhalb der Partei als Schwergewicht und als klarer Favorit für das Ticket.\n\nEin sicherer Weg in die Landesregierung ist das aber nicht. SRF-Bundeshausredaktor Rafael von Matt schreibt in einer Analyse, Aeschi dürfe sich trotz seiner Rolle als «Top Shot» der SVP «nicht am Ziel fühlen». Als Fraktionschef hat er in den vergangenen Jahren eine harte Linie vertreten, was ihm bei den anderen Fraktionen, die in der Bundesversammlung die Mehrheit stellen, Stimmen kosten könnte. In der Vergangenheit hat das Parlament wiederholt nicht den offiziellen Favoriten einer Partei gewählt.\n\nFür die Schweiz ist die Wahl bedeutsam, weil sie die Zusammensetzung des Bundesrats in einer Phase mit grossen Dossiers prägt, etwa dem EU-Vertragspaket, der Migrationspolitik und den Bundesfinanzen. Bis zum 20. November dürften weitere Namen aus der SVP diskutiert werden; danach beginnt die Phase der Hearings bei den anderen Fraktionen.",
+          "datum": "2026-11-08",
           "quelle": {
             "name": "SRF",
-            "url": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-urteil-gefaellt-beziehung-von-bundesrichtern-war-unzulaessig"
+            "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden"
           },
-          "thema": "Bundesgericht",
+          "thema": "Bundesratswahl 2026",
           "stichworte": [
-            "Donzallaz",
-            "van de Graaf",
-            "Revision",
-            "Richterwahlen"
+            "Bundesrat",
+            "SVP",
+            "Aeschi",
+            "Parmelin"
           ],
           "weitere_quellen": [
             {
-              "name": "NZZ",
-              "url": "https://www.nzz.ch/schweiz/verbotene-liebe-eindeutiges-urteil-zur-verheimlichten-beziehung-der-bundesrichter-donzallaz-und-van-de-graaf-ld.10055393"
+              "name": "SRF – Analyse",
+              "url": "https://www.srf.ch/news/schweiz/parmelin-nachfolge-mit-aeschi-erhaelt-das-kandidatenfeld-klare-konturen"
             },
             {
-              "name": "Nau.ch / Keystone-SDA",
-              "url": "https://www.nau.ch/news/schweiz/liebesbeziehung-am-bundesgericht-war-unzulassig-67198673"
+              "name": "Swissinfo",
+              "url": "https://www.swissinfo.ch/ger/svp-fraktionschef-thomas-aeschi-will-in-den-bundesrat/92345400"
             }
           ],
-          "audio": "audio/2026-11-07/schweiz-bundesgericht-urteil-162248.mp3",
-          "dauer": 130
+          "audio": "audio/2026-11-09/ch-aeschi-bundesrat-c48681.mp3",
+          "dauer": 111
         },
         {
-          "id": "schweiz-erasmus",
-          "titel": "Nationalratskommission sagt Ja zu 193 Millionen Franken für Erasmus+",
-          "text": "Die Aussenpolitische Kommission des Nationalrats hat den Schweizer Beitrag von 193 Millionen Franken für die Teilnahme an Erasmus+ im Jahr 2027 mit 16 zu 9 Stimmen unverändert gutgeheissen. Der Ständerat hatte bereits zugestimmt. Es ist ein Baustein des neuen EU-Vertragspakets.",
-          "ausfuehrlich": "Die Aussenpolitische Kommission des Nationalrats (APK-N) hat am Freitag mit 16 zu 9 Stimmen den Verpflichtungskredit von 193 Millionen Franken für die Schweizer Teilnahme am EU-Bildungsprogramm Erasmus+ im Jahr 2027 befürwortet, und zwar ohne Änderungen. Der Ständerat hat dem Kredit bereits zugestimmt. Als Nächstes entscheidet der Nationalrat im Plenum.\n\nErasmus+ ermöglicht Studierenden, Lernenden, Lehrpersonen und Jugendorganisationen Austauschaufenthalte in ganz Europa. Die Schweiz war seit 2014 nicht mehr voll assoziiert: Nach der Annahme der Masseneinwanderungsinitiative wurde sie herabgestuft und finanzierte seither eine eigene Ersatzlösung für den Austausch. Die Rückkehr ins Programm ist Teil des neuen Vertragspakets zwischen der Schweiz und der EU, das der Bundesrat ausgehandelt hat.\n\nLaut Nau.ch stimmte die Kommission auch weiteren Bildungselementen aus dem EU-Paket zu. Befürworterinnen und Befürworter sehen in der Vollassoziierung einen Gewinn für Hochschulen und Berufsbildung, weil Schweizer Institutionen wieder gleichberechtigt Projekte leiten und Austausche organisieren könnten. Kritische Stimmen bemängeln vor allem die Kosten in Zeiten knapper Bundesfinanzen und lehnen teils das gesamte EU-Paket ab. Die Details der Gegenargumente in der Kommission sind in den vorliegenden Berichten nur knapp dargestellt.\n\nFür die Einordnung wichtig: Der Entscheid über Erasmus+ ist ein vergleichsweise unumstrittener Teil des Pakets. Die grossen politischen Auseinandersetzungen um die institutionellen Fragen, den Lohnschutz und die Zuwanderung stehen dem Parlament und voraussichtlich der Stimmbevölkerung noch bevor.",
-          "datum": "2026-11-06",
+          "id": "ch-hitzesommer-tote",
+          "titel": "Hitzesommer 2026: Rund 1260 Hitzetote in der Schweiz",
+          "text": "Das Bundesamt für Gesundheit schätzt, dass zwischen Mai und August rund 1260 Menschen in der Schweiz an den Folgen der Hitze gestorben sind. Etwa 85 Prozent waren 75 Jahre oder älter. Die Zahl ist provisorisch, die definitive Auswertung folgt im Frühling 2027.",
+          "ausfuehrlich": "Der Sommer 2026 hat in der Schweiz deutlich mehr Todesopfer gefordert als ein normaler Sommer. Nach einer ersten Schätzung des Bundesamts für Gesundheit (BAG), erstellt zusammen mit dem Schweizerischen Tropen- und Public-Health-Institut, starben zwischen Mai und August rund 1260 Menschen hitzebedingt. Rund 85 Prozent der Verstorbenen waren 75 Jahre oder älter.\n\nDie Zahl beruht auf statistischen Modellen: Sie vergleicht die tatsächlichen Todesfälle mit jenen, die ohne die hohen Temperaturen zu erwarten gewesen wären. Es handelt sich deshalb um eine Schätzung mit Unsicherheit, nicht um einzeln gezählte Fälle. Das BAG betont, dass das Ergebnis provisorisch ist. Eine definitive Auswertung, die auch den September einbezieht, ist für den Frühling 2027 angekündigt.\n\nDie Auswertung passt zu anderen Folgen des trockenen und heissen Sommers, über die in den letzten Tagen berichtet wurde: Landwirtschaftsbetriebe klagen über Ernteausfälle, und im Jura sterben laut SRF ungewöhnlich viele Pferde an einer Vergiftung durch Ahornsamen, was ebenfalls mit der Trockenheit zusammenhängt.\n\nFür Kantone und Gemeinden ist die Zahl ein Hinweis darauf, wie wichtig Hitzeschutzpläne vor allem für ältere Menschen sind – etwa Besuchsdienste, kühle Räume und Warnungen bei Hitzewellen. Fachleute rechnen damit, dass solche Sommer mit dem Klimawandel häufiger werden.",
+          "datum": "2026-11-07",
           "quelle": {
             "name": "SRF",
-            "url": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-befuerwortet-schweizer-erasmus-beitrag"
+            "url": "https://www.srf.ch/news/schweiz/provisorische-auswertung-hitzesommer-2026-forderte-in-der-schweiz-rund-1260-todesopfer"
           },
-          "thema": "Aussenpolitik Schweiz",
+          "thema": "Hitze Schweiz",
           "stichworte": [
-            "EU-Paket",
-            "Erasmus+",
-            "Bildung",
-            "Nationalrat"
+            "Hitze",
+            "BAG",
+            "Todesfälle",
+            "Klimawandel"
           ],
           "weitere_quellen": [
             {
-              "name": "swissinfo / Keystone-SDA",
-              "url": "https://www.swissinfo.ch/ger/nationalratskommission-bef%c3%bcrwortet-schweizer-beitrag-an-erasmus%2b/92341126"
+              "name": "BAG – Kurzbericht",
+              "url": "https://www.bag.admin.ch/de/hitzebedingte-sterblichkeit"
+            },
+            {
+              "name": "Swiss TPH",
+              "url": "https://www.swisstph.ch/de/news-detail/news/erste-schaetzungen-zeigen-1260-hitzebedingte-todesfaelle-in-der-schweiz-im-sommer-2026"
             }
           ],
-          "audio": "audio/2026-11-07/schweiz-erasmus-0124cc.mp3",
-          "dauer": 124
+          "audio": "audio/2026-11-09/ch-hitzesommer-tote-aa20d9.mp3",
+          "dauer": 106
         },
         {
-          "id": "schweiz-expo",
-          "titel": "Landesausstellung: Ständeratskommission sagt nur per Stichentscheid Ja",
-          "text": "Die Bildungskommission des Ständerats unterstützt ein neues Gesetz zur Förderung künftiger Landesausstellungen nur dank dem Stichentscheid ihres Präsidenten. Der Bund soll bis zu 30 Prozent einer Expo zahlen können. Die vom Bundesrat geplante Sperre bis 2035 will die Kommission knapp streichen.",
-          "ausfuehrlich": "Die Kommission für Wissenschaft, Bildung und Kultur des Ständerats (WBK-S) hat sich hinter ein neues Gesetz zur Förderung von Landesausstellungen gestellt, allerdings nur mit dem Stichentscheid ihres Präsidenten Matthias Michel (FDP/ZG). Das teilten die Parlamentsdienste am Freitag mit. Das Gesetz soll die Grundlage dafür schaffen, dass der Bund künftige Expo-Projekte finanziell unterstützen kann.\n\nMit 8 zu 4 Stimmen beantragt die Kommission, dass sich der Bund mit bis zu 30 Prozent an den Kosten einer Landesausstellung beteiligen kann, wie es der Bundesrat vorschlägt. Eine Minderheit möchte bis zu 50 Prozent, damit Kantone und Gemeinden finanziell nicht übermässig belastet werden. Korrigieren will die Kommission den Zeitplan: Der Bundesrat wollte verbieten, vor 2035 einen Planungsbeschluss für die Förderung einer Expo zu beantragen. Diese Sperre lehnte die WBK-S mit 6 zu 5 Stimmen bei einer Enthaltung ab.\n\nHintergrund ist ein Entscheid des Bundesrats vom Juni 2025, in den 2030er-Jahren keine Landesausstellung mitzufinanzieren, vor allem aus Spargründen. Mehrere Gruppierungen haben Interesse an einer Expo bekundet, etwa Nexpo und X27, die gemeinsam eine dezentrale Ausstellung planen. Befürworter wollen ihnen Planungssicherheit geben; Gegner sehen keinen Bedarf für ein neues Gesetz und mahnen zur finanzpolitischen Zurückhaltung.\n\nDie letzte Landesausstellung war die Expo.02 im Drei-Seen-Land. Als Nächstes entscheidet der Ständerat über die Vorlage. Das knappe Kommissionsresultat deutet darauf hin, dass auch im Plenum mit einer engen Abstimmung zu rechnen ist.",
-          "datum": "2026-11-06",
+          "id": "ch-freiburg-wahlen",
+          "titel": "Freiburg: Bürgerliche holen drei Staatsratssitze im ersten Wahlgang",
+          "text": "Bei den kantonalen Wahlen in Freiburg sind Romain Collaud und Didier Castella (beide FDP) sowie Marie-France Roth Pasquier (Mitte) direkt in die Regierung gewählt worden. Vier Sitze bleiben offen, der zweite Wahlgang ist am 29. November. Im Grossen Rat legen SVP und SP zu, die FDP verliert.",
+          "ausfuehrlich": "Der Kanton Freiburg hat am Sonntag seine Regierung und sein Parlament neu gewählt. Im ersten Wahlgang schafften drei bürgerliche Kandidierende die Wahl in den siebenköpfigen Staatsrat: Romain Collaud und Didier Castella von der FDP sowie Marie-France Roth Pasquier von der Mitte. SRF spricht von einem Erfolg für das bürgerliche Lager.\n\nDie übrigen vier Sitze sind noch offen. Sie werden im zweiten Wahlgang am 29. November vergeben, bei dem dann das relative Mehr genügt. Wie sich die Kräfteverhältnisse in der Regierung am Ende verteilen, hängt stark davon ab, welche Allianzen die Parteien für diese Runde schmieden.\n\nAuch der Grosse Rat, das Kantonsparlament, wurde neu bestellt. Laut SRF gewinnen SVP und SP Sitze, und zwar vor allem auf Kosten der FDP. Damit zeigt sich in Freiburg ein Muster, das auch in anderen Kantonen zu beobachten war: Die Pole links und rechts werden gestärkt, während die FDP im Parlament Mühe hat – auch wenn sie in der Regierung gut abschneidet.\n\nFreiburg ist als zweisprachiger Kanton und mit seinem starken Bevölkerungswachstum politisch interessant. Die neue Regierung wird sich unter anderem mit den Kantonsfinanzen, der Spitalplanung und der Verkehrsinfrastruktur beschäftigen müssen. Die genauen Sitzverteilungen im Grossen Rat publiziert der Kanton auf seiner Wahlseite.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "Nau.ch / Keystone-SDA",
-            "url": "https://www.nau.ch/politik/bundeshaus/knappstes-ja-zu-finanzieller-beteiligung-des-bundes-an-einer-expo-67199014"
+            "name": "SRF",
+            "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat"
           },
-          "thema": "Parlament Schweiz",
+          "thema": "Kantonale Wahlen",
           "stichworte": [
-            "Expo",
-            "Landesausstellung",
-            "Ständerat",
-            "Bundesfinanzen"
+            "Freiburg",
+            "Staatsrat",
+            "Grosser Rat",
+            "Wahlen"
           ],
           "weitere_quellen": [
             {
-              "name": "Parlamentsdienste",
-              "url": "https://www.parlament.ch/press-releases/Pages/mm-wbk-s-2026-11-6.aspx"
+              "name": "Le Temps",
+              "url": "https://www.letemps.ch/de/schweiz/freiburg/kantonale-wahlen-in-freiburg-drei-kandidierende-der-rechten-sind-im-ersten-wahlgang-gewahlt"
+            },
+            {
+              "name": "Staat Freiburg",
+              "url": "https://www.fr.ch/de/staat-und-recht/abstimmungen-wahlen-und-politische-rechte/wahlen-informationen-und-ergebnisse"
             }
           ],
-          "audio": "audio/2026-11-07/schweiz-expo-f3e600.mp3",
-          "dauer": 122
+          "audio": "audio/2026-11-09/ch-freiburg-wahlen-def566.mp3",
+          "dauer": 99
+        },
+        {
+          "id": "ch-justeat-streik",
+          "titel": "Just-Eat-Kuriere in Zürich streiken gegen Entlassungen",
+          "text": "In Zürich und im Glatttal haben Kurierinnen und Kuriere von Just Eat die Arbeit niedergelegt. Sie wehren sich gegen geplante Entlassungen und den Wechsel zu einem Modell mit selbstständigen Fahrern. Laut Berichten fiel mehr als die Hälfte der Schichten aus, bis zu 200 Bestellungen blieben liegen.",
+          "ausfuehrlich": "Am Wochenende haben Kurierinnen und Kuriere des Essenslieferdienstes Just Eat in Zürich und im Glatttal gestreikt. Anlass sind geplante Entlassungen: Das Unternehmen will offenbar von fest angestellten Fahrerinnen und Fahrern zu einem Modell mit Selbstständigen wechseln. Nach Angaben von Nau.ch und SRF fiel mehr als die Hälfte der Schichten aus, bis zu 200 Bestellungen konnten nicht ausgeliefert werden.\n\nDie Streikenden fordern, dass die festen Anstellungen erhalten bleiben, dass Just Eat mit ihnen und der Gewerkschaft verhandelt und dass das laufende Konsultationsverfahren bis zum 30. November verlängert wird. In einem solchen Verfahren können Angestellte bei Massenentlassungen Vorschläge machen, wie Kündigungen vermieden werden könnten.\n\nHintergrund ist ein seit Jahren schwelender Streit über die Arbeitsbedingungen in der Plattformwirtschaft. Just Eat galt in der Schweiz lange als Beispiel dafür, dass Kuriere fest angestellt und damit sozialversichert sein können – im Unterschied zu Modellen, bei denen Fahrer als Selbstständige arbeiten. Ein Wechsel würde für die Betroffenen weniger Sicherheit bei Krankheit, Unfall und Lohn bedeuten.\n\nWie Just Eat auf die Forderungen reagiert, war zunächst offen. Der Fall dürfte über Zürich hinaus beachtet werden, weil er zeigt, wie stark Lieferdienste unter Kostendruck stehen. Gleichzeitig wird in der Politik diskutiert, wie Plattformarbeit arbeitsrechtlich eingeordnet werden soll.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "SRF",
+            "url": "https://www.srf.ch/news/schweiz/essenslieferant-zuercher-just-eat-kuriere-legen-ihre-arbeit-nieder"
+          },
+          "thema": "Wirtschaft Schweiz",
+          "stichworte": [
+            "Just Eat",
+            "Streik",
+            "Zürich",
+            "Plattformarbeit"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "Nau.ch",
+              "url": "https://www.nau.ch/news/schweiz/just-eat-bei-streik-blieben-200-bestellungen-liegen-67199583"
+            },
+            {
+              "name": "Swissinfo",
+              "url": "https://www.swissinfo.ch/ger/just-eat-kuriere-streiken-in-z%C3%BCrich-und-im-glatttal/92346682"
+            }
+          ],
+          "audio": "audio/2026-11-09/ch-justeat-streik-3368d7.mp3",
+          "dauer": 102
+        },
+        {
+          "id": "ch-jodtabletten-akw",
+          "titel": "Studie: Jodtabletten machen Anwohner skeptischer gegenüber AKW",
+          "text": "Wer nahe eines Kernkraftwerks wohnt und vorsorglich Jodtabletten erhält, sieht die Atomkraft kritischer. Das zeigt eine Studie des Instituts für Schweizer Wirtschaftspolitik. Auf Abstimmungen und Wahlen wirkte sich das aber nicht messbar aus.",
+          "ausfuehrlich": "Forscher des Instituts für Schweizer Wirtschaftspolitik (IWP) haben untersucht, ob die vorsorgliche Abgabe von Jodtabletten die Haltung zur Atomkraft verändert. Die Tabletten sollen bei einem schweren Reaktorunfall verhindern, dass die Schilddrüse radioaktives Jod aufnimmt. Laut NZZ kommen Martin Mosler und Simon Schmitter zu einem klaren Befund: Wer innerhalb des früheren 20-Kilometer-Radius um ein AKW wohnte und Tabletten bekam, äusserte sich in Umfragen deutlich kritischer zur Kernkraft als vergleichbare Personen knapp ausserhalb dieser Grenze.\n\nBesonders stark war der Effekt 2011, direkt nach der Katastrophe von Fukushima. Die Forscher vermuten, dass die Bilder aus Japan der abstrakten Vorsichtsmassnahme plötzlich eine konkrete Bedeutung gaben. An der 2014 eingeführten 50-Kilometer-Grenze fanden sie keinen vergleichbaren Effekt. Ihre Erklärung: Das Warnsignal wirke vor allem dort, wo das Risiko auch geografisch nahe ist.\n\nAuf das politische Verhalten schlug sich die kritischere Haltung allerdings nicht nieder. Weder die Atomausstiegsinitiative von 2016 noch die Grünen erhielten in den Verteilgebieten systematisch mehr Stimmen, und auch die Stimmbeteiligung stieg nicht nachweisbar.\n\nDie Studie ist für die aktuelle Energiedebatte interessant, weil in der Schweiz wieder über neue Kernkraftwerke diskutiert wird. Sie zeigt, dass Schutzmassnahmen die Wahrnehmung von Risiken beeinflussen können. Es handelt sich um eine einzelne Untersuchung, deren Ergebnisse noch von anderen Fachleuten eingeordnet werden müssen.",
+          "datum": "2026-11-09",
+          "quelle": {
+            "name": "NZZ",
+            "url": "https://www.nzz.ch/schweiz/politische-nebenwirkung-jodtabletten-erhoehen-die-skepsis-gegen-akw-ld.10052841"
+          },
+          "thema": "Atomkraft Schweiz",
+          "stichworte": [
+            "AKW",
+            "Jodtabletten",
+            "Studie",
+            "Energie"
+          ],
+          "audio": "audio/2026-11-09/ch-jodtabletten-akw-ca8146.mp3",
+          "dauer": 114
         }
       ]
     },
@@ -121,344 +153,440 @@
       "titel": "Welt",
       "meldungen": [
         {
-          "id": "welt-iran-qeshm",
-          "titel": "USA greifen erneut iranische Luftabwehr an – Explosionen auf der Insel Qeshm",
-          "text": "US-Präsident Trump hat neue, nach eigenen Worten «kleine» Angriffe auf iranische Luftabwehrsysteme bestätigt. Iranische Staatsmedien meldeten zwei Explosionen im Gebiet Suza auf der Insel Qeshm in der Strasse von Hormus. Gleichzeitig laufen Vermittlungsbemühungen, und Washington setzt eine Belohnung für Informationen zum iranischen Atomprogramm aus.",
-          "ausfuehrlich": "Die USA haben am Freitag erneut militärische Ziele in Iran angegriffen. Präsident Donald Trump sagte vor Journalisten in Florida, es habe sich um eine «kleine» Aktion gegen Luftabwehrsysteme gehandelt: Iran habe ein Flugabwehrgerät aufgestellt, und die USA hätten es «in etwa 15 Minuten, vielleicht sogar fünf» zerstört. Iranische Staatsmedien berichteten von zwei Explosionen im Gebiet Suza auf der Insel Qeshm, die an der für den Ölhandel zentralen Strasse von Hormus liegt. Die halbamtliche Agentur Tasnim sprach von zwei Raketen; zu Schäden oder Opfern gab es zunächst keine offiziellen Angaben.\n\nDie Angriffe fallen in eine Phase, in der Teherans Führung laut AP Vorschläge von Vermittlern prüft. Nach Angaben von AP hat Trump zudem mit dem Emir von Katar über eine Deeskalation in der Region gesprochen. Gleichzeitig bietet das US-Programm «Rewards for Justice» bis zu 20 Millionen Dollar und Umsiedlungshilfe für Informationen über das iranische Atomprogramm, einschliesslich Anlagen und beteiligter Wissenschaftler.\n\nHintergrund ist der seit Monaten andauernde Konflikt zwischen den USA, Israel und Iran, der den Schiffsverkehr durch die Strasse von Hormus stark beeinträchtigt hat. Laut Saxo-Rohstoffchef Ole Hansen sind Irans Ölexporte nahezu auf null gefallen; Teheran verlange ein Ende der US-Seeblockade, Sanktionslockerungen und freigegebene Vermögen, bevor es die Meerenge vollständig öffne.\n\nEinordnung: Die Märkte hatten nach den US-Zwischenwahlen auf einen baldigen Deal gesetzt, der Ölpreis fiel in dieser Woche um rund 13 Prozent. Die neuen, wenn auch begrenzten Angriffe zeigen, dass militärische Entscheidungen weiterhin beim Präsidenten liegen und eine Einigung keineswegs sicher ist.",
-          "datum": "2026-11-06",
+          "id": "welt-krakau-anschlag",
+          "titel": "Terroranschlag in Krakau: Rechtsextremer Schütze tötet sechs Menschen",
+          "text": "Ein 24-jähriger Pole ist am Samstag in den Hauptmarkt von Krakau gefahren und hat wahllos auf Menschen geschossen. Sechs Menschen starben, darunter eine Österreicherin und ein Brite, rund 15 bis 17 wurden verletzt. Die Staatsanwaltschaft ermittelt wegen Terrorismus; zu Hause fand die Polizei die Leichen seiner Eltern und Schwester.",
+          "ausfuehrlich": "Am Samstagnachmittag gegen 15 Uhr ist ein 24-jähriger Mann mit einem Auto in den Hauptmarkt der Krakauer Altstadt gefahren, einen der meistbesuchten Plätze Polens. In militärähnlicher Kleidung und mit schusssicherer Weste schoss er laut Polizei an mehreren Stellen wahllos auf Passanten. Sechs Menschen wurden getötet, vier Frauen und zwei Männer, darunter laut Behörden eine 51-jährige Österreicherin und ein 32-jähriger Brite. Die Zahl der Verletzten wird je nach Quelle mit 15 bis 17 angegeben, darunter zwei Polizisten. Nach einem Schusswechsel wurde der Täter verletzt festgenommen.\n\nIn der Wohnung der Familie in Ostrowiec Świętokrzyski fand die Polizei danach die Leichen seines Vaters, seiner Mutter und seiner 21-jährigen Schwester. Sie starben vermutlich ebenfalls durch Schüsse. Innenminister Marcin Kierwiński sagte, der Mann sei von rechtsextremen Ideologien fasziniert gewesen und habe «sehr radikale», ultranationalistische Ansichten gehabt. Ob er einer Gruppe angehörte, ist nicht bekannt. Laut Onet war der Vater Waffenbesitzer; woher die Tatwaffe stammt, wird noch geprüft. Gerüchte, der Täter sei Soldat gewesen, wies das Verteidigungsministerium zurück.\n\nDie Landesstaatsanwaltschaft ermittelt wegen einer terroristischen Straftat, Polen hat zwei Tage Staatstrauer ausgerufen. Verteidigungsminister Kosiniak-Kamysz sprach von einem «Terrorakt». Regierungen in ganz Europa bekundeten ihr Beileid, die EU-Kommission senkte die Flaggen auf halbmast.\n\nPolen galt bisher als vergleichsweise sicheres Land mit wenigen Schusswaffenangriffen. Die Zeitung Rzeczpospolita schrieb vom «brutalen Ende einer Ära». Die Tat dürfte die Debatte über Waffenrecht und rechtsextreme Radikalisierung im Internet in Polen und darüber hinaus verschärfen.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "AP",
-            "url": "https://apnews.com/article/iran-war-nuclear-program-negotiations-trump-53ed5d271b9aef6f880aebc133ea6a55"
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+          },
+          "thema": "Polen",
+          "stichworte": [
+            "Krakau",
+            "Terror",
+            "Rechtsextremismus",
+            "Polen"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/poland-krakow-shooting-dead-guns-7f0f816ff970e37557130bd74fd92939"
+            },
+            {
+              "name": "Onet",
+              "url": "https://wiadomosci.onet.pl/krakow/nowe-informacje-o-sprawcy-strzelaniny-w-krakowie-jego-ojciec-mial-wiele-sztuk-broni/ltxcrns"
+            }
+          ],
+          "kontinent": "Europa",
+          "land": "Polen",
+          "wichtig": true,
+          "wichtig_grund": "Grosser Terroranschlag mitten in einer europäischen Touristenstadt mit sechs Toten, auch eine Österreicherin unter den Opfern.",
+          "audio": "audio/2026-11-09/welt-krakau-anschlag-a426f0.mp3",
+          "dauer": 136
+        },
+        {
+          "id": "welt-ukraine-kn23",
+          "titel": "Ukraine: Russland setzt laut Selenski nordkoreanische Raketen gegen Energieanlagen ein",
+          "text": "Präsident Selenski sagt, Russland habe bei einem nächtlichen Grossangriff nordkoreanische KN-23-Raketen auf eine wichtige Energieanlage abgefeuert. Von 36 ballistischen Raketen habe die Ukraine nur vier abfangen können. In Kiew fielen Strom, Heizung und Wasser teilweise aus.",
+          "ausfuehrlich": "Der ukrainische Präsident Wolodimir Selenski hat Russland vorgeworfen, bei einem nächtlichen Angriff Ende vergangener Woche nordkoreanische Raketen vom Typ KN-23 eingesetzt zu haben. Ziel sei unter anderem eine für die Versorgung wichtige Energieanlage gewesen. Laut Selenski stützt sich die Angabe auf vorläufige Erkenntnisse; unabhängig bestätigt ist sie bisher nicht.\n\nNach seinen Angaben feuerte Russland 36 ballistische Raketen ab, von denen die ukrainische Luftabwehr nur vier abfangen konnte. Ballistische Raketen sind schwer abzuwehren, vor allem mit dem knappen Vorrat an Patriot-Abfangraketen. Selenski forderte die westlichen Partner deshalb erneut auf, Lieferungen zu beschleunigen. In Kiew wurde die Energieinfrastruktur beschädigt, es kam zu Ausfällen bei Strom, Heizung und Wasser.\n\nDass Nordkorea Russland mit Waffen und Munition unterstützt, ist seit längerem bekannt; westliche Regierungen und die Ukraine haben den Einsatz von KN-23-Raketen bereits früher gemeldet. Neu ist das Ausmass der Angriffe auf die Energieversorgung zu Beginn des Winters.\n\nRussland hatte in den vergangenen Wintern systematisch Kraftwerke und Umspannwerke angegriffen, um die Bevölkerung zu zermürben. Fachleute erwarten, dass sich diese Strategie in den kommenden Monaten fortsetzt. Für die Ukraine hängt viel davon ab, wie schnell zusätzliche Luftabwehrsysteme eintreffen und Schäden repariert werden können.",
+          "datum": "2026-11-07",
+          "quelle": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says"
+          },
+          "thema": "Ukraine-Krieg",
+          "stichworte": [
+            "Ukraine",
+            "Russland",
+            "Nordkorea",
+            "Energie"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "Kyiv Post",
+              "url": "https://www.kyivpost.com/post/89444"
+            },
+            {
+              "name": "UPI",
+              "url": "https://www.upi.com/Top_News/World-News/2026/11/08/ukraine-attack-russia-kn-23-missile/3171794173743/"
+            }
+          ],
+          "kontinent": "Europa",
+          "land": "Ukraine",
+          "audio": "audio/2026-11-09/welt-ukraine-kn23-75b63d.mp3",
+          "dauer": 109
+        },
+        {
+          "id": "welt-israel-eisenkot",
+          "titel": "Israel: Eisenkot erhält Auftrag zur Regierungsbildung",
+          "text": "Staatspräsident Isaac Herzog hat Ex-Armeechef Gadi Eisenkot den Auftrag erteilt, eine Regierung zu bilden. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Er will eine «nationale Notstandsregierung» und Benjamin Netanyahu ablösen.",
+          "ausfuehrlich": "Israels Präsident Isaac Herzog hat am Sonntag Gadi Eisenkot, Chef der Partei Jaschar, offiziell mit der Regierungsbildung beauftragt. Das hatte Herzog nach Gesprächen mit allen Parteien bereits am Samstagabend angekündigt. Nach israelischem Recht hat Eisenkot nun 28 Tage Zeit, eine Koalition zu schmieden; der Präsident kann die Frist um bis zu 14 Tage verlängern.\n\nEisenkot, früher Generalstabschef der Armee, schrieb auf X, es sei «Zeit für eine nationale Notstandsregierung». Laut Washington Post und Ynet warf er Premierminister Benjamin Netanyahu vor, Israel in eine historische Krise geführt zu haben, die Demokratie stehe an einem «gefährlichen Scheideweg». Laut Guardian wirbt er auch um bisherige Verbündete Netanyahus, um eine Mehrheit zu erreichen.\n\nDass nicht Netanyahu als Erster den Auftrag erhält, ist eine bedeutende Wende. Der Präsident vergibt das Mandat an die Person, die nach den Empfehlungen der Parteien die besten Aussichten auf eine Mehrheit in der Knesset hat. Wie stabil Eisenkots mögliche Koalition wäre, ist aber offen, denn sie müsste sehr unterschiedliche Parteien vereinen.\n\nScheitert Eisenkot, kann der Präsident einen anderen Abgeordneten beauftragen. Für die Region ist die Frage wichtig, weil die nächste Regierung über den Kurs im Gazastreifen, gegenüber Iran und im Verhältnis zu den USA entscheidet.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "Ynet",
+            "url": "https://www.ynetnews.com/article/og5r8cu5b"
+          },
+          "thema": "Israel",
+          "stichworte": [
+            "Israel",
+            "Eisenkot",
+            "Netanyahu",
+            "Regierungsbildung"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/11/08/israel-gadi-eisenkot-accepts-mandate-form-government-urges-netanyahu-ouster/"
+            },
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html"
+            }
+          ],
+          "kontinent": "Naher Osten",
+          "land": "Israel",
+          "audio": "audio/2026-11-09/welt-israel-eisenkot-31f130.mp3",
+          "dauer": 102
+        },
+        {
+          "id": "welt-gaza-ueberschwemmung",
+          "titel": "Gaza: Erster Wintersturm überflutet Zehntausende Zelte",
+          "text": "Starker Regen hat im Gazastreifen nach Angaben der Hamas-geführten Behörden rund 70'000 Zelte von Vertriebenen überflutet. Decken und Matratzen wurden durchnässt, Unterkünfte weggespült. Todesopfer wurden zunächst keine gemeldet, Hilfsorganisationen warnen vor einer Verschlechterung der Lage.",
+          "ausfuehrlich": "Der erste Wintersturm hat am Wochenende den Gazastreifen erreicht. Heftiger Regen überflutete nach Angaben des von der Hamas geführten Medienbüros innerhalb von zwölf Stunden mindestens 70'000 Zelte, in denen Vertriebene leben. Unterkünfte wurden weggespült, Decken und Matratzen durchnässt. Es gab Verletzte, Todesopfer wurden laut Reuters zunächst nicht gemeldet. Die Zahl der Zelte stammt von den lokalen Behörden und lässt sich nicht unabhängig überprüfen.\n\nHunderttausende Menschen im Gazastreifen leben seit dem Krieg in improvisierten Lagern, oft auf sandigem oder schlammigem Boden ohne Entwässerung. Viele Häuser sind zerstört, feste Notunterkünfte fehlen. Jeder Regen verwandelt die Lager in Schlammfelder, im Winter kommen Kälte und Krankheiten dazu.\n\nHilfsorganisationen fordern seit Monaten mehr winterfestes Material wie Planen, Zelte, Heizmaterial und Decken. Wie viel davon in den Gazastreifen gelangt, hängt von den Grenzübergängen und der politischen Lage ab. Auch in Syrien führten Sturzfluten am Wochenende zu Schäden; in Deir ez-Zor stürzte eine Brücke ein.\n\nFür die Menschen in Gaza dürfte der Winter erneut eine schwere Zeit werden. Die humanitäre Lage gehört deshalb zu den Themen, mit denen sich auch die künftige israelische Regierung beschäftigen muss.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "Reuters via Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/international/4003504-reuters-world-news-summary"
+          },
+          "thema": "Gaza",
+          "stichworte": [
+            "Gaza",
+            "Wetter",
+            "Vertriebene",
+            "Humanitäre Lage"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/08/all"
+            }
+          ],
+          "kontinent": "Naher Osten",
+          "land": "Palästinensische Gebiete",
+          "audio": "audio/2026-11-09/welt-gaza-ueberschwemmung-660e3c.mp3",
+          "dauer": 99
+        },
+        {
+          "id": "welt-iran-blockade",
+          "titel": "USA setzen Frachter im Golf von Oman ausser Gefecht – Iran droht",
+          "text": "Ein US-Militärflugzeug hat einen Frachter beschossen, der laut US-Kommando die Seeblockade gegen Iran durchbrechen wollte. Seit Juli haben die USA nach eigenen Angaben 147 Schiffe umgeleitet. Irans Sicherheitschef warnt vor einer «verheerenden Antwort», falls der Krieg neu beginne.",
+          "ausfuehrlich": "Die US-Streitkräfte haben am Samstag im Golf von Oman einen zivilen Frachter angegriffen und manövrierunfähig gemacht. Laut dem US-Zentralkommando (Centcom) feuerte ein Flugzeug Präzisionsmunition auf das Heck der unter der Flagge von St. Kitts und Nevis fahrenden «Huda». Die Besatzung sei zuvor aufgefordert worden, die betroffenen Bereiche zu verlassen. Nach US-Darstellung hatte das Schiff einen iranischen Hafen angelaufen und mehrfach versucht, die amerikanische Seeblockade zu durchbrechen. Eine unabhängige Bestätigung dieser Darstellung gibt es nicht.\n\nCentcom zufolge haben US-Kräfte seit Juli 147 Handelsschiffe umgeleitet und fünf Schiffe ausser Gefecht gesetzt, die sich nicht an die Blockade hielten. Zudem kündigte das Kommando eine neue Einheit namens «Task Force Iron Gate» an. Sie soll verhindern, dass Iran Waffen, sanktionierte Güter und Einnahmen über Landwege und das Kaspische Meer bewegt.\n\nGleichzeitig warnte Irans oberster Sicherheitsvertreter Washington laut Anadolu vor einer «verheerenden Antwort», falls die USA den Krieg wieder aufnähmen. Die Drohung kommt wenige Tage nach den US-Zwischenwahlen, bei denen die Republikaner beide Kongresskammern verloren haben.\n\nDie Lage in den Gewässern um die Strasse von Hormus bleibt damit angespannt. Sie ist eine der wichtigsten Routen für Öl und Gas weltweit; Zwischenfälle dort wirken sich direkt auf die Energiepreise aus, auch in Europa und der Schweiz.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html"
           },
           "thema": "Strasse von Hormus",
           "stichworte": [
             "Iran",
             "USA",
-            "Qeshm",
-            "Luftabwehr"
+            "Blockade",
+            "Golf von Oman"
           ],
           "weitere_quellen": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-8-2026/4115649"
             }
           ],
           "kontinent": "Naher Osten",
           "land": "Iran",
-          "audio": "audio/2026-11-07/welt-iran-qeshm-3e3fee.mp3",
-          "dauer": 127
+          "audio": "audio/2026-11-09/welt-iran-blockade-5db691.mp3",
+          "dauer": 107
         },
         {
-          "id": "welt-jemen-taiz",
-          "titel": "Jemen: Mindestens 30 Tote bei Angriff auf Markt in Taiz",
-          "text": "Bei einem Angriff auf den Al-Hadara-Markt im Bezirk Al-Waziyah in der Provinz Taiz sind am Freitag mindestens 30 Menschen getötet und acht verletzt worden. Die Huthi machen saudische Kampfjets verantwortlich, die jemenitische Regierung spricht von Huthi-Raketen. Wer den Angriff verübt hat, ist nicht unabhängig geklärt.",
-          "ausfuehrlich": "Im Südwesten Jemens ist am Freitag ein belebter Markt getroffen worden. Beim Angriff auf den Al-Hadara-Markt im Bezirk Al-Waziyah in der Provinz Taiz kamen laut AP und Xinhua mindestens 30 Menschen ums Leben, acht weitere wurden verletzt. Die Zahlen stammen von lokalen Behörden und Konfliktparteien und lassen sich derzeit nicht unabhängig überprüfen.\n\nÜber die Verantwortung gibt es zwei völlig gegensätzliche Darstellungen. Die Huthi-Rebellen erklären, ein saudisches Kampfflugzeug vom Typ F-15 habe den Markt bombardiert; ihr Militärsprecher Yahya Saree verbreitete diese Version über die von den Huthi kontrollierte Agentur Saba. Die international anerkannte, von Saudi-Arabien unterstützte Regierung wirft dagegen den Huthi vor, den Markt mit ballistischen Raketen beschossen zu haben. Al Jazeera berichtet, beide Seiten würden sich gegenseitig beschuldigen; eine unabhängige Bestätigung gibt es nicht.\n\nTaiz ist seit Jahren eine der am stärksten umkämpften Regionen Jemens; die Frontlinie zwischen Huthi und Regierungstruppen verläuft teils mitten durch die Provinz. Der Bürgerkrieg dauert seit 2014 an und hat eine der schwersten humanitären Krisen der Welt ausgelöst. Bemerkenswert: Der Bundesrat hat in dieser Woche zusätzliche 40 Millionen Franken Nothilfe für Äthiopien und Jemen angekündigt.\n\nEinordnung: Sollte sich eine saudische Beteiligung bestätigen, wäre das eine bedeutsame Wende, denn Riad hatte sich in den letzten Jahren um eine Annäherung an die Huthi bemüht. Solange die Urheberschaft offen ist, bleibt die Meldung vor allem ein weiteres Zeichen dafür, wie verwundbar die Zivilbevölkerung im vergessenen Krieg Jemens ist.",
-          "datum": "2026-11-06",
+          "id": "welt-jemen-luftangriffe",
+          "titel": "Jemen: Huthi melden Dutzende Tote nach saudischen Luftangriffen",
+          "text": "Laut dem Huthi-Sender al-Masirah starben bei Luftangriffen nahe Sanaa mindestens 27 Menschen, vor allem Frauen und Kinder. Die von Saudi-Arabien geführte Koalition äusserte sich zunächst nicht zu den Vorwürfen, meldete aber den Abschuss eines Huthi-Marschflugkörpers. Die Angaben sind nicht unabhängig bestätigt.",
+          "ausfuehrlich": "Im Jemen sind nach Angaben der Huthi-Rebellen bei Luftangriffen östlich der Hauptstadt Sanaa mindestens 27 Menschen getötet und mehr als 36 verletzt worden. Der Huthi-Sender al-Masirah machte saudische Kampfflugzeuge verantwortlich und berichtete, in einem Dorf seien etwa sechs Häuser zerstört worden. Die BBC nannte unter Berufung auf die Huthi mindestens 25 Tote. Die Zahlen lassen sich nicht unabhängig überprüfen.\n\nEin Huthi-Militärsprecher behauptete zudem, saudische Kräfte hätten innerhalb von 24 Stunden 105 Luft- und Raketenangriffe auf Sanaa und sieben weitere Provinzen ausgeführt. Die von Saudi-Arabien geführte Koalition nahm zu den Vorwürfen zunächst nicht Stellung. Sie meldete jedoch, sie habe einen Marschflugkörper der Huthi abgefangen.\n\nDer Krieg im Jemen dauert seit über einem Jahrzehnt. Erst in der vergangenen Woche waren bei einem Angriff auf einen Markt in Taiz mindestens 30 Menschen ums Leben gekommen. Die neue Eskalation zwischen Saudi-Arabien und den Huthi gefährdet die ohnehin brüchigen Bemühungen um einen dauerhaften Waffenstillstand.\n\nDie humanitäre Lage im Land gehört zu den schlimmsten der Welt. Der Bundesrat hat kürzlich zusätzliche Nothilfe für Jemen und Äthiopien beschlossen. Hilfswerke warnen, dass neue Kämpfe die Versorgung mit Nahrung und Medikamenten weiter erschweren.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "AP",
-            "url": "https://apnews.com/article/yemen-airstrikes-market-houthis-bcc2409ada0398125173d84261bd1fff"
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html"
           },
           "thema": "Jemen",
           "stichworte": [
             "Jemen",
             "Huthi",
             "Saudi-Arabien",
-            "Taiz"
+            "Luftangriffe"
           ],
           "weitere_quellen": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market"
-            },
-            {
-              "name": "Xinhua",
-              "url": "http://english.news.cn/20261107/24387bec0682458fa4ed6113700dca63/c.html"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/world?page=3"
             }
           ],
           "kontinent": "Naher Osten",
           "land": "Jemen",
-          "audio": "audio/2026-11-07/welt-jemen-taiz-43c415.mp3",
-          "dauer": 120
+          "audio": "audio/2026-11-09/welt-jemen-luftangriffe-ea49f8.mp3",
+          "dauer": 101
         },
         {
-          "id": "welt-paraguay-pena-abgesetzt",
-          "titel": "Paraguay: Senat setzt Peña einstimmig ab – Ex-Präsident unter Hausarrest",
-          "text": "Paraguays Senat hat Präsident Santiago Peña mit allen 44 anwesenden Stimmen des Amtes enthoben, obwohl er bereits zurückgetreten war. Danach wurde er unter Hausarrest gestellt; am Samstag soll er vor der Staatsanwaltschaft erscheinen. Auslöser ist der Zusammenbruch der Digitalbank Ueno, der fast die Hälfte der Bevölkerung von ihren Ersparnissen abschneidet.",
-          "ausfuehrlich": "Die politische Krise in Paraguay hat sich am Freitag dramatisch zugespitzt. Der Senat stimmte nach einem Amtsenthebungsverfahren einstimmig für die Absetzung von Präsident Santiago Peña; alle 44 anwesenden Senatorinnen und Senatoren votierten dafür. Peña hatte zwar bereits am Vortag seinen Rücktritt erklärt, das Parlament führte das Verfahren aber trotzdem weiter, nachdem das Unterhaus die Anklage zuvor mit 78 zu 0 Stimmen gebilligt hatte. Laut AP wurde Peña anschliessend unter Hausarrest gestellt. Er muss in einem seiner Häuser in Asunción bleiben, bis er am Samstagmorgen vor der Staatsanwaltschaft erscheint. Die Vorwürfe lauten auf Untreue, Einflussnahme und Missbrauch des Amtes zum persönlichen Vorteil.\n\nAuslöser ist der Kollaps der Ueno Bank, einer der am schnellsten gewachsenen Digitalbanken des Landes. Die Zentralbank übernahm sie Anfang Woche wegen Verstössen gegen die Mindestsolvenz. Laut Al Jazeera hielt Ueno rund 850 Millionen Dollar öffentlicher Gelder. Nach AP-Angaben sind fast die Hälfte der rund sechs Millionen Einwohner von ihren Ersparnissen abgeschnitten. Peña werden Interessenkonflikte, Einflussnahme auf die Aufsicht und der Missbrauch von Pensionsgeldern vorgeworfen; er bestreitet Fehlverhalten, soweit bekannt.\n\nIn Asunción kam es in den letzten Tagen zu Protesten vor Polizei und Bank. Paraguay galt lange als eine der stabileren Volkswirtschaften Südamerikas; der Fall erschüttert dieses Bild.\n\nWie es weitergeht, ist noch offen: Die Verfassung sieht eine Nachfolge durch den Vizepräsidenten vor; die Berichte, die uns vorliegen, äussern sich dazu nicht im Detail. Entscheidend für die Bevölkerung wird sein, ob und wann die Kundinnen und Kunden wieder an ihr Geld kommen.",
-          "datum": "2026-11-06",
+          "id": "welt-suedafrika-anc",
+          "titel": "Südafrika: ANC erleidet schlechtestes Wahlergebnis seiner Geschichte",
+          "text": "Bei den Kommunalwahlen ist der ANC auf rund 31 Prozent gefallen, so tief wie nie seit dem Ende der Apartheid. Die Demokratische Allianz kommt auf knapp 25 Prozent, Jacob Zumas MK-Partei auf rund 9,6 Prozent. In vielen Gemeinden stehen schwierige Koalitionsverhandlungen an.",
+          "ausfuehrlich": "Die Wahlkommission Südafrikas hat die offiziellen Ergebnisse der Kommunalwahlen 2026 verkündet. Der African National Congress (ANC), die Partei Nelson Mandelas, kam landesweit auf 30,89 Prozent – das schlechteste Ergebnis seit den ersten freien Wahlen 1994. Die Demokratische Allianz (DA) erreichte 24,60 Prozent, die MK-Partei des früheren Präsidenten Jacob Zuma 9,61 Prozent. Die Stimmbeteiligung lag bei rund 52 Prozent.\n\nDer ANC verliert seit Jahren an Rückhalt. Laut AP sind viele Wählerinnen und Wähler enttäuscht über schlechte Grundversorgung mit Wasser und Strom, Korruption und hohe Arbeitslosigkeit, vor allem in grossen Städten wie Johannesburg. Bereits bei den nationalen Wahlen 2024 hatte der ANC seine absolute Mehrheit verloren und musste eine Koalition mit der DA eingehen.\n\nIn vielen Gemeinden hat nun keine Partei eine Mehrheit. Es folgen Koalitionsverhandlungen, die in Südafrika oft langwierig sind und in der Vergangenheit zu instabilen Stadtregierungen geführt haben. Für die Bevölkerung ist das wichtig, weil die Gemeinden für Wasser, Strom, Abfall und Strassen zuständig sind.\n\nDas Ergebnis gilt als Signal für die nationalen Wahlen 2029. Kommentatoren sehen darin einen weiteren Schritt weg von der Dominanz einer einzigen Partei hin zu einer zersplitterten politischen Landschaft. Ob das der Demokratie guttut oder die Regierungsarbeit lähmt, ist umstritten.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "AP / Los Angeles Times",
-            "url": "https://www.latimes.com/world-nation/story/2026-11-06/paraguays-pena-loses-top-aides-as-impeachment-trial-resumes-over-failed-bank"
+            "name": "AP",
+            "url": "https://apnews.com/article/elections-south-africa-anc-services-johannesburg-35f673cfe16bee26a94f9810d221771f"
+          },
+          "thema": "Südafrika",
+          "stichworte": [
+            "Südafrika",
+            "ANC",
+            "Kommunalwahlen",
+            "DA"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "Südafrikanische Regierung",
+              "url": "https://www.gov.za/news/speeches/chairperson-mosotho-moepya-official-declaration-2026-local-government-elections"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwrkygrxp11mo"
+            }
+          ],
+          "kontinent": "Afrika",
+          "land": "Südafrika",
+          "audio": "audio/2026-11-09/welt-suedafrika-anc-bb92d4.mp3",
+          "dauer": 115
+        },
+        {
+          "id": "welt-somalia-gericht",
+          "titel": "Somalia: Oberstes Gericht erklärt Amtszeitverlängerung des Präsidenten für unrechtmässig",
+          "text": "Somalias Oberstes Gericht hat entschieden, dass die Amtszeit von Präsident Hassan Sheikh Mohamud bereits im Mai abgelaufen ist. Es ordnet Wahlen innerhalb von 90 Tagen an und beschränkt die Regierung auf laufende Geschäfte. Der Machtkampf im Land verschärft sich.",
+          "ausfuehrlich": "Das Oberste Gericht Somalias hat die Verlängerung der Amtszeit von Präsident Hassan Sheikh Mohamud für unrechtmässig erklärt. Laut AP und Jurist urteilten die Richter, dass die Verfassungsänderung, mit der die Amtszeiten von vier auf fünf Jahre verlängert wurden, nicht für bereits amtierende Amtsträger gelte. Damit sei Mohamuds Mandat am 15. Mai 2026 abgelaufen.\n\nDas Gericht ordnete Wahlen innerhalb von 90 Tagen an. Bis dahin dürfe die Regierung nur noch routinemässige Geschäfte als Übergangsregierung führen. Das Urteil betrifft auch die Verlängerung der Amtszeit des Parlaments.\n\nDer Streit über Wahlen und Amtszeiten belastet Somalia seit Jahren. Präsident und Bundesstaaten sind sich uneinig über das Wahlsystem, und frühere Verlängerungen führten bereits zu bewaffneten Auseinandersetzungen in Mogadischu. Gleichzeitig kämpft das Land gegen die islamistische Miliz al-Shabaab, die weite Teile des Südens kontrolliert.\n\nWie der Präsident auf das Urteil reagiert, ist entscheidend. Hält er sich nicht daran, droht eine Verfassungskrise mit möglicher Gewalt. Internationale Partner, die Somalias Regierung und Armee finanziell unterstützen, beobachten die Lage genau. Ob innerhalb von 90 Tagen tatsächlich gewählt werden kann, gilt angesichts der Sicherheitslage als unsicher.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "AP",
+            "url": "https://apnews.com/article/somalia-elections-security-political-judicial-constitutional-0beacddf6ba0ef748fc99be4b45e0051"
+          },
+          "thema": "Horn von Afrika",
+          "stichworte": [
+            "Somalia",
+            "Verfassung",
+            "Wahlen",
+            "Präsident"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "Jurist",
+              "url": "https://www.jurist.org/news/2026/11/somalia-supreme-court-rules-presidents-term-expired-orders-elections-within-90-days/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c977ppnezep6o"
+            }
+          ],
+          "kontinent": "Afrika",
+          "land": "Somalia",
+          "audio": "audio/2026-11-09/welt-somalia-gericht-c406e4.mp3",
+          "dauer": 101
+        },
+        {
+          "id": "welt-aegypten-zug",
+          "titel": "Ägypten: Zwei Züge kollidieren südlich von Kairo – sieben Tote",
+          "text": "In al-Ayyat in der Provinz Gizeh ist ein Zug auf einen stehenden Zug aufgefahren. Mindestens sieben Menschen starben, über 100 wurden verletzt. Die Behörden untersuchen Signaltechnik und mögliche Fahrlässigkeit.",
+          "ausfuehrlich": "Bei einem Zugunglück in Ägypten sind am Sonntag mindestens sieben Menschen ums Leben gekommen. In al-Ayyat in der Provinz Gizeh, südlich von Kairo, fuhr ein Zug auf der Strecke Gizeh–Fayoum auf das Ende eines stehenden Zuges der Linie Kairo–Assuan auf. Mehrere Wagen entgleisten. Unter den Toten ist laut ägyptischen Medien auch ein Zugbegleiter.\n\nDie Zahl der Verletzten wird unterschiedlich angegeben: Das Gesundheitsministerium nannte laut AFP 112 Verletzte, AP berichtete von mindestens 125. Die Verletzten wurden in Spitäler der Umgebung gebracht.\n\nDie Behörden haben eine Untersuchung eingeleitet. Geprüft werden das Signalsystem, die Betriebsabläufe und mögliche Fahrlässigkeit. Laut ägyptischen Medien wurde der Fahrtenschreiber sichergestellt.\n\nÄgyptens Eisenbahnnetz ist eines der ältesten in Afrika und gilt als überlastet und reparaturbedürftig. Immer wieder kommt es zu schweren Unfällen, auch mit Dutzenden Toten. Die Regierung investiert seit einigen Jahren Milliarden in neue Züge und moderne Signaltechnik, doch Kritiker bemängeln, die Modernisierung gehe zu langsam voran.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "AP",
+            "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
+          },
+          "thema": "Ägypten",
+          "stichworte": [
+            "Ägypten",
+            "Zugunglück",
+            "Eisenbahn"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "AFP",
+              "url": "https://www.afp.com/en/egypt-train-collision-kills-7-injures-112-health-ministry"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwvgr20mmmevo"
+            }
+          ],
+          "kontinent": "Afrika",
+          "land": "Ägypten",
+          "audio": "audio/2026-11-09/welt-aegypten-zug-f81a6b.mp3",
+          "dauer": 88
+        },
+        {
+          "id": "welt-indien-einsturz",
+          "titel": "Delhi: Sieben Tote bei Hauseinsturz in der Altstadt",
+          "text": "Im Quartier Chawri Bazar in Alt-Delhi ist ein Gebäude eingestürzt. Die Zahl der Toten ist auf sieben gestiegen, nachdem am dritten Tag ein weiteres Opfer geborgen wurde. Der Besitzer und drei Bauunternehmer wurden festgenommen.",
+          "ausfuehrlich": "In der indischen Hauptstadt Delhi ist die Zahl der Toten nach einem Hauseinsturz auf sieben gestiegen. Rettungskräfte bargen laut The Hindu am dritten Tag der Sucharbeiten die Leiche eines 66-jährigen Mannes aus den Trümmern. Das Gebäude stand im dicht bebauten Gebiet um Chawri Bazar und Hauz Qazi in Alt-Delhi. Die Suche nach möglichen weiteren Opfern lief weiter.\n\nDie Polizei hat laut India Today den Besitzer des Gebäudes und drei Bauunternehmer festgenommen. Was genau zum Einsturz geführt hat, wird untersucht; die genauen Umstände sind noch nicht abschliessend geklärt.\n\nAlt-Delhi ist eines der am dichtesten bebauten Gebiete Indiens. Viele Häuser sind Jahrzehnte alt, wurden mehrfach aufgestockt und teils ohne Bewilligung umgebaut. Gebäudeeinstürze kommen in indischen Städten immer wieder vor, besonders während des Monsuns, aber auch bei unsachgemässen Bauarbeiten.\n\nDer Fall verstärkt die Kritik an der lückenhaften Bauaufsicht in Indiens Grossstädten. Gleichzeitig kämpft Delhi derzeit mit sehr schlechter Luftqualität; die Behörden hatten bereits Notmassnahmen gegen den Smog ergriffen.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-chawri-bazar-building-collapse-death-toll-rescue-underway-november-8/article71680507.ece"
+          },
+          "thema": "Indien",
+          "stichworte": [
+            "Indien",
+            "Delhi",
+            "Gebäudeeinsturz"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/india/story/delhi-hauz-qazi-building-collapse-six-killed-owner-contractors-arrested-ptag-3034563-2026-11-08"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-building-collapse-toll-rises-to-7-rescue-operation-underway-101794109682817.html"
+            }
+          ],
+          "kontinent": "Asien",
+          "land": "Indien",
+          "audio": "audio/2026-11-09/welt-indien-einsturz-9f70ce.mp3",
+          "dauer": 83
+        },
+        {
+          "id": "welt-paraguay-pena",
+          "titel": "Paraguay: Abgesetzter Präsident Peña angeklagt und in Untersuchungshaft",
+          "text": "Die Staatsanwaltschaft hat den vom Senat abgesetzten Präsidenten Santiago Peña wegen Untreue und Amtsmissbrauch angeklagt. Es geht um den Zusammenbruch der Digitalbank Ueno, der Millionen Menschen getroffen hat. Ein Richter ordnete laut Reuters Untersuchungshaft in einer Militäreinrichtung an; Peña bestreitet die Vorwürfe.",
+          "ausfuehrlich": "In Paraguay hat sich die Lage um den abgesetzten Präsidenten Santiago Peña weiter zugespitzt. Die Staatsanwaltschaft erhob am Samstag Anklage wegen Untreue und Verwaltung zum persönlichen Vorteil. Hintergrund sind mutmassliche Unregelmässigkeiten im Zusammenhang mit dem Zusammenbruch der Ueno Bank. Laut Reuters ordnete ein Richter an, dass Peña bis zum Prozess in Untersuchungshaft bleibt, und zwar in einer Militäreinrichtung. Zudem sollen seine Vermögenswerte eingeschränkt werden. Peña weist die Vorwürfe zurück.\n\nDie Ueno Bank war eine stark gewachsene Digitalbank. Ihr Zusammenbruch hat laut Guardian Millionen Menschen getroffen, viele verloren Ersparnisse. Der Vorwurf lautet, dass öffentliche Gelder und politischer Einfluss im Spiel gewesen seien. Wie genau Peña mit der Bank verbunden war, ist Gegenstand der Ermittlungen.\n\nDer Senat hatte Peña in der vergangenen Woche einstimmig abgesetzt. Dass ein Präsident wegen eines Bankenskandals sein Amt verliert und kurz darauf in Haft kommt, ist auch für Südamerika aussergewöhnlich.\n\nFür Paraguay beginnt nun eine Phase politischer Unsicherheit. Die neue Führung muss das Vertrauen in das Finanzsystem wiederherstellen und klären, wie Geschädigte entschädigt werden können. Der Prozess gegen Peña dürfte lange dauern.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "AP",
+            "url": "https://apnews.com/article/paraguay-president-pena-ueno-bank-0a3cddd03f9fb36c870fa3117aeeb4ac"
           },
           "thema": "Lateinamerika",
           "stichworte": [
             "Paraguay",
             "Peña",
             "Ueno Bank",
-            "Amtsenthebung"
+            "Korruption"
           ],
           "weitere_quellen": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens"
+              "url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal"
             },
             {
-              "name": "Xinhua",
-              "url": "https://english.news.cn/20261107/5958636914804c9d89e94e669705cd36/c.html"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena"
             }
           ],
           "kontinent": "Südamerika",
           "land": "Paraguay",
-          "audio": "audio/2026-11-07/welt-paraguay-pena-abgesetzt-a4938c.mp3",
-          "dauer": 129
+          "audio": "audio/2026-11-09/welt-paraguay-pena-54c6ae.mp3",
+          "dauer": 99
         },
         {
-          "id": "welt-kenia-mackenzie",
-          "titel": "Kenia: Sektenführer Mackenzie zu 200 Jahren Haft verurteilt",
-          "text": "Der kenianische Prediger Paul Mackenzie ist wegen des Mordes an 191 Menschen zu 200 Jahren Gefängnis verurteilt worden, darunter 190 Kinder. Er hatte seine Anhänger im Shakahola-Wald dazu gebracht, sich zu Tode zu hungern. Es ist einer der schlimmsten Sektenfälle der jüngeren Geschichte.",
-          "ausfuehrlich": "Ein Gericht in Kenia hat den Sektenführer Paul Nthenge Mackenzie zu 200 Jahren Haft verurteilt. Er wurde des Mordes an 191 Menschen schuldig gesprochen, darunter 190 Kinder und ein Erwachsener. Laut BBC setzt sich die Strafe aus zwei Mal 100 Jahren zusammen: eine für Mord durch Aushungern und eine für direkte Tötung.\n\nMackenzie, ein selbsternannter Pastor, hatte seine Anhänger in den abgelegenen Shakahola-Wald im Küstenbezirk Kilifi gebracht und sie angewiesen, zu fasten, um vor einem angeblich bevorstehenden Weltuntergang «Jesus zu begegnen». Laut Berichten wurde das tödliche Fasten von Wächtern durchgesetzt; wer fliehen wollte, wurde daran gehindert. Insgesamt wurden ab 2023 über 400 Leichen aus Massengräbern geborgen. Nicht für alle Todesfälle konnte vor Gericht eine Verantwortung nachgewiesen werden.\n\nDer Fall hat Kenia tief erschüttert und eine Debatte über die Regulierung von Kirchen und religiösen Bewegungen ausgelöst, von denen es im Land Tausende gibt. Kritisiert wurde auch, dass Polizei und Behörden frühe Warnungen ignoriert hätten; Mackenzie war schon vor der Tragödie mehrfach mit den Behörden in Konflikt geraten.\n\nEinordnung: Das Urteil gilt als symbolisch wichtiger Abschluss eines der schlimmsten Kapitel der jüngeren kenianischen Geschichte. Ob Mackenzie Berufung einlegt, ist in den uns vorliegenden Berichten nicht klar. Für die Angehörigen bleibt die Frage, wie solche Gruppen künftig früher erkannt und gestoppt werden können.",
-          "datum": "2026-11-06",
+          "id": "welt-brasilien-bolsonaro",
+          "titel": "Brasilien prüft, ob ausländische Agenten Flávio Bolsonaro zur Ausreise verhalfen",
+          "text": "Brasiliens Polizei untersucht laut Washington Post, ob ein Netzwerk aus amerikanischen, argentinischen und israelischen Agenten dem unterlegenen Präsidentschaftskandidaten Flávio Bolsonaro bei der Ausreise in die USA geholfen hat. Bolsonaro bestreitet, geflohen zu sein. Gegen ihn laufen Ermittlungen am Obersten Gericht.",
+          "ausfuehrlich": "Nach seiner Niederlage in der Stichwahl gegen Präsident Lula ist Flávio Bolsonaro, Sohn des früheren Präsidenten Jair Bolsonaro, in die USA ausgereist. Brasilianische Behörden hatten zuvor angeordnet, seine Pässe einzuziehen. Nun untersucht die Polizei laut einem Bericht der Washington Post, ob ihm ein Netzwerk aus amerikanischen, argentinischen und israelischen Agenten bei der Ausreise geholfen hat. Die Zeitung beruft sich auf einen anonymen hohen Beamten; eine offizielle Bestätigung gibt es dafür bisher nicht.\n\nBolsonaro selbst bestreitet laut BBC, geflohen zu sein. Er landete in Miami. Gegen ihn laufen am Obersten Gericht Ermittlungen, unter anderem wegen mutmasslich irregulärer Finanzierung eines Films über seinen Vater und wegen möglicher Geldwäsche über ein Online-Wettgeschäft im Umfeld eines Freundes.\n\nDer Fall ist politisch heikel. Sollte sich bestätigen, dass ausländische Personen geholfen haben, könnte das die Beziehungen Brasiliens zu den USA, Argentinien und Israel belasten. Die Regierungen in Washington und Buenos Aires gelten als politisch nahe an der Familie Bolsonaro.\n\nBrasilien ist nach der Wahl tief gespalten. Die Familie Bolsonaro bleibt eine zentrale Kraft der Rechten, auch wenn ihr wichtigster Vertreter nun im Ausland ist. Ob Brasilien eine Auslieferung beantragt, ist offen.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "BBC",
-            "url": "https://www.bbc.com/news/articles/cm5yne5984l0o"
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/americas/brazil-probes-possible-us-argentine-israeli-involvement-in-bolsonaro-s-escape-washington-post-reports/4115586"
           },
-          "thema": "Kenia",
+          "thema": "Lateinamerika",
           "stichworte": [
-            "Kenia",
-            "Shakahola",
-            "Sekte",
-            "Prozess"
+            "Brasilien",
+            "Bolsonaro",
+            "Ausreise",
+            "Justiz"
           ],
           "weitere_quellen": [
             {
               "name": "AP",
-              "url": "https://apnews.com/article/kenya-starvation-cult-mackenzie-shakahola-b0ff199504ff668f44d0abefe1c47e44"
+              "url": "https://apnews.com/article/brazil-elections-things-to-know-a50cc25f2611a287fa34085f4c53b0c9"
             },
             {
-              "name": "Daily Nation",
-              "url": "https://nation.africa/kenya/counties/kilifi/shakahola-massacre-mackenzie-jailed-for-200-years-5660990"
-            }
-          ],
-          "kontinent": "Afrika",
-          "land": "Kenia",
-          "audio": "audio/2026-11-07/welt-kenia-mackenzie-744dc6.mp3",
-          "dauer": 111
-        },
-        {
-          "id": "welt-nigeria-waffenruhe",
-          "titel": "Nigeria schliesst Waffenruhe mit Boko Haram und ISWAP aus",
-          "text": "Nigerias Armee hat eine Waffenruhe mit den Islamistengruppen Boko Haram und ISWAP ausgeschlossen und will ihre Offensive fortsetzen. Die Angriffe auf Militärstellungen im Nordosten haben in den letzten Wochen zugenommen. Abuja spricht zudem mit den Sahel-Staaten über Sicherheitszusammenarbeit.",
-          "ausfuehrlich": "Nigerias Militär hat jede Waffenruhe mit den islamistischen Gruppen Boko Haram und Islamischer Staat Westafrika-Provinz (ISWAP) ausgeschlossen. «Es gibt so etwas wie eine Waffenruhe nicht», sagte Militärsprecher Generalmajor Samaila Uba laut Reuters an einem Briefing in Abuja. Angesichts der erzielten Erfolge sei klar, dass man nicht nachlasse. Als Belege nannte er getötete Kämpfer, Festnahmen und befreite Geiseln; konkrete Zahlen dazu lagen in der Meldung nicht vor.\n\nHintergrund ist eine deutliche Zunahme von Angriffen auf Militärstellungen im Nordosten des Landes in den letzten Wochen. Der Aufstand dauert inzwischen 17 Jahre und hat Zehntausende Tote gefordert sowie Millionen Menschen vertrieben. Trotz jahrelanger Militäroperationen ist es nicht gelungen, die Gruppen entscheidend zu schwächen; ISWAP gilt inzwischen als besonders schlagkräftig.\n\nBemerkenswert ist der diplomatische Teil der Aussage: Nigeria führe Gespräche mit den Sahel-Nachbarstaaten, die die westafrikanische Staatengemeinschaft Ecowas verlassen haben, über Sicherheits- und diplomatische Zusammenarbeit. Gemeint sind die Militärregierungen von Mali, Burkina Faso und Niger, die sich der Allianz der Sahel-Staaten angeschlossen haben. Die Beziehungen waren seit dem Bruch mit der Ecowas angespannt.\n\nEinordnung: Für die Bevölkerung im Nordosten bedeutet die harte Linie vorerst keine Entlastung. Eine engere Zusammenarbeit mit den Sahel-Staaten könnte aber wichtig sein, weil die Dschihadistengruppen über Landesgrenzen hinweg operieren. Zusätzlich hat die Weltbank am Freitag 500 Millionen Dollar für Klimaresilienz im trockenen Norden Nigerias bewilligt, einer Region, in der Dürre und Armut auch den Konflikt nähren.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "Reuters / TimesLIVE",
-            "url": "https://www.timeslive.co.za/news/africa/2026-11-06-nigeria-rules-out-ceasefire-with-islamists-vows-sustained-military-offensive/"
-          },
-          "thema": "Nigeria",
-          "stichworte": [
-            "Nigeria",
-            "Boko Haram",
-            "ISWAP",
-            "Sahel"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "CNBC Africa / Reuters",
-              "url": "https://www.cnbcafrica.com/2026/world-bank-approves-500-million-for-nigeria-climate-resilience-project"
-            }
-          ],
-          "kontinent": "Afrika",
-          "land": "Nigeria",
-          "audio": "audio/2026-11-07/welt-nigeria-waffenruhe-ea6512.mp3",
-          "dauer": 123
-        },
-        {
-          "id": "welt-belgien-koenig",
-          "titel": "Belgien: König lehnt Rücktritt von Premier De Wever ab",
-          "text": "König Philippe hat das Rücktrittsgesuch von Premierminister Bart De Wever abgelehnt und ihn aufgefordert, die Budgetverhandlungen sofort wieder aufzunehmen. Bis zum 16. November soll De Wever Bericht erstatten. Die Fünferkoalition ringt um Einsparungen von rund 10 Milliarden Euro bis 2029.",
-          "ausfuehrlich": "Belgiens König Philippe hat am Freitag das Rücktrittsgesuch von Premierminister Bart De Wever abgelehnt. Nach Gesprächen mit den Chefs der fünf Regierungsparteien forderte er ihn auf, die Budgetverhandlungen unverzüglich wieder aufzunehmen, wie der Königspalast mitteilte. Laut AP und Politico soll De Wever dem König am 16. November Bericht erstatten. Alle fünf Parteichefs hätten ihren Willen bekräftigt, sich auf einen soliden Haushaltsplan für die nächsten drei Jahre zu einigen.\n\nDe Wever, Chef der flämisch-nationalistischen N-VA, hatte seinen Rücktritt angeboten, nachdem die Koalition sich nicht auf ein Budget einigen konnte. Laut AP sucht die Regierung nach einer Haushaltskorrektur von rund 10 Milliarden Euro bis 2029. Die Parteien sind gespalten zwischen Ausgabenkürzungen, die vor allem rechte und liberale Partner wollen, und Steuererhöhungen, die von linken und zentristischen Partnern gefordert werden. Belgien steht wegen seines hohen Defizits unter Druck der EU.\n\nDass ein belgischer König einen Rücktritt zunächst nicht annimmt, ist kein Novum, sondern ein in Belgien öfter genutztes Mittel, um Zeit für Lösungen zu gewinnen. Die Regierung bleibt damit voll im Amt.\n\nEinordnung: Die Koalition ist erst seit Anfang 2025 im Amt. Gelingt bis Mitte November keine Einigung, drohen ein erneuter Rücktritt und möglicherweise vorgezogene Wahlen, in einem Land, das schon mehrfach sehr lange Regierungsbildungen erlebt hat.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "AP",
-            "url": "https://apnews.com/article/belgium-budget-wever-king-resignation-6ef749a5875cb78e486480d28506a7a3"
-          },
-          "thema": "Belgien",
-          "stichworte": [
-            "Belgien",
-            "De Wever",
-            "Budget",
-            "Regierungskrise"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
-            }
-          ],
-          "kontinent": "Europa",
-          "land": "Belgien",
-          "audio": "audio/2026-11-07/welt-belgien-koenig-4fe516.mp3",
-          "dauer": 107
-        },
-        {
-          "id": "welt-bombendrohungen-tv",
-          "titel": "Bombendrohungen gegen Fernsehsender in mehreren europäischen Ländern",
-          "text": "Nach den Drohungen gegen Flugzeuge in dieser Woche haben am Freitag mehrere europäische TV-Sender Bombendrohungen erhalten, darunter RTÉ in Irland, Sky in Grossbritannien und Nova TV in Bulgarien. Gebäude wurden evakuiert, Sprengstoff wurde nirgends gefunden. Wer dahintersteckt, ist unklar.",
-          "ausfuehrlich": "Am Freitag sind bei Fernsehsendern in mehreren europäischen Ländern Bombendrohungen eingegangen, die laut Reuters mit der Warnung «the clock is ticking» (die Uhr tickt) versehen waren. Betroffen waren unter anderem der irische Sender RTÉ, Sky in Grossbritannien und der bulgarische Privatsender Nova TV, wie die Unternehmen selbst mitteilten. An einigen Standorten wurde evakuiert. Bei RTÉ wurde das Programm durch Musik und eine aufgezeichnete Mitteilung ersetzt, teils bis zu drei Stunden lang. An keinem Ort wurde eine Bombe gefunden.\n\nDie Drohungen folgen auf eine Serie von Bombendrohungen gegen Passagierflüge in Europa: Am Donnerstag waren laut Reuters mindestens 27 Flüge betroffen, die zweite Welle innerhalb weniger Tage, mit Notlandungen und Begleitung durch Kampfjets. Ob die Drohungen gegen Sender und Flüge zusammenhängen, ist nicht bekannt. Bisher hat sich niemand dazu bekannt.\n\nIn Europa werden solche Wellen zunehmend im Zusammenhang mit sogenannten hybriden Angriffen diskutiert, also Störaktionen unterhalb der Schwelle eines militärischen Angriffs, mit denen Verunsicherung gestiftet werden soll. Moskau weist entsprechende Vorwürfe regelmässig zurück. Konkrete Belege für eine staatliche Urheberschaft liegen in diesem Fall nicht öffentlich vor.\n\nEinordnung: Auch wenn es sich bisher um Falschalarme handelt, binden solche Drohungen Polizei und Sicherheitskräfte, kosten Geld und können Medien zeitweise lahmlegen. Ermittlungsbehörden in mehreren Ländern prüfen die Fälle.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "Reuters / Devdiscourse",
-            "url": "https://www.devdiscourse.com/article/international/4003035-reuters-world-news-summary"
-          },
-          "thema": "Bombendrohungen Europa",
-          "stichworte": [
-            "Bombendrohung",
-            "Medien",
-            "Hybride Angriffe",
-            "Sicherheit"
-          ],
-          "kontinent": "Europa",
-          "land": "mehrere",
-          "audio": "audio/2026-11-07/welt-bombendrohungen-tv-220ac2.mp3",
-          "dauer": 110
-        },
-        {
-          "id": "welt-amsterdam-microsoft",
-          "titel": "Amsterdam: Proteste gegen Microsoft-Rechenzentrum eskalieren",
-          "text": "Hunderte Demonstrierende sind in Amsterdam auf die Baustelle eines geplanten Microsoft-Rechenzentrums eingedrungen und haben sich mit der Polizei Auseinandersetzungen geliefert. Die Polizei setzte Tränengas und Schlagstöcke ein, viele wurden festgenommen. Der Widerstand gegen energie- und wasserhungrige Rechenzentren wächst in Europa.",
-          "ausfuehrlich": "In Amsterdam haben am Freitag Hunderte Menschen gegen den Bau eines neuen Microsoft-Rechenzentrums protestiert und die Baustelle gestürmt. Laut Berichten setzte die Polizei Tränengas und Schlagstöcke ein, um jene zu vertreiben, die das Gelände nicht verlassen wollten. Viele Demonstrierende wurden wegen Hausfriedensbruchs festgenommen und mit Bussen weggebracht. Nach Behördenangaben wurden mehrere Polizisten leicht verletzt. Genaue Zahlen zu Festnahmen lagen zunächst nicht vor.\n\nOrganisiert wurde die Aktion von der Gruppe «Push Back». Ihr Sprecher Nathan Timmer sagte der britischen Zeitung Morning Star, man wolle nicht, dass das Zentrum gebaut werde; es werde nur für «KI-Schrott», KI-Kriegsführung und Überwachung genutzt. Das ist die Position der Aktivisten.\n\nDer Protest ist Teil einer breiteren Bewegung gegen grosse Technologie-Infrastruktur, die viel Strom und Wasser verbraucht. Die Niederlande und speziell die Region Amsterdam kämpfen seit Jahren mit einem überlasteten Stromnetz; die Stadt hatte den Bau neuer Rechenzentren schon früher eingeschränkt. Auch in den USA wächst nach den Zwischenwahlen der politische Widerstand gegen den Ausbau von Rechenzentren, was diese Woche zu starken Kursverlusten bei KI- und Chipaktien beitrug.\n\nEinordnung: Der Konflikt zeigt, wie der KI-Boom in Europa zunehmend auf lokale Grenzen stösst: Netzkapazität, Wasser, Flächen und Akzeptanz. Für Tech-Konzerne wird es schwieriger, neue Standorte schnell zu erschliessen.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "Morning Star",
-            "url": "https://www.morningstaronline.co.uk/article/world-brief-november-7-2026"
-          },
-          "thema": "Rechenzentren",
-          "stichworte": [
-            "Niederlande",
-            "Microsoft",
-            "Protest",
-            "Rechenzentren"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "The Neuron (KI-Überblick)",
-              "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
-            }
-          ],
-          "kontinent": "Europa",
-          "land": "Niederlande",
-          "audio": "audio/2026-11-07/welt-amsterdam-microsoft-d1ec5c.mp3",
-          "dauer": 109
-        },
-        {
-          "id": "welt-china-indien-tbm",
-          "titel": "China beschränkt Export von Tunnelbohrmaschinen – Indien will eigene bauen",
-          "text": "Ab dem 18. November braucht der Export chinesischer Tunnelbohrmaschinen in Länder mit Grenzstreitigkeiten eine Lizenz, was vor allem Indien trifft. Analysten sehen darin einen Versuch, Indiens Infrastrukturausbau im Himalaya zu bremsen. Neu-Delhi reagiert trotzig und setzt auf Eigenproduktion.",
-          "ausfuehrlich": "China wird ab dem 18. November den Export von Tunnelbohrmaschinen und weiterer fortschrittlicher Baumaschinen einschränken. Laut der Straits Times müssen Ausfuhren in «sensible Länder», mit denen China territoriale Streitigkeiten hat, künftig vom chinesischen Handelsministerium bewilligt werden. Auf der Kontrollliste stehen auch wichtige Bauteile sowie Raupenbagger und Spritzbetonsysteme für grosse Höhen. Die Massnahme war schon am 19. Oktober angekündigt worden.\n\nBetroffen ist vor allem Indien. Viele Tunnelbohrmaschinen auf indischen Baustellen für Bahn-, Metro- und Strassentunnel stammen aus China, dem weltgrössten Hersteller. Analysten vermuten laut Straits Times, dass Peking damit den strategischen Infrastrukturausbau entlang der umstrittenen Himalaya-Grenze bremsen will. Die beiden Länder führten 1962 Krieg gegeneinander, 2020 kam es zu einem tödlichen Grenzzusammenstoss.\n\nIndiens Handelsminister Piyush Goyal reagierte deutlich: Indien werde «nicht in die Knie gehen». Wenn China keine Maschinen liefere, werde man sie in Indien entwickeln. Er verwies auf frühere chinesische Exportstopps bei seltenen Erden, auf die Indien mit eigener Innovation reagiert habe. Gleichzeitig betonte er, Indien suche keinen Streit und die Beziehungen seien weiterhin gut.\n\nEinordnung: Experten erwarten kurzfristig Verzögerungen bei einigen Projekten, langfristig könnte der Schritt Indiens eigene Industrie stärken. Der Fall zeigt, wie China Exportkontrollen zunehmend als geopolitisches Druckmittel einsetzt, nach seltenen Erden nun auch bei Industriegütern.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "The Straits Times",
-            "url": "https://www.straitstimes.com/asia/south-asia/boring-war-china-cuts-tbm-exports-india-digs-in"
-          },
-          "thema": "China & Grossmächte",
-          "stichworte": [
-            "China",
-            "Indien",
-            "Exportkontrollen",
-            "Infrastruktur"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Indian Defence News",
-              "url": "https://www.indiandefensenews.in/2026/11/india-wont-bow-to-china-on-tunnel.html"
-            }
-          ],
-          "kontinent": "Asien",
-          "land": "Indien",
-          "audio": "audio/2026-11-07/welt-china-indien-tbm-4eee1e.mp3",
-          "dauer": 118
-        },
-        {
-          "id": "welt-delhi-smog",
-          "titel": "Delhi: Notmassnahmen gegen Smog – Luft kurz vor «schwer»",
-          "text": "In Delhi und Umgebung gilt seit Freitag Stufe drei des Notfallplans gegen Luftverschmutzung. Der Luftqualitätsindex stieg auf 391, an mehr als der Hälfte der Messstationen war die Luft «schwer» belastet. Vor dem Diwali-Fest am Sonntag droht eine weitere Verschlechterung.",
-          "ausfuehrlich": "Die indische Hauptstadt Delhi kämpft erneut mit gefährlichem Smog. Die Kommission für Luftqualitätsmanagement (CAQM) hat am Freitag Stufe drei des Graded Response Action Plan (GRAP) für Delhi und die Hauptstadtregion ausgerufen. Laut The Hindu lag die Luftqualität knapp unter der Kategorie «schwer». Der Indian Express meldete am Morgen einen Luftqualitätsindex von 391; an 30 von 59 Messstationen war die Luft «schwer» belastet, in Rohini wurden 475 gemessen. Stufe drei bringt üblicherweise Einschränkungen für Bauarbeiten und bestimmte Fahrzeuge.\n\nDie Ursachen sind seit Jahren bekannt: Abgase, Industrie, Staub und vor allem das Abbrennen von Ernteresten auf den Feldern in den Nachbarstaaten Punjab und Haryana. Hinzu kommt im Spätherbst eine Wetterlage mit wenig Wind und kühleren Nächten, die Schadstoffe in Bodennähe hält. Das Frühwarnsystem rechnete laut Indian Express mit dem ersten «schweren» Tag der Saison.\n\nBesonders kritisch ist das Diwali-Fest am Sonntag. Die Behörden haben nur zertifiziertes «grünes» Feuerwerk und nur in engen Zeitfenstern am 7. und 8. November erlaubt. Erfahrungsgemäss wird diese Vorgabe oft missachtet; Fachleute warnen, dass einige Messpunkte 450 überschreiten könnten.\n\nEinordnung: Delhi gehört zu den Städten mit der schlechtesten Luft der Welt. Die jährlich wiederkehrende Krise belastet Millionen Menschen gesundheitlich, und trotz Notfallplänen ist eine dauerhafte Lösung nicht in Sicht.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com/news/top-news-of-the-day-november-6-2026/article71674679.ece"
-          },
-          "thema": "Luftverschmutzung",
-          "stichworte": [
-            "Indien",
-            "Delhi",
-            "Smog",
-            "Diwali"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "The Indian Express",
-              "url": "https://indianexpress.com/article/india/breaking-india-news-live-updates-06-november-2026-delhi-aqi-pollution-tarun-tejpal-supreme-court-verdict-accident-fire-building-collapse-10952839/"
-            }
-          ],
-          "kontinent": "Asien",
-          "land": "Indien",
-          "audio": "audio/2026-11-07/welt-delhi-smog-495e9a.mp3",
-          "dauer": 112
-        },
-        {
-          "id": "welt-papst-suedamerika",
-          "titel": "Papst Leo XIV. beginnt grosse Südamerika-Reise in Uruguay",
-          "text": "Papst Leo XIV. ist zu einer zwölftägigen Reise nach Uruguay, Argentinien und Peru aufgebrochen, seiner längsten bisher und der ersten grossen Auslandsreise nach einer Lungenkrebs-Operation. In Montevideo rief er die Länder der Region zu mehr Zusammenarbeit auf. Am Sonntag reist er weiter nach Buenos Aires.",
-          "ausfuehrlich": "Papst Leo XIV. ist am Freitag in Montevideo eingetroffen und hat damit eine zwölftägige Reise durch Südamerika begonnen. Sie führt ihn nach Uruguay, Argentinien und Peru und endet laut EFE am 16. November. Nach Angaben von NPR wird der Papst zwölf Flüge absolvieren, 36 Reden halten und zehn Städte besuchen, darunter das auf über 3300 Metern gelegene Cusco in Peru.\n\nZum Auftakt rief Leo laut Reuters die südamerikanischen Länder dazu auf, regionale Probleme gemeinsam anzugehen. Die Region ist politisch stark gespalten, wie gerade die Krise in Paraguay zeigt. In Montevideo traf er Präsident Yamandú Orsi, erhielt den Schlüssel der Stadt und besuchte die Kathedrale.\n\nDie Reise hat eine besondere persönliche Note. Leo, der erste Papst aus den USA, hat lange als Missionar und Bischof in Peru gewirkt und besitzt auch die peruanische Staatsbürgerschaft. Mit dem Besuch in Argentinien erfüllt er zudem einen Wunsch seines Vorgängers Franziskus, der in seine Heimat zurückkehren wollte, es aber nie tat.\n\nGesundheitlich steht die Reise unter Beobachtung: Im Oktober wurde Leo laut NPR der untere Lappen der rechten Lunge entfernt. Der Vatikan erklärt, er habe die zweiwöchige Erholung abgeschlossen und brauche keine weitere Behandlung. Die Reise gilt als eine der anspruchsvollsten eines Papstes seit Jahrzehnten.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "NPR",
-            "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery"
-          },
-          "thema": "Lateinamerika",
-          "stichworte": [
-            "Papst Leo XIV.",
-            "Uruguay",
-            "Argentinien",
-            "Peru"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "swissinfo / EFE",
-              "url": "https://www.swissinfo.ch/spa/viernes%2c-6-de-noviembre-de-2026-%2808%2e00-gmt%29/92337558"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6kglwe4lxwzo"
             }
           ],
           "kontinent": "Südamerika",
-          "land": "Uruguay",
-          "audio": "audio/2026-11-07/welt-papst-suedamerika-8411bd.mp3",
+          "land": "Brasilien",
+          "audio": "audio/2026-11-09/welt-brasilien-bolsonaro-639f4f.mp3",
           "dauer": 104
         },
         {
-          "id": "welt-neuseeland-wahl-heute",
-          "titel": "Neuseeland wählt – Rennen gilt als völlig offen",
-          "text": "In Neuseeland läuft heute die Parlamentswahl, die als Kopf-an-Kopf-Rennen gilt. Im Zentrum stehen die Lebenshaltungskosten. Die Wahllokale schliessen um 19 Uhr Ortszeit, also um 7 Uhr Schweizer Zeit; erste Ergebnisse folgen danach.",
-          "ausfuehrlich": "Die Neuseeländerinnen und Neuseeländer wählen am heutigen Samstag ein neues Parlament. Australische und neuseeländische Medien wie SBS beschreiben die Wahl als äusserst knapp. Wichtigstes Thema im Wahlkampf waren die hohen Lebenshaltungskosten, also Mieten, Lebensmittel- und Energiepreise.\n\nZur Wahl stehen im Wesentlichen zwei Lager: die seit 2023 regierende Mitte-rechts-Koalition unter Premierminister Christopher Luxon (National Party) mit ACT und NZ First, und das Mitte-links-Lager um die Labour Party mit Grünen und Te Pāti Māori. In einer der letzten Umfragen lag Labour leicht vorne, der Abstand war aber so gering, dass der Ausgang offen ist. Neuseeland wählt nach einem gemischten Verhältniswahlrecht, kleinere Parteien sind deshalb oft Königsmacher.\n\nDie Wahllokale schliessen um 19 Uhr Ortszeit, das entspricht 7 Uhr Schweizer Zeit. Erste vorläufige Resultate werden kurz danach erwartet; ein klares Bild könnte im Lauf des Vormittags entstehen. Wegen der Briefwahl- und Sonderstimmen kann sich das Endergebnis in knappen Fällen noch Tage später verschieben.\n\nHinweis: Diese Meldung wurde vor Schliessung der Wahllokale geschrieben und enthält deshalb noch keine Resultate. Die Angaben zu den Umfragen stammen aus der Berichterstattung der letzten Tage und sind keine Prognose.",
-          "datum": "2026-11-07",
+          "id": "welt-usa-trump-kongress",
+          "titel": "USA: Trump will nach Wahlniederlage härter auftreten – Shutdown-Frist im Dezember",
+          "text": "Nach dem Verlust beider Kongresskammern spricht Trump von einem «riesigen Rückschritt» und dürfte laut Guardian noch weiter nach rechts rücken, vor allem bei der Migration. Die Regierung ist nur bis 11. Dezember finanziert. Die Demokraten übernehmen den Kongress am 3. Januar.",
+          "ausfuehrlich": "Nach den Zwischenwahlen, bei denen die Republikaner Repräsentantenhaus und Senat verloren haben, deutet in Washington wenig auf Kompromisse hin. Präsident Donald Trump sprach laut Guardian von einem «riesigen Schritt zurück» und dürfte seinen Kurs eher verschärfen, besonders in der Migrationspolitik. Dazu passt die Ernennung von Stephen Miller, einem Hardliner, zum neuen Stabschef des Weissen Hauses, die ab heute gilt.\n\nDie nächste Bewährungsprobe kommt schnell: Die Bundesregierung ist nur bis zum 11. Dezember finanziert. Einigt sich der Kongress bis dahin nicht auf ein weiteres Übergangsgesetz oder einen Haushalt, droht ab dem 12. Dezember ein Shutdown, also eine teilweise Schliessung von Bundesbehörden. Bis Ende Jahr haben noch die Republikaner die Mehrheit.\n\nAm 3. Januar übernehmen die Demokraten beide Kammern. Sie können dann Gesetze blockieren, Untersuchungen einleiten und das Budget mitbestimmen. Trump wiederum kann mit seinem Veto Gesetze der Demokraten stoppen. Beobachter erwarten deshalb zwei Jahre mit viel Konfrontation.\n\nFür die Welt ist das relevant, weil Fragen wie Iran-Politik, Ukraine-Hilfe und Handelszölle stark vom Verhältnis zwischen Weissem Haus und Kongress abhängen. Auch Iran hat die Wahlniederlage bereits kommentiert und Washington vor einer Wiederaufnahme des Krieges gewarnt.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "SBS News",
-            "url": "https://www.sbs.com.au/news/podcast-episode/residents-vote-in-new-zealands-knife-edge-election-morning-news-bulletin-7-november-2026/39nmonf2b"
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
+          },
+          "thema": "US-Wahlen 2026",
+          "stichworte": [
+            "USA",
+            "Trump",
+            "Kongress",
+            "Shutdown"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff"
+            },
+            {
+              "name": "Puck",
+              "url": "https://puck.news/washington/2026/11/a-shutdown-standoff-and-slotkins-leadership-tease"
+            }
+          ],
+          "kontinent": "Nordamerika",
+          "land": "USA",
+          "audio": "audio/2026-11-09/welt-usa-trump-kongress-3fa0d5.mp3",
+          "dauer": 100
+        },
+        {
+          "id": "welt-neuseeland-wahl",
+          "titel": "Neuseeland: Bisherige Regierung behält laut vorläufigem Resultat knappe Mehrheit",
+          "text": "Nach der Parlamentswahl kommt die bisherige Koalition aus National, ACT und NZ First laut vorläufigen Zahlen auf 67 von 120 Sitzen, einen mehr als nötig. Labour holte knapp mehr Parteistimmen als National, hat aber weniger Sitze. Das amtliche Endergebnis folgt am 27. November, noch werden Sonderstimmen ausgezählt.",
+          "ausfuehrlich": "Die Parlamentswahl in Neuseeland ist äusserst knapp ausgegangen. Laut dem vorläufigen Ergebnis der Wahlbehörde gewinnt die National Party 42 Sitze, Labour 36. Zusammen mit ihren Koalitionspartnern ACT (13 Sitze) und NZ First (12) käme die bisherige Mitte-Rechts-Regierung auf 67 Sitze – einen mehr als die 66, die für eine Mehrheit nötig sind. Das linke Lager aus Labour, Grünen (16) und Te Pāti Māori (5) käme auf 57 Sitze.\n\nBemerkenswert: Bei den Parteistimmen lag Labour mit 29,4 Prozent knapp vor National mit 29,2 Prozent. Dass National trotzdem mehr Sitze erhält, hängt mit den direkt gewonnenen Wahlkreisen zusammen, die im neuseeländischen Wahlsystem zu Überhangmandaten führen können.\n\nEntschieden ist die Wahl noch nicht. Es werden noch Sonderstimmen ausgezählt, darunter Stimmen aus dem Ausland. Reuters schreibt, das Land müsse wohl Wochen auf eine neue Regierung warten. Das amtliche Endergebnis wird für den 27. November erwartet. Schon ein einziger verschobener Sitz könnte die Mehrheit kippen.\n\nFür die bisherige Regierung wäre ein Sieg ein Erfolg nach einer Amtszeit mit wirtschaftlichen Schwierigkeiten. Für Labour ist das Resultat ein Achtungserfolg, weil die Partei bei den Stimmen vorne liegt.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/3fec1b0a85a0/world/asia-pacific/new-zealand-vote-leaves-national-labour-nearly-deadlocked-2026-11-07/"
           },
           "thema": "Neuseeland",
           "stichworte": [
             "Neuseeland",
-            "Wahl",
-            "Luxon",
+            "Wahlen",
+            "National",
             "Labour"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "Wahlbehörde Neuseeland",
+              "url": "https://www.electionresults.govt.nz/"
+            },
+            {
+              "name": "RNZ",
+              "url": "https://www.rnz.co.nz/news/election-2026-results"
+            }
           ],
           "kontinent": "Ozeanien",
           "land": "Neuseeland",
-          "audio": "audio/2026-11-07/welt-neuseeland-wahl-heute-24e072.mp3",
-          "dauer": 98
+          "audio": "audio/2026-11-09/welt-neuseeland-wahl-bac802.mp3",
+          "dauer": 104
         }
       ]
     },
@@ -467,184 +595,184 @@
       "titel": "Extra",
       "meldungen": [
         {
-          "id": "extra-miller-stabschef",
-          "titel": "Stephen Miller wird Trumps Stabschef – Susie Wiles geht nach Wahlniederlage",
-          "text": "Nach der Niederlage der Republikaner bei den Zwischenwahlen ersetzt Präsident Trump seine Stabschefin Susie Wiles durch Stephen Miller. Miller, Architekt der harten Migrationspolitik, übernimmt am Montag eines der mächtigsten Ämter in Washington. Wiles wechselt in Trumps politische Organisation.",
-          "ausfuehrlich": "US-Präsident Donald Trump hat am Freitag Stephen Miller zum neuen Stabschef des Weissen Hauses ernannt. Miller, bisher stellvertretender Stabschef und einer von Trumps engsten Beratern, tritt laut Weissem Haus und AP am Montag, 9. November, die Nachfolge von Susie Wiles an. Trump nannte ihn auf seiner Plattform Truth Social «einen meiner vertrauenswürdigsten Berater». Wiles trat laut AP nach dem Verlust beider Kongresskammern bei den Zwischenwahlen zurück und wechselt in Trumps politische Organisation.\n\nMiller gilt als Architekt einiger der härtesten innenpolitischen Massnahmen Trumps, vor allem in der Migrationspolitik: Einreiseverbote, Massenabschiebungen und Einschränkungen des Asylrechts tragen seine Handschrift. Wiles dagegen galt als disziplinierende, eher ausgleichende Kraft im Weissen Haus, die Trumps zweite Amtszeit organisatorisch stabilisiert hatte.\n\nDie Personalie fällt in eine schwierige Phase für Trump. Die Demokraten haben bei den Zwischenwahlen beide Kammern des Kongresses gewonnen; ab Januar kann Trump seine Gesetzesvorhaben kaum mehr ohne sie durchbringen, und es drohen zahlreiche Untersuchungen durch Kongressausschüsse.\n\nEinordnung: Mit Miller setzt Trump nicht auf Ausgleich mit der neuen Kongressmehrheit, sondern auf einen loyalen Hardliner. Beobachter erwarten, dass das Weisse Haus verstärkt mit Verordnungen regieren wird. Wie sich das auf laufende Verhandlungen, etwa mit Iran, auswirkt, ist offen.",
-          "datum": "2026-11-06",
+          "id": "extra-cop31-start",
+          "titel": "Klimakonferenz COP31 in Antalya beginnt",
+          "text": "Heute beginnt in der Türkei die UNO-Klimakonferenz COP31, sie dauert bis 20. November. Die Türkei ist Gastgeberin, Australien leitet die Verhandlungen. Im Zentrum stehen Klimafinanzierung, Anpassung und der Abschied von fossilen Energien.",
+          "ausfuehrlich": "In Antalya an der türkischen Mittelmeerküste beginnt heute die 31. UNO-Klimakonferenz. Bis zum 20. November verhandeln Delegationen aus fast allen Ländern der Welt. Eine Besonderheit: Die Türkei ist Gastgeberin, die formellen Verhandlungen leitet aber Australien. Diese Arbeitsteilung war ein Kompromiss, nachdem beide Länder die Konferenz austragen wollten.\n\nDie Ausgangslage ist laut AP schwierig. Hinter der Welt liegt ein Jahr mit verheerenden Wetterextremen, und der EU-Klimadienst Copernicus erwartet, dass 2026 die 1,5-Grad-Marke praktisch sicher überschreitet. Gleichzeitig stehen die Klimaziele unter Druck durch Kriege, hohe Energiepreise und den enormen Strombedarf von KI-Rechenzentren, wie der Sender CNA schreibt.\n\nDie Türkei will laut Al Jazeera die Elektrifizierung ins Zentrum stellen: Der Anteil von Strom am weltweiten Energieverbrauch soll bis 2035 auf 35 Prozent steigen. Kritiker bemängeln, dass das Ziel nicht vorschreibt, dass dieser Strom klimafreundlich erzeugt wird. Weitere Streitpunkte sind Geld für Entwicklungsländer zur Anpassung an den Klimawandel, ein Mechanismus für einen «gerechten Übergang» und die Frage, wie konkret der Ausstieg aus Kohle, Öl und Gas formuliert wird.\n\nAmnesty International forderte die Staaten auf, den Einfluss der fossilen Industrie zurückzudrängen, und kritisierte Australien dafür, gleichzeitig Kohle- und Gasprojekte auszubauen. Ob die Konferenz greifbare Ergebnisse bringt, wird sich erst in der zweiten Woche zeigen.",
+          "datum": "2026-11-09",
           "quelle": {
             "name": "AP",
-            "url": "https://apnews.com/article/susie-wiles-trump-miller-midterms-95690fe076f6bb8cfe2bf77435a1910d"
+            "url": "https://apnews.com/article/turkey-cop31-summit-climate-change-edd587ab19f3b57848b50f9dc724ba82"
           },
-          "thema": "US-Wahlen 2026",
+          "thema": "COP31",
           "stichworte": [
-            "USA",
-            "Stephen Miller",
-            "Susie Wiles",
-            "Weisses Haus"
+            "COP31",
+            "Klima",
+            "Türkei",
+            "Australien"
           ],
           "weitere_quellen": [
             {
-              "name": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
             },
             {
-              "name": "Weisses Haus",
-              "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
+              "name": "DW",
+              "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366"
             }
           ],
-          "kategorie": "Präsidenten & Regierungen",
-          "kontinent": "Nordamerika",
-          "land": "USA",
-          "audio": "audio/2026-11-07/extra-miller-stabschef-ca1698.mp3",
-          "dauer": 106
+          "kontinent": "Global",
+          "land": "Türkei",
+          "kategorie": "Klima & Umwelt",
+          "audio": "audio/2026-11-09/extra-cop31-start-efdfc2.mp3",
+          "dauer": 117
         },
         {
-          "id": "extra-rohstoffe-woche",
-          "titel": "Rohstoffe: Schwerste Woche seit April 2025 – Öl minus 13 Prozent, Gold plus 5 Prozent",
-          "text": "Nach dem Wahlsieg der Demokraten in den USA haben Rohstoffe ihre schwerste Woche seit April 2025 erlebt. Rohöl verlor rund 13 Prozent, Kupfer fiel auf den tiefsten Stand seit Juli. Edelmetalle waren die Ausnahme: Gold, Silber und Platin legten deutlich zu.",
-          "ausfuehrlich": "Die Rohstoffmärkte haben laut Saxo-Rohstoffchef Ole Hansen ihre schwerste Woche seit April 2025 hinter sich. Der Bloomberg-Rohstoffindex fiel um rund 4,5 Prozent; im Jahresvergleich liegt er dennoch etwa 27 Prozent im Plus, getrieben vom Energiesektor mit rund 80 Prozent. Am Freitag schloss WTI laut Marktdaten bei 90,83 Dollar je Fass, Brent bei 98,32 Dollar; Gold notierte bei rund 4075 Dollar je Unze.\n\nErdöl: Brent und WTI verloren in der Woche je knapp 13 Prozent. Händler setzten nach der Niederlage der Republikaner auf eine Verhandlungslösung zwischen den USA und Iran. Gegen Wochenende erholte sich Brent wieder Richtung 100 Dollar, weil die Hürden für einen Deal hoch bleiben. Wichtig für Konsumenten: Diesel und Kerosin bleiben knapp, weil Raffinerien im Nahen Osten weit unter Vorkriegsniveau arbeiten. Tiefere Rohölpreise kommen deshalb nicht voll an der Zapfsäule an. Auch der europäische Gaspreis (TTF) fiel um rund 16 Prozent.\n\nKupfer fiel um mehr als 4 Prozent auf den tiefsten Stand seit Juli. Grund sind laut Hansen Zweifel am Tempo des KI-Rechenzentrums-Ausbaus und geringere Erwartungen an US-Zölle auf raffiniertes Kupfer. Das physische Angebot bleibt aber knapp, auch weil Chile schwache Förderzahlen meldete.\n\nEdelmetalle waren die Gewinner: Gold plus 5 Prozent, Silber plus 5,7 Prozent, Platin plus 6,8 Prozent, gestützt von tieferen US-Renditen und einem schwächeren Dollar. Bei Agrarrohstoffen warnt Hansen vor einem stärker werdenden El Niño, der Ernten in Asien, Australien und Südamerika gefährden könnte. Marokko hat diese Woche bereits Tomatenexporte nach Afrika gestoppt, um die heimischen Preise zu senken.",
-          "datum": "2026-11-06",
+          "id": "extra-gold-oel",
+          "titel": "Gold steigt über 4100 Dollar, Öl gibt nach",
+          "text": "Der Goldpreis ist am Montagmorgen um rund 1,4 Prozent auf etwa 4124 Dollar je Unze gestiegen. Brent-Öl notiert bei rund 98 Dollar pro Fass, WTI bei etwa 91 Dollar. Händler verweisen auf nachlassende Sorgen um Lieferausfälle im Nahen Osten.",
+          "ausfuehrlich": "An den Rohstoffmärkten zeigt sich zum Wochenstart eine gegenläufige Bewegung. Gold legte am Montagmorgen laut Marktdaten um rund 1,4 Prozent auf etwa 4124 Dollar je Feinunze zu. Laut CNBC stützen die etwas tieferen Ölpreise das Edelmetall, weil sie die Inflationssorgen dämpfen und damit Hoffnungen auf tiefere Zinsen nähren.\n\nBeim Öl notierte die Nordseesorte Brent bei rund 98 Dollar pro Fass, die US-Sorte WTI bei etwa 91 Dollar. Händler verweisen auf geringere Erwartungen an Lieferausfälle im Nahen Osten, nachdem US-Präsident Trump sich zuletzt zu Friedensaussichten mit Iran geäussert hatte. Gleichzeitig bleibt die Lage um die US-Seeblockade gegen Iran angespannt, wie der Angriff auf einen Frachter im Golf von Oman am Wochenende zeigt. Die Kurse schwanken im Tagesverlauf; die Angaben beziehen sich auf den frühen Montagmorgen.\n\nDie vergangene Woche war für Rohstoffe aussergewöhnlich: Öl hatte rund 13 Prozent verloren, Gold rund 5 Prozent gewonnen. Der hohe Goldpreis spiegelt die anhaltende Unsicherheit wider – Kriege, Handelsstreit und die Frage, wie es mit den US-Zinsen weitergeht.\n\nFür Konsumentinnen und Konsumenten in der Schweiz wirkt sich vor allem der Ölpreis aus, etwa beim Heizöl und an der Tankstelle, allerdings mit Verzögerung. In dieser Woche dürften die US-Inflationszahlen am Dienstag die Richtung an den Märkten mitbestimmen.",
+          "datum": "2026-11-09",
           "quelle": {
-            "name": "Saxo",
-            "url": "https://www.home.saxo/en-gb/content/articles/commodities/commodities-weekly-election-shock-triggers-broad-selloff-with-precious-metals-the-exception-06112026"
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html"
           },
-          "thema": "Energie & Treibstoff",
+          "thema": "Edelmetalle",
           "stichworte": [
-            "Öl",
             "Gold",
-            "Kupfer",
-            "El Niño"
+            "Öl",
+            "Brent",
+            "Rohstoffe"
           ],
           "weitere_quellen": [
             {
-              "name": "The Edge (Marktdaten)",
-              "url": "https://edgeconsultancykw.com/commodities-wrap-06-november-2026/"
-            },
-            {
-              "name": "CNBC Africa / Reuters",
-              "url": "https://www.cnbcafrica.com/2026/morocco-pauses-tomato-exports-to-african-markets-amid-high-prices-at-home"
+              "name": "HDFC Sky",
+              "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-9-2026-brent-slips-to-98-wti-rises-to-91-supply-outlook-in-focus-amid-trump-peace-remarks"
             }
           ],
-          "kategorie": "Rohstoffe",
           "kontinent": "Global",
           "land": "mehrere",
-          "audio": "audio/2026-11-07/extra-rohstoffe-woche-a8852f.mp3",
-          "dauer": 137
+          "kategorie": "Rohstoffe",
+          "audio": "audio/2026-11-09/extra-gold-oel-f26f64.mp3",
+          "dauer": 104
         },
         {
-          "id": "extra-asien-boersen",
-          "titel": "Asiens Börsen brechen nach Nasdaq-Absturz ein",
-          "text": "Nach dem stärksten Tagesverlust des Nasdaq 100 seit März 2020 sind am Freitag auch die asiatischen Börsen eingebrochen, teils um bis zu rund 9 Prozent. Auslöser ist die Sorge, dass der Wahlsieg der Demokraten den KI-Boom und die Investitionen in Rechenzentren bremst. Besonders getroffen wurden Chip- und Technologiewerte.",
-          "ausfuehrlich": "Der Ausverkauf bei Technologieaktien hat am Freitag Asien erreicht. Laut der spanischen Agentur EFE fielen die wichtigsten Börsen der Region teils um bis zu rund 9 Prozent, der schlimmste Einbruch seit 2020. Am Donnerstag war bereits der Nasdaq 100 um etwa 6 Prozent abgestürzt, sein schlechtester Tag seit der Corona-Panik im März 2020. Welche Indizes genau wie stark fielen, geht aus den uns vorliegenden Berichten nicht im Detail hervor; die Zahl von 9 Prozent bezieht sich auf die stärksten Tagesverluste.\n\nAuslöser ist die Neubewertung nach den US-Zwischenwahlen. Die Demokraten haben beide Kongresskammern gewonnen, und Anleger fürchten, dass eine strengere Prüfung von Stromkosten, Wasserverbrauch und Umweltfolgen neue Rechenzentren verzögern könnte. Gerade asiatische Börsen wie jene in Taiwan, Südkorea und Japan sind stark von Chipherstellern und Zulieferern der KI-Industrie geprägt und deshalb besonders anfällig.\n\nSaxo-Stratege Ole Hansen spricht von der Verwundbarkeit «überfüllter» Anlagepositionen nach Jahren massiver Kapitalzuflüsse in KI-Werte. Gleichzeitig wurden Staatsanleihen gesucht, die Renditen sanken, und Erwartungen an eine weitere Zinserhöhung der US-Notenbank im Dezember gingen zurück.\n\nEinordnung: Ob es sich um eine kurze Korrektur oder um den Beginn einer grösseren Neubewertung des KI-Booms handelt, ist offen. Die Investitionspläne der grossen Tech-Konzerne laufen vorerst weiter, Google kündigte diese Woche sogar ein 17-Milliarden-Rechenzentrum in Wyoming an.",
-          "datum": "2026-11-06",
+          "id": "extra-boersen-erholung",
+          "titel": "Asiens Börsen erholen sich kräftig nach dem KI-Ausverkauf",
+          "text": "Nach dem KI-getriebenen Kurssturz der Vorwoche legen Asiens Börsen deutlich zu: Der japanische Nikkei steigt um rund 3,3 Prozent, Taiwans Taiex um rund 5,6 Prozent. Die US-Inflationszahlen am Dienstag gelten als wichtigster Termin der Woche.",
+          "ausfuehrlich": "Die Börsen in Asien haben zum Wochenstart einen Teil der Verluste der Vorwoche wettgemacht. Laut AP und Reuters stieg der japanische Leitindex Nikkei um rund 3,3 Prozent, Taiwans Taiex sogar um rund 5,6 Prozent. Getragen wurde die Erholung von Chipwerten, die zuvor besonders stark gefallen waren. Auch die US-Terminkontrakte deuteten auf einen freundlicheren Handelsstart an der Wall Street hin.\n\nIn der vergangenen Woche hatte ein Ausverkauf bei KI-Aktien die Märkte weltweit belastet. Auslöser waren Zweifel, ob sich die riesigen Investitionen in Rechenzentren rasch auszahlen. Am Wochenende kam die Nachricht dazu, dass Nvidia eine Untersuchung zum Verhältnis von Konzernchef Jensen Huang zu einer mutmasslichen chinesischen Agentin eingeleitet hat. Laut dem Finanzportal investingLive haben die asiatischen Märkte das bisher weitgehend ignoriert.\n\nWichtigster Termin der Woche sind laut CNBC die US-Konsumentenpreise am Dienstag, am Freitag folgen die Produzentenpreise. Fällt die Inflation höher aus als erwartet, könnten die Zinsen steigen, was vor allem Technologieaktien unter Druck setzen würde.\n\nFür Schweizer Anlegerinnen und Anleger ist die Entwicklung relevant, weil viele Pensionskassen und Fonds stark in US-Technologie investiert sind. Ob die Erholung anhält oder nur eine Gegenbewegung ist, bleibt offen.",
+          "datum": "2026-11-09",
           "quelle": {
-            "name": "swissinfo / EFE",
-            "url": "https://www.swissinfo.ch/spa/viernes%2c-6-de-noviembre-de-2026-%2808%2e00-gmt%29/92337558"
+            "name": "AP",
+            "url": "https://apnews.com/article/stocks-markets-ai-trump-oil-d938f8e6ff42b3706e1d36e6245ec56b"
           },
           "thema": "Börsen",
           "stichworte": [
             "Börse",
-            "Asien",
-            "KI-Aktien",
-            "Nasdaq"
+            "Nikkei",
+            "Taiex",
+            "KI-Aktien"
           ],
           "weitere_quellen": [
             {
-              "name": "Saxo",
-              "url": "https://www.home.saxo/en-gb/content/articles/commodities/commodities-weekly-election-shock-triggers-broad-selloff-with-precious-metals-the-exception-06112026"
+              "name": "Reuters via Investing.com",
+              "url": "https://www.investing.com/news/economy-news/asian-stocks-steady-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets-5010407"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
             }
           ],
-          "kategorie": "Wirtschaft & Börse",
           "kontinent": "Asien",
           "land": "mehrere",
-          "audio": "audio/2026-11-07/extra-asien-boersen-098da1.mp3",
-          "dauer": 113
+          "kategorie": "Wirtschaft & Börse",
+          "audio": "audio/2026-11-09/extra-boersen-erholung-02cac4.mp3",
+          "dauer": 101
         },
         {
-          "id": "extra-copernicus-15",
-          "titel": "Copernicus: 2026 überschreitet praktisch sicher die 1,5-Grad-Marke",
-          "text": "Der EU-Klimadienst Copernicus meldet den wärmsten Oktober seit Beginn der Messungen. 2026 wird damit nach 2024 praktisch sicher das zweite Kalenderjahr, das mehr als 1,5 Grad über dem vorindustriellen Niveau liegt. Die Meldung kommt kurz vor dem Start der Klimakonferenz COP31 am Montag.",
-          "ausfuehrlich": "Der Copernicus-Klimawandeldienst (C3S) der EU hat am Freitag gemeldet, dass der Oktober 2026 weltweit der wärmste Oktober seit Messbeginn war. Es war zudem der dritte Monat in Folge, der mehr als 1,5 Grad über dem vorindustriellen Niveau lag. Auf Basis der Daten bis Ende Oktober hält Copernicus es für praktisch sicher, mit über 99 Prozent Wahrscheinlichkeit, dass das ganze Jahr 2026 die 1,5-Grad-Schwelle überschreitet. Die geschätzte Spanne liegt bei 1,56 bis 1,61 Grad.\n\nDamit wäre 2026 nach 2024 das zweite Kalenderjahr über dieser Marke. Wahrscheinlich wird es laut Copernicus das zweitwärmste Jahr der Messgeschichte; die Chance, dass es 2024 einholt oder übertrifft, beziffert der Dienst auf etwa 20 Prozent. Für die Schweiz passt das zum Bild eines extremen Jahres: Der Bund schätzt die hitzebedingten Todesfälle des Sommers 2026 provisorisch auf rund 1260.\n\nWichtig zur Einordnung: Das 1,5-Grad-Ziel des Pariser Abkommens bezieht sich auf einen Durchschnitt über rund 20 Jahre, nicht auf einzelne Jahre. Ein oder zwei Jahre darüber bedeuten also nicht automatisch, dass das Ziel formal verfehlt ist. Viele Klimaforschende halten es aber für kaum noch erreichbar, ohne die Grenze vorübergehend zu überschreiten.\n\nDie Meldung kommt kurz vor der Weltklimakonferenz COP31, die am Montag im türkischen Antalya beginnt. Der Präsident der COP30, der Brasilianer André Corrêa do Lago, erwartet laut EFE, dass der Wahlsieg der Demokraten in den USA einen «immensen Einfluss» auf die Konferenz haben könnte.",
-          "datum": "2026-11-06",
+          "id": "extra-senegal-boot",
+          "titel": "Senegal: Dutzende Tote nach Untergang eines Migrantenboots",
+          "text": "Vor der Küste Senegals ist ein Boot mit Migrantinnen und Migranten gesunken. Die Zahl der Toten wird je nach Quelle mit 21 bis 35 angegeben, nur eine Person wurde laut Berichten lebend gerettet. Das Boot war auf der gefährlichen Atlantikroute Richtung Kanarische Inseln unterwegs.",
+          "ausfuehrlich": "Vor der Küste von Kébémer im Nordwesten Senegals ist am Wochenende eine Piroge, ein traditionelles Holzboot, mit Migrantinnen und Migranten gekentert. Das senegalesische Innenministerium meldete laut AP und DW zunächst mindestens 21 Tote. Spätere Berichte, etwa von Al Jazeera und Gulf News, sprechen von 34 bis 35 Toten. Die Angaben unterscheiden sich, weil die Bergung andauerte; die endgültige Zahl ist noch unklar. Laut Gulf News wurde nur eine Person lebend gerettet, die Suche nach Vermissten lief weiter.\n\nDas Boot war auf der Atlantikroute unterwegs, die von Westafrika zu den spanischen Kanarischen Inseln führt. Sie gilt als eine der gefährlichsten Migrationsrouten der Welt: Die Boote sind oft überladen, die Überfahrt dauert mehrere Tage, dazu kommen starke Strömungen und hohe Wellen.\n\nErst in der vergangenen Woche waren innerhalb einer Nacht über 1000 Menschen auf den Kanaren angekommen. Viele stammen aus Senegal, Mali, Gambia und Mauretanien. Sie fliehen vor Armut, fehlenden Perspektiven, Konflikten und den Folgen des Klimawandels, der etwa die Fischerei an der Küste trifft.\n\nDie Regierung in Dakar geht seit längerem gegen Schlepper vor. Hilfsorganisationen fordern dagegen mehr sichere und legale Wege nach Europa, damit Menschen nicht ihr Leben auf dem Meer riskieren.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "Copernicus",
-            "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
-          },
-          "thema": "COP31",
-          "stichworte": [
-            "Klima",
-            "Copernicus",
-            "1,5 Grad",
-            "Rekord"
-          ],
-          "weitere_quellen": [
-            {
-              "name": "Courthouse News",
-              "url": "https://www.courthousenews.com/copernicus-2026-virtually-certain-to-exceed-1-5-c-threshold/"
-            }
-          ],
-          "kategorie": "Klima & Umwelt",
-          "kontinent": "Global",
-          "land": "mehrere",
-          "audio": "audio/2026-11-07/extra-copernicus-15-ab3cf8.mp3",
-          "dauer": 131
-        },
-        {
-          "id": "extra-kanaren-migration",
-          "titel": "Über 1000 Migranten in einer Nacht auf den Kanaren – EU verteilt Asyl-Solidarität",
-          "text": "Auf den spanischen Kanarischen Inseln sind in einer einzigen Nacht mehr als 1000 Migrantinnen und Migranten angekommen, ein Mensch starb. Gleichzeitig hat die EU festgelegt, dass Spanien, Italien, Griechenland und Zypern 2027 vom neuen Solidaritätsmechanismus profitieren sollen. Belgien erlaubt künftig Hausdurchsuchungen bei abgewiesenen Migranten.",
-          "ausfuehrlich": "Die Atlantikroute nach Europa bleibt eine der gefährlichsten Migrationsrouten der Welt. Laut der türkischen Agentur Anadolu wurden in der Nacht auf Freitag mehr als 1000 Migrantinnen und Migranten an Land der Kanarischen Inseln gebracht; ein Mensch kam ums Leben. Die Inseln, vor allem El Hierro, sind bei solchen Ankunftswellen rasch überlastet. Die Boote starten meist in Westafrika, etwa in Senegal, Gambia oder Mauretanien, und sind oft tagelang auf dem offenen Meer.\n\nAuf EU-Ebene wurde gleichentags bekannt, welche Länder 2027 vom Solidaritätsmechanismus des neuen Asyl- und Migrationspakts profitieren sollen: Spanien, Italien, Griechenland und Zypern, wie Euronews berichtet. Andere Mitgliedstaaten müssen dann entweder Asylsuchende übernehmen oder finanzielle beziehungsweise operative Unterstützung leisten. Der Pakt tritt 2026 schrittweise in Kraft.\n\nGleichzeitig verschärfen einzelne Staaten ihren Kurs. Laut Reuters erlaubt Belgien der Polizei künftig Hausdurchsuchungen bei Personen ohne Aufenthaltsrecht, die eine Ausreiseanordnung ignorieren. Menschenrechtsorganisationen kritisieren solche Massnahmen in der Regel als unverhältnismässig; konkrete Reaktionen lagen uns noch nicht vor.\n\nEinordnung: Europa setzt parallel auf mehr Solidarität unter den Mitgliedstaaten und auf härtere Rückführungen. Für die Schweiz, die über Schengen und Dublin eng mit dem System verbunden ist, sind beide Entwicklungen relevant, zumal Italien erst diese Woche zugesagt hat, Dublin-Überstellungen wieder aufzunehmen.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "Anadolu",
-            "url": "https://www.aa.com.tr/en/europe/more-than-1-000-migrants-brought-ashore-in-spain-s-canary-islands-overnight-1-dead/4114398"
+            "name": "AP",
+            "url": "https://apnews.com/article/senegal-migrants-boat-deaths-23ac42374197523c90216dc48ab6f2ec"
           },
           "thema": "Migration Europa",
           "stichworte": [
+            "Senegal",
             "Kanaren",
-            "Spanien",
-            "EU-Asylpakt",
-            "Belgien"
+            "Atlantikroute",
+            "Bootsunglück"
           ],
           "weitere_quellen": [
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/11/06/spain-italy-greece-and-cyprus-to-benefit-from-eu-asylum-solidarity-scheme-in-2027"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/3fec1b0a85a0/world/belgium-allow-home-searches-suspected-illegal-migrants-2026-11-06/"
+              "name": "DW",
+              "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883"
             }
           ],
+          "kontinent": "Afrika",
+          "land": "Senegal",
           "kategorie": "Migration & Flucht",
-          "kontinent": "Europa",
-          "land": "Spanien",
-          "audio": "audio/2026-11-07/extra-kanaren-migration-161870.mp3",
-          "dauer": 119
+          "audio": "audio/2026-11-09/extra-senegal-boot-12cf4a.mp3",
+          "dauer": 104
         },
         {
-          "id": "extra-tansania-lissu",
-          "titel": "Tansania: Oppositionsführer Lissu vom Hochverrat freigesprochen, aber zu vier Jahren Haft verurteilt",
-          "text": "Ein Gericht in Dar es Salaam hat Tansanias Oppositionsführer Tundu Lissu vom Vorwurf des Hochverrats freigesprochen, ihn aber wegen Aufwiegelung zu vier Jahren Haft verurteilt. Menschenrechtsgruppen halten das Verfahren für politisch motiviert. Lissu will Berufung einlegen.",
-          "ausfuehrlich": "Tundu Lissu, Vorsitzender der grössten tansanischen Oppositionspartei Chadema und früherer Präsidentschaftskandidat, ist am Freitag vom Vorwurf des Hochverrats freigesprochen worden. Das Gericht in Dar es Salaam befand ihn laut Reuters aber der Aufwiegelung für schuldig und verurteilte ihn zu vier Jahren Gefängnis. Grundlage war eine Rede, in der Lissu laut Anklage gesagt hatte, die Opposition werde «die Wahl blockieren» und «Rebellion mobilisieren». Lissu plädierte auf nicht schuldig. Chadema-Sprecherin Brenda Rupia kündigte Berufung an.\n\nPolizei umstellte das Gericht, Lissu wurde in einem schwer bewachten Konvoi vorgeführt. Videos zeigten, wie er auf Swahili «Habt keine Angst!» rief. Er war im April 2025 festgenommen worden. Seine Verhaftung, der Ausschluss seiner Partei von der Wahl und Vorwürfe über verschleppte Regierungskritiker gelten als Hauptauslöser der schwersten Unruhen in Tansanias Geschichte rund um die Wahl im Oktober 2025.\n\nDamals wurden Hunderte Menschen getötet, als die Polizei in mehreren Städten auf Demonstrierende schoss. Eine von Präsidentin Samia Suluhu Hassan eingesetzte Kommission sprach im April von mindestens 518 Toten, gab aber den Protestierenden die Schuld. Die Regierung bestreitet übermässige Gewalt. Hassan wurde mit fast 98 Prozent der Stimmen zur Siegerin erklärt.\n\nEinordnung: Der US-Botschafter in Tansania erklärte, er verfolge den Prozess und seine Bedeutung für den Rechtsstaat genau. Lissu, der 2017 ein Attentat mit 16 Schüssen überlebte, ist für viele zum Symbol des Widerstands geworden. Das Urteil dürfte die Spannungen im Land nicht beruhigen.",
-          "datum": "2026-11-06",
+          "id": "extra-nasa-astronauten",
+          "titel": "Nasa sucht Astronauten für Mondmissionen – und 27 neue Himmelskörper hinter Neptun",
+          "text": "Die Nasa hat die Bewerbung für eine neue Astronautenklasse eröffnet, die auf dem Mond leben und arbeiten soll. Zudem haben Astronomen 27 bisher unbekannte Objekte jenseits des Neptuns entdeckt, die Hinweise auf die Entstehung des Sonnensystems geben könnten.",
+          "ausfuehrlich": "Die US-Raumfahrtbehörde Nasa sucht die nächste Generation von Astronautinnen und Astronauten. Laut Guardian hat sie die Bewerbungsphase für eine neue Klasse eröffnet, die auf einer künftigen Mondbasis leben und arbeiten und später auch Mars-Missionen vorbereiten soll. Im Rahmen des Artemis-Programms will die Nasa wieder Menschen auf den Mond bringen und dort eine dauerhafte Präsenz aufbauen. Die Auswahl ist traditionell sehr streng, die Ausbildung dauert mehrere Jahre.\n\nAuch aus den Randbereichen unseres Sonnensystems gibt es Neuigkeiten. Laut dem BBC Sky at Night Magazine haben Forschende 27 bisher unbekannte Himmelskörper jenseits des Neptuns entdeckt, sogenannte transneptunische Objekte. Diese eisigen Körper gelten als nahezu unveränderte Überreste aus der Frühzeit des Sonnensystems. Ihre Umlaufbahnen und Zusammensetzung können verraten, wie sich die Planeten vor rund 4,5 Milliarden Jahren gebildet und verschoben haben.\n\nDasselbe Magazin berichtet zudem über 84 ungewöhnliche «hypersoft» Röntgenquellen in sechs Galaxien, die Hinweise auf bestimmte Sternexplosionen (Supernovae vom Typ Ia) liefern könnten. Diese Deutung ist noch vorläufig.\n\nSolche Entdeckungen werden durch immer empfindlichere Teleskope und automatisierte Himmelsdurchmusterungen möglich. Fachleute erwarten in den nächsten Jahren viele weitere Funde im äusseren Sonnensystem.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "CNBC Africa / Reuters",
-            "url": "https://www.cnbcafrica.com/2026/tanzanian-court-finds-no-evidence-to-convict-opposition-leader-lissu-of-treason"
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
           },
-          "thema": "Tansania",
+          "thema": "Raumfahrt",
           "stichworte": [
-            "Tansania",
-            "Lissu",
-            "Opposition",
-            "Justiz"
+            "Nasa",
+            "Mond",
+            "Astronauten",
+            "Sonnensystem"
           ],
+          "weitere_quellen": [
+            {
+              "name": "BBC Sky at Night",
+              "url": "https://www.skyatnightmagazine.com/news/27-new-bodies-beyond-neptune"
+            }
+          ],
+          "kontinent": "Global",
+          "land": "USA",
+          "kategorie": "Wissenschaft & Weltraum",
+          "audio": "audio/2026-11-09/extra-nasa-astronauten-1a8871.mp3",
+          "dauer": 108
+        },
+        {
+          "id": "extra-myanmar-scam",
+          "titel": "Bis zu 1500 Filipinos sollen noch in Myanmars Betrugszentren festsitzen",
+          "text": "Laut einem früheren philippinischen Regierungsvertreter könnten noch bis zu 1500 Menschen aus den Philippinen in Betrugszentren in Myanmar festgehalten werden. Dort werden Menschen oft zu Online-Betrug gezwungen. Er fordert eine eigene Rettungseinheit.",
+          "ausfuehrlich": "In Myanmar werden nach wie vor zahlreiche ausländische Arbeitskräfte in sogenannten Scam-Zentren festgehalten. Laut einem Bericht der Khaleej Times sagte ein ehemaliger philippinischer Regierungsvertreter, es könnten noch bis zu 1500 Filipinos betroffen sein. Er forderte die Regierung in Manila auf, eine spezielle Einsatzgruppe zur Rettung zu bilden. Die Zahl ist eine Schätzung und nicht offiziell bestätigt.\n\nIn diesen Zentren, vor allem in Grenzgebieten zu Thailand, werden Menschen mit falschen Jobangeboten angelockt. Vor Ort nimmt man ihnen die Pässe ab und zwingt sie, im Internet Menschen auf der ganzen Welt zu betrügen, etwa mit vorgetäuschten Liebesbeziehungen oder angeblichen Krypto-Anlagen. Die UNO spricht von Hunderttausenden Betroffenen in Südostasien, von Menschenhandel und Zwangsarbeit.\n\nDie Lage wird durch den Bürgerkrieg in Myanmar erschwert. Viele Zentren liegen in Gebieten, die von bewaffneten Gruppen kontrolliert werden, und die Kämpfe greifen teils auf thailändisches Gebiet über. Die Asean-Staaten, die sich derzeit auf ein Gipfeltreffen vorbereiten, bemühen sich um eine gemeinsame Antwort, bisher mit begrenztem Erfolg.\n\nDas Thema betrifft auch Europa und die Schweiz, denn die Opfer der Betrugsmaschen sitzen weltweit. Behörden warnen regelmässig vor solchen Maschen, die oft über soziale Medien und Messenger beginnen.",
+          "datum": "2026-11-08",
+          "quelle": {
+            "name": "Khaleej Times",
+            "url": "https://www.khaleejtimes.com/world/asia/up-to-1500-filipinos-trapped-myanmar-scam-hubs"
+          },
+          "thema": "Menschenhandel",
+          "stichworte": [
+            "Myanmar",
+            "Philippinen",
+            "Menschenhandel",
+            "Online-Betrug"
+          ],
+          "kontinent": "Asien",
+          "land": "Myanmar",
           "kategorie": "Menschenrechte",
-          "kontinent": "Afrika",
-          "land": "Tansania",
-          "audio": "audio/2026-11-07/extra-tansania-lissu-a9df08.mp3",
-          "dauer": 130
+          "audio": "audio/2026-11-09/extra-myanmar-scam-9cadcf.mp3",
+          "dauer": 102
         }
       ]
     },
@@ -653,96 +781,120 @@
       "titel": "KI & Technologie",
       "meldungen": [
         {
-          "id": "ki-metr-anthropic",
-          "titel": "Unabhängige Prüfer: Anthropic entwickelt KI etwa doppelt so schnell wie zuvor",
-          "text": "Die Forschungsorganisation METR schätzt, dass Anthropic seine KI-Fähigkeiten derzeit etwa doppelt so schnell verbessert wie in einer früheren Phase, und zwar vor allem, weil KI-Werkzeuge den eigenen Forschenden helfen. Viele Belege hat Anthropic aber geschwärzt. Die Debatte über selbstbeschleunigende KI erhält damit neue Nahrung.",
-          "ausfuehrlich": "Die unabhängige Forschungsorganisation METR hat in einem Bericht vom 5. November geschätzt, dass Anthropic beim Ausbau seiner KI-Fähigkeiten derzeit etwa doppelt so schnell vorankommt wie in einer früheren Vergleichsperiode. Laut dem Branchendienst The Neuron untersuchte METR interne Entwicklungsdaten aus der Zeit vom 12. August bis zum 29. Oktober. Die Forschenden fanden Hinweise darauf, dass KI-Werkzeuge Anthropic-Mitarbeitende bei Aufgaben wie Programmieren und dem Auswerten von Experimenten deutlich schneller machen.\n\nWarum das wichtig ist: Wenn KI hilft, bessere KI zu bauen, könnten künftige Modelle ihre Nachfolger noch schneller entwickeln. Fachleute sprechen von rekursiver Selbstverbesserung. Laut METR stammt der Grossteil der beobachteten Beschleunigung aber noch daraus, dass KI Menschen unterstützt, und nicht daraus, dass sie eigenständig ganze Forschungsprojekte durchführt. Einen klaren Engpass, der eine weitere Beschleunigung im nächsten Jahr verhindern würde, sah METR nicht.\n\nDer Haken: Ein grosser Teil der Belege ist nicht öffentlich. METR erklärte, Anthropic habe die aussagekräftigsten Teile des rund 100-seitigen Berichts geschwärzt. Anthropic begründete das mit dem Schutz vertraulicher Informationen, die Konkurrenten helfen könnten. Die Öffentlichkeit soll also Schlussfolgerungen vertrauen, die sie selbst nicht prüfen kann.\n\nEinordnung: Der Bericht ist eine der ersten externen Messungen, wie stark KI die KI-Entwicklung selbst beschleunigt. Hinweis: Wir stützen uns auf eine Zusammenfassung von The Neuron, nicht auf den METR-Bericht im Original; die genauen Zahlen sind deshalb mit Vorsicht zu lesen.",
-          "datum": "2026-11-06",
+          "id": "ki-nvidia-huang",
+          "titel": "Nvidia untersucht Beziehung von Konzernchef Jensen Huang zu mutmasslicher chinesischer Agentin",
+          "text": "Der Verwaltungsrat von Nvidia hat eine unabhängige Untersuchung eingeleitet. Es geht um eine Affäre von CEO Jensen Huang mit einer Managerin, die laut Berichten vom chinesischen Geheimdienst angeworben wurde. Nvidia sieht bisher keine Hinweise, dass Geheimnisse abgeflossen sind; Huang hat sich entschuldigt.",
+          "ausfuehrlich": "Nvidia, das wichtigste Unternehmen der KI-Chipbranche, steht vor einer heiklen Untersuchung an seiner Spitze. Wie AP, NPR und CNBC berichten, hat der Verwaltungsrat eine unabhängige Prüfung der Beziehung zwischen Konzernchef Jensen Huang und einer chinesischen Staatsangehörigen eingeleitet. Die Frau, eine Managerin der Firma Megaspeed, soll laut Berichten vom chinesischen Ministerium für Staatssicherheit angeworben worden sein, um Informationen über Huang zu sammeln. Diese Darstellung stammt aus Medienberichten und ist nicht offiziell bestätigt.\n\nNvidia erklärte, man habe derzeit keinen Grund zur Annahme, dass die nationale Sicherheit oder Firmengeheimnisse gefährdet worden seien. Die Untersuchung solle aber alle verfügbaren Informationen prüfen. Huang entschuldigte sich für die Affäre und sagte zu, mit den Ermittlern zusammenzuarbeiten.\n\nDer Fall ist brisant, weil Nvidias Chips die Grundlage der meisten KI-Systeme weltweit bilden und Washington den Export der leistungsfähigsten Modelle nach China streng beschränkt. Ein möglicher Spionageversuch gegen den Chef des Unternehmens berührt damit direkt den Technologiewettlauf zwischen den USA und China.\n\nAn den asiatischen Börsen löste die Nachricht am Montag zunächst keine grösseren Verluste aus. Wie stark der Fall Huangs Stellung und das Verhältnis des Konzerns zur US-Regierung belastet, hängt vom Ergebnis der Untersuchung ab.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+            "name": "AP",
+            "url": "https://apnews.com/article/nvidia-jensen-huang-investigation-chinese-spy-68839e7ca6ba2b121529f7e475e501d6"
           },
-          "thema": "KI & Sicherheit",
+          "thema": "KI & Hardware",
           "stichworte": [
-            "Anthropic",
-            "METR",
-            "KI-Forschung",
-            "Selbstverbesserung"
+            "Nvidia",
+            "Jensen Huang",
+            "China",
+            "Spionage"
           ],
-          "kontinent": "Nordamerika",
-          "land": "USA",
-          "audio": "audio/2026-11-07/ki-metr-anthropic-dcc601.mp3",
-          "dauer": 122
+          "weitere_quellen": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+            }
+          ],
+          "audio": "audio/2026-11-09/ki-nvidia-huang-45663c.mp3",
+          "dauer": 104
         },
         {
-          "id": "ki-doj-taskforce",
-          "titel": "US-Justizministerium gründet «Super Intelligence Task Force»",
-          "text": "Das US-Justizministerium hat eine neue Einheit gegründet, die gesetzeswidrige Nutzungen fortgeschrittener KI untersuchen soll. Im Fokus stehen Bedrohungen durch ausländische Regierungen und kriminelle Organisationen sowie Betrug mit KI. Von Unternehmen erwartet das Ministerium Schutzmechanismen gegen Missbrauch.",
-          "ausfuehrlich": "Das US-Justizministerium hat eine «Super Intelligence Task Force» ins Leben gerufen. Die neue Einheit soll laut dem Branchendienst The Neuron unrechtmässige Nutzungen fortgeschrittener KI-Systeme untersuchen. Im Mittelpunkt stehen Bedrohungen durch ausländische Regierungen und kriminelle Organisationen sowie Betrugsfälle, bei denen KI-Technologien eingesetzt werden. Gleichzeitig erwartet das Ministerium von KI-Unternehmen, dass sie Schutzmechanismen aufrechterhalten, die Missbrauch erschweren.\n\nDer Zeitpunkt ist bemerkenswert. Erst diese Woche hat OpenAI mit GPT-6 Cyber ein Modell vorgestellt, das autorisierten Fachleuten hilft, Sicherheitslücken zu finden und Exploits zu entwickeln, und dessen Cyberfähigkeiten OpenAI selbst als «kritisch» einstuft. Solche Werkzeuge können Verteidigern helfen, aber in falschen Händen auch Angreifern. Dazu kommt die Sorge vor KI-gestütztem Betrug, etwa mit gefälschten Stimmen und Videos.\n\nWelche Befugnisse, welches Budget und wie viel Personal die Task Force erhält, geht aus den uns vorliegenden Informationen nicht hervor. Ebenso unklar ist, wie die Einheit mit den grossen KI-Labors zusammenarbeiten soll und ob sie auch Regeln für die Unternehmen selbst durchsetzen kann.\n\nEinordnung: Die Gründung zeigt, dass Washington fortgeschrittene KI zunehmend als Frage der nationalen Sicherheit und der Strafverfolgung behandelt und nicht nur als Wirtschaftsthema. Mit der neuen demokratischen Mehrheit im Kongress ab Januar dürfte auch die Debatte über gesetzliche Regeln für KI an Fahrt gewinnen. Hinweis: Diese Meldung stützt sich auf eine Zusammenfassung, nicht auf die Originalmitteilung des Ministeriums.",
-          "datum": "2026-11-06",
+          "id": "ki-trump-regeln",
+          "titel": "Trump zeigt sich offen für KI-Regeln – Demokraten planen eine Welle von Gesetzen",
+          "text": "US-Präsident Trump sagt, KI-Risiken liessen sich bewältigen, und signalisiert Offenheit für Leitplanken und eine Zusammenarbeit mit den Demokraten. Diese wollen nach der Machtübernahme im Kongress Gesetze zu Sicherheitstests, Haftung und Rechenzentren einbringen. Uneinigkeit in den eigenen Reihen und Trumps Veto bremsen.",
+          "ausfuehrlich": "Nach den Zwischenwahlen bewegt sich in der US-Debatte um die Regulierung künstlicher Intelligenz etwas. Präsident Donald Trump sagte laut Berichten, die Risiken von KI liessen sich bewältigen, und er habe nichts gegen gewisse Leitplanken. Er deutete an, dabei mit den Demokraten zusammenarbeiten zu können. Gleichzeitig betonte er, Regeln dürften die USA nicht hinter China zurückwerfen.\n\nDie Demokraten, die ab Januar beide Kammern kontrollieren, bereiten laut Medienberichten eine ganze Reihe von KI-Gesetzen vor: Pflichten zu Sicherheitstests grosser Modelle, Haftungsregeln für Schäden, mehr Aufsicht und Vorgaben für den Bau von Rechenzentren. Letzteres hat im Wahlkampf wegen steigender Strompreise viele Wählerinnen und Wähler beschäftigt.\n\nEinfach wird das nicht. Semafor und NBC berichten, dass die Demokraten untereinander uneinig sind, wie streng die Regeln sein sollen. Zudem kann Trump jedes Gesetz mit seinem Veto stoppen. Fachleute halten deshalb ein überparteiliches Gesetz zur KI-Sicherheit für den realistischsten Weg, während umfassende Regeln eher scheitern dürften.\n\nDie Entwicklung ist auch für Europa relevant: Die EU hat mit dem AI Act bereits verbindliche Regeln. Wie streng die USA regulieren, beeinflusst, wie die grossen KI-Firmen weltweit arbeiten.",
+          "datum": "2026-11-08",
           "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414"
           },
           "thema": "KI & Recht",
           "stichworte": [
             "USA",
-            "Justizministerium",
-            "KI-Missbrauch",
-            "Sicherheit"
-          ],
-          "kontinent": "Nordamerika",
-          "land": "USA",
-          "audio": "audio/2026-11-07/ki-doj-taskforce-27bef2.mp3",
-          "dauer": 123
-        },
-        {
-          "id": "ki-rechenzentren-gegenwind",
-          "titel": "Rechenzentren unter Druck: Börsensturz, Proteste und neue Regeln",
-          "text": "Der KI-Infrastruktur-Boom stösst auf wachsenden Widerstand: Chipaktien erlebten ihren schlechtesten Tag seit März 2020, von New York bis Amsterdam verschärfen Behörden Regeln für Rechenzentren. Trotzdem investiert Google 17 Milliarden Dollar in Wyoming, und OpenAI verspricht Gemeinden mehr Transparenz.",
-          "ausfuehrlich": "Für die KI-Branche war es eine unruhige Woche. Nach dem Wahlsieg der Demokraten bei den US-Zwischenwahlen erlebten Chipaktien laut mehreren Marktberichten ihren schlechtesten Tag seit März 2020. Anleger fragen sich, ob der Ausbau der KI-Infrastruktur im erwarteten Tempo weitergehen kann. Laut The Neuron verschärfen Behörden von New York bis Amsterdam die Auflagen für neue Rechenzentren, und in Amsterdam stürmten Protestierende die Baustelle eines Microsoft-Rechenzentrums.\n\nHinter dem Widerstand stehen handfeste Probleme: Grosse KI-Rechenzentren brauchen enorme Mengen Strom und Wasser, belasten lokale Netze und können die Strompreise für Haushalte erhöhen. Diese Themen spielten auch im US-Wahlkampf eine Rolle.\n\nDie Konzerne reagieren unterschiedlich. Google kündigte laut The Neuron eine Investition von 17 Milliarden Dollar in ein Rechenzentrum in Wyoming an, das teilweise von einer geplanten Brennstoffzellenanlage mit 702 Megawatt versorgt werden soll. OpenAI verspricht Gemeinden mehr Transparenz und will auf verpflichtende Geheimhaltungsvereinbarungen mit lokalen Behörden verzichten. Solche Vereinbarungen waren in den USA vielerorts kritisiert worden, weil Anwohner oft erst spät erfuhren, wer hinter einem Projekt steht.\n\nEinordnung: Rechenleistung ist der Engpass der KI-Entwicklung. Wenn Genehmigungen schwieriger werden, könnte das den Ausbau verlangsamen und die Kosten erhöhen. Ob die Börsenturbulenzen eine kurze Korrektur oder der Anfang einer Neubewertung sind, ist offen.",
-          "datum": "2026-11-06",
-          "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
-          },
-          "thema": "KI-Unternehmen",
-          "stichworte": [
-            "Rechenzentren",
-            "Google",
-            "OpenAI",
-            "Börse"
+            "Regulierung",
+            "Trump",
+            "Kongress"
           ],
           "weitere_quellen": [
             {
-              "name": "Saxo",
-              "url": "https://www.home.saxo/en-gb/content/articles/commodities/commodities-weekly-election-shock-triggers-broad-selloff-with-precious-metals-the-exception-06112026"
+              "name": "Semafor",
+              "url": "https://www.semafor.com/article/11/05/2026/democrats-are-fired-up-on-ai-consensus-is-harder"
+            },
+            {
+              "name": "Yahoo News",
+              "url": "https://www.yahoo.com/news/politics/articles/trump-says-ai-risks-managed-002858735.html"
             }
           ],
-          "kontinent": "Global",
-          "audio": "audio/2026-11-07/ki-rechenzentren-gegenwind-80f8f0.mp3",
-          "dauer": 112
+          "audio": "audio/2026-11-09/ki-trump-regeln-6edfe3.mp3",
+          "dauer": 99
         },
         {
-          "id": "ki-offene-modelle-baidu-tml",
-          "titel": "Neue offene Grossmodelle von Baidu und Thinking Machines",
-          "text": "Baidu hat mit ERNIE 5.5 Flash Base ein frei verfügbares Modell mit 280 Milliarden Parametern veröffentlicht. Thinking Machines Lab, das Start-up der früheren OpenAI-Technikchefin Mira Murati, stellte Inkling 2 Small vor und will die Gewichte nach weiteren Sicherheitstests freigeben. Der Wettbewerb bei offenen Modellen bleibt intensiv.",
-          "ausfuehrlich": "Zwei bemerkenswerte Modellveröffentlichungen zeigen, wie dynamisch der Markt für offene KI-Modelle ist. Der chinesische Konzern Baidu hat laut The Neuron ERNIE 5.5 Flash Base freigegeben, ein offen verfügbares Modell mit 280 Milliarden Parametern. Pro Anfrage sind davon nur rund 14 Milliarden aktiv; diese sogenannte Mixture-of-Experts-Architektur senkt den Rechenaufwand deutlich. Baidu hat bewusst das Basismodell ohne Feinabstimmung veröffentlicht, damit Entwicklerinnen und Entwickler es für eigene Anwendungen anpassen können.\n\nDas US-Start-up Thinking Machines Lab, gegründet von der früheren OpenAI-Technikchefin Mira Murati, stellte Inkling 2 Small vor. Das Modell ist auf Programmieren, visuelle Aufgaben und eigenständiges Arbeiten ausgelegt und hat 594 Milliarden Parameter, von denen rund 17 Milliarden pro Anfrage aktiv sind. Vorerst ist es über die hauseigene Plattform Tinker zugänglich; die Modellgewichte sollen laut Unternehmen erst nach zusätzlichen Sicherheitstests zum Herunterladen freigegeben werden.\n\nOffene Modelle sind wichtig, weil Firmen, Forschende und Behörden sie auf eigenen Servern betreiben, prüfen und anpassen können, ohne ihre Daten an einen US-Konzern zu senden. Chinesische Anbieter wie Baidu, Alibaba oder DeepSeek haben hier in den letzten Jahren stark aufgeholt. Gleichzeitig wird diskutiert, wie riskant es ist, sehr leistungsfähige Modelle frei zu verbreiten.\n\nHinweis: Die technischen Angaben stammen aus den Mitteilungen der Unternehmen, zusammengefasst von The Neuron; unabhängige Leistungsvergleiche liegen noch nicht vor.",
+          "id": "ki-deepmind-rsa",
+          "titel": "KI-Agenten von Google DeepMind finden Schwächen in alter Verschlüsselung",
+          "text": "Von Menschen angeleitete KI-Agenten haben laut Google DeepMind innert Wochen zwei neue Schwachstellen bei 1024-Bit-RSA gefunden, einem veralteten Verschlüsselungsstandard. Moderne Schlüssel mit 2048 Bit sind nicht betroffen. Die Angriffe sind bisher theoretisch und nicht umgesetzt.",
+          "ausfuehrlich": "Google DeepMind hat gezeigt, wie KI-Agenten in der Kryptografie-Forschung eingesetzt werden können. Von Menschen angeleitete Agenten fanden laut Fachberichten innerhalb weniger Wochen zwei neue Schwachstellen beim Verschlüsselungsverfahren RSA mit 1024 Bit Schlüssellänge. Dieser Standard gilt schon länger als veraltet, wird aber in alten Systemen noch eingesetzt.\n\nDie erste Schwachstelle betrifft digitale Signaturen: Unter bestimmten Bedingungen, wenn ein Angreifer einen grossen Teil der signierten Daten kontrolliert, bietet ein gängiges Auffüllverfahren laut den Berichten kaum Schutz. Ein vorgeschlagener Angriff wäre theoretisch etwa 1600-mal effizienter als bisher bekannt. Die zweite betrifft das gleichzeitige Knacken vieler 1024-Bit-Schlüssel, das sich dadurch deutlich verbilligen würde. Beide Angriffe sind bisher nur theoretisch beschrieben, umgesetzt wurden sie nicht.\n\nWichtig für die Einordnung: Moderne Schlüssel mit 2048 Bit oder mehr sind nicht betroffen. Für Alltagsnutzerinnen und -nutzer ändert sich damit nichts unmittelbar. Für Betreiber alter Systeme ist es aber ein weiteres Argument, veraltete Schlüssel endlich zu ersetzen.\n\nBedeutsam ist die Meldung vor allem, weil sie zeigt, wie schnell KI-Systeme inzwischen in hochspezialisierten Feldern wie Mathematik und IT-Sicherheit neue Erkenntnisse liefern. Das kann helfen, Lücken zu schliessen, aber auch Angreifern nützen. Auch Anthropic meldete zuletzt, sein Modell Claude habe kritische Lücken in der Virtualisierungssoftware Xen entdeckt.",
           "datum": "2026-11-06",
           "quelle": {
-            "name": "The Neuron",
-            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+            "name": "Interesting Engineering",
+            "url": "https://interestingengineering.com/ai-robotics/1600x-faster-google-deepmind-agents-expose-weaknesses-in-older-encryption-methods"
           },
-          "thema": "Offene KI-Modelle",
+          "thema": "KI & Sicherheit",
           "stichworte": [
-            "Baidu",
-            "ERNIE",
-            "Thinking Machines",
-            "Open Source"
+            "DeepMind",
+            "Verschlüsselung",
+            "RSA",
+            "IT-Sicherheit"
           ],
-          "kontinent": "Global",
-          "audio": "audio/2026-11-07/ki-offene-modelle-baidu-tml-c70ad8.mp3",
-          "dauer": 116
+          "weitere_quellen": [
+            {
+              "name": "Tech AI Latest – Wochenüberblick",
+              "url": "https://techailatest.news/weekly/2026-W45"
+            }
+          ],
+          "audio": "audio/2026-11-09/ki-deepmind-rsa-34ef87.mp3",
+          "dauer": 114
+        },
+        {
+          "id": "ki-rechenzentren-strom",
+          "titel": "Wer zahlt den Strom der KI? OpenAI verspricht volle Kostenübernahme, Google investiert 17 Milliarden in Wyoming",
+          "text": "Nach Wählerunmut über steigende Strompreise verspricht OpenAI, dass eigene Rechenzentren die vollen Kosten für Strom und Netzausbau tragen. Google übernimmt ein unfertiges Rechenzentrumsprojekt in Wyoming und kündigt 17 Milliarden Dollar Investitionen an. Wer die Versprechen durchsetzt, ist offen.",
+          "ausfuehrlich": "Der enorme Strombedarf von KI-Rechenzentren ist in den USA zu einem politischen Thema geworden. Bei den Zwischenwahlen spielte er in mehreren Regionen eine Rolle, weil Haushalte steigende Stromrechnungen mit dem Bau riesiger Rechenzentren in Verbindung bringen. OpenAI hat darauf laut CNBC mit einem neuen Vorschlag reagiert: Künftige Rechenzentren, die das Unternehmen selbst besitzt und betreibt, sollen die vollen Kosten für Strom und nötige Netzausbauten tragen, damit diese nicht auf andere Stromkunden abgewälzt werden.\n\nKritiker fragen allerdings, wer ein solches Versprechen überprüft und durchsetzt. Yahoo Finance weist darauf hin, dass es sich um eine freiwillige Zusage handelt; viele Rechenzentren, die OpenAI nutzt, werden zudem von Partnerfirmen betrieben.\n\nGleichzeitig treiben die Konzerne den Ausbau weiter voran. Google übernimmt laut TechCrunch und Bloomberg ein in Schwierigkeiten geratenes Rechenzentrumsprojekt der Firma Crusoe in Wyoming und kündigt Investitionen von 17 Milliarden Dollar an. Dazu gehört laut Google ein Brennstoffzellen-Kraftwerk mit 702 Megawatt und CO₂-Abscheidung.\n\nDie Debatte dürfte sich verschärfen: Die Demokraten wollen im neuen Kongress auch Regeln für Rechenzentren einbringen, und auch in Europa wächst der Widerstand, wie die Proteste gegen ein Microsoft-Rechenzentrum in Amsterdam zeigen. An der Klimakonferenz COP31 ist der Strombedarf der KI ebenfalls ein Thema.",
+          "datum": "2026-11-06",
+          "quelle": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+          },
+          "thema": "Rechenzentren",
+          "stichworte": [
+            "OpenAI",
+            "Google",
+            "Strom",
+            "Rechenzentren"
+          ],
+          "weitere_quellen": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+            },
+            {
+              "name": "Google Blog",
+              "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
+            }
+          ],
+          "audio": "audio/2026-11-09/ki-rechenzentren-strom-7baa4f.mp3",
+          "dauer": 110
         }
       ]
     }
